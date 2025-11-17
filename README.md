@@ -61,5 +61,27 @@ We aim to build a system that:
 
 ## Project Structure
 
-To be determined
+project-root/
+└── resume-parser/
+    ├── README.md
+    ├── .gitignore
+    ├── data/
+    │   ├── raw/         # Original dataset files
+    │   ├── processed/   # Cleaned and preprocessed data
+    │   └── samples/     # Example resumes for testing
+    ├── models/
+    │   └── spacy/       # Saved spaCy models and pipelines
+    ├── src/
+    │   ├── readers/     # File readers for different formats
+    │   │   ├── pdf_reader/
+    │   │   ├── docx_reader/
+    │   │   └── txt_reader/
+    │   ├── nlp/         # NLP utilities
+    │   │   └── spacy_loader/
+    │   └── classification/
+    │       └── category_map/
+    └── script/
+        ├── train_model/ # Train the classifier
+        └── parse_resume/ # Run parsing on new resumes
+
 
