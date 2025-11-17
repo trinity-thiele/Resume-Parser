@@ -61,5 +61,5 @@ We aim to build a system that:
 
 ## Project Structure
 
-_To be determined (will be updated as the project evolves)._
+To be determined
 
