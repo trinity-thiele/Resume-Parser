@@ -61,3 +61,22 @@ We aim to build a system that:
 
 ## Project Structure
 
+.
+└── resume-parser/
+    ├── README.md
+    ├── .gitignore
+    ├── data/
+    │   ├── raw/ # Raw data
+    │   ├── processed/ # Cleaned data
+    │   ├── training/ # Processed data for training
+    │   └── testing/ # Processed data for testing
+    ├── models/
+    │   ├── spacy_data # Where all the spaCy stuff is stored
+    │   ├── spacy_layout_data # Where all the spaCy Layout stuff is stored
+    │   └── bag_of_words # Where all the Bag of Words stuff is stored
+    ├── nlp/
+    │   └── spacy_loader # Where spaCy is being used
+    └── script/
+        ├── train_model # Where the model is being trained
+        ├── test_model # Where the model is being tested
+        └── parse_resume # Parsing the resumes
