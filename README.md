@@ -61,22 +61,22 @@ We aim to build a system that:
 
 ## Project Structure
 
-.
-└── resume-parser/
-    ├── README.md
-    ├── .gitignore
-    ├── data/
-    │   ├── raw/ # Raw data
-    │   ├── processed/ # Cleaned data
-    │   ├── training/ # Processed data for training
-    │   └── testing/ # Processed data for testing
-    ├── models/
-    │   ├── spacy_data # Where all the spaCy stuff is stored
-    │   ├── spacy_layout_data # Where all the spaCy Layout stuff is stored
-    │   └── bag_of_words # Where all the Bag of Words stuff is stored
-    ├── nlp/
-    │   └── spacy_loader # Where spaCy is being used
-    └── script/
-        ├── train_model # Where the model is being trained
-        ├── test_model # Where the model is being tested
-        └── parse_resume # Parsing the resumes
+.  
+└── resume-parser/  
+    ├── README.md  
+    ├── .gitignore  
+    ├── data/  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── raw/ # Raw data  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── processed/ # Cleaned data  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── training/ # Processed data for training  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── testing/ # Processed data for testing  
+    ├── models/  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── spacy_data # Where all the spaCy stuff is stored  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── spacy_layout_data # Where all the spaCy Layout stuff is stored  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── bag_of_words # Where all the Bag of Words stuff is stored  
+    ├── nlp/  
+    │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── spacy_loader # Where spaCy is being used  
+    └── script/  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── train_model # Where the model is being trained  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── test_model # Where the model is being tested  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── parse_resume # Parsing the resumes  
