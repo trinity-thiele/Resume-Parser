@@ -1,7 +1,7 @@
 from pathlib import Path
 import spacy
 from spacy_layout import spaCyLayout
-from spacy_layout.layout import TABLE_PLACEHOLDER
+import os
 
 def read_document_with_tables(file_path, separator="\n\n"):
     file_path = Path(file_path)
@@ -21,39 +21,18 @@ def read_document_with_tables(file_path, separator="\n\n"):
     span_group = layout.attrs.span_group
     text = separator.join([span.text for span in doc.spans[span_group]])
 
-    # Extract tables
-    tables_md = []
-    for table_span in doc._.get(layout.attrs.doc_tables):
-        # Get table if available
-        df = getattr(table_span._, "data", None)
-        if df is not None:
-            # Convert table to markdown
-            md = df.to_markdown(index=False)
-            tables_md.append(md)
-        else:
-            # fallback to placeholder text
-            tables_md.append(TABLE_PLACEHOLDER)
+    return text
 
-    return text, tables_md
-
-def save_text_with_tables(text, tables, output_path):
+def save_text(text, output_path):
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(text)
-        f.write("\n\n")
-        if tables:
-            f.write("Tables:\n\n")
-            for i, table_md in enumerate(tables, 1):
-                f.write(f"Table {i}:\n")
-                f.write(table_md)
-                f.write("\n\n")
-    print(f"Text and tables saved to {output_path}")
 
 def main():
-    input_file = input("Enter path to PDF or DOCX file: ")
-    output_file = input("Enter path for output text file: ")
-
-    text_content, tables = read_document_with_tables(input_file)
-    save_text_with_tables(text_content, tables, output_file)
+    for filename in os.listdir("./"):
+        if filename.lower().endswith(".pdf"):
+            pdf_path = os.path.join("./", filename)
+            text= read_document_with_tables(pdf_path)
+            save_text(text, (filename[:-3] + "txt"))
 
 if __name__ == "__main__":
     main()
