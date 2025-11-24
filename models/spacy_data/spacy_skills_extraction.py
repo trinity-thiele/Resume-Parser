@@ -56,5 +56,4 @@ Fraud Analytics and investigative platform to review all red flag cases.
 Tools & Technologies: HTML, JavaScript, SqlServer, JQuery, CSS, Bootstrap, Node.js, D3.js, DC.js'''
 doc = nlp(text)
 for ent in doc.ents:
-    if (ent.label)
     print(ent.text, ent.label_)
