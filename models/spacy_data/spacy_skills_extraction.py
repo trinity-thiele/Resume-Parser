@@ -4,6 +4,10 @@ import spacy
 nlp = spacy.load('en_core_web_lg')
 
 # jsonl file
+# JSONL structure consists of key-value pairs. The value for patterns here is a list of spaCy token-attribute dictionaries.
+# Attributes used: TEXT - The exact verbatim text of a token, LOWER - The lowercase form of the token text
+# For example, [{"LOWER":"3d"},{"LOWER":"reconstruction"}] would match 3D Reconstruction, 3d Reconstruction, or 3d reconstruction.
+# There are 2,129 skill patterns in this jsonl file.
 skills_path = 'models/spacy_data/jz_skill_patterns.jsonl'
 
 # Add pipe to pretrained model
@@ -54,6 +58,7 @@ Fraud Analytics and investigative platform to review all red flag cases.
 Ã¢Â€Â¢ FAP is a Fraud Analytics and investigative platform with inbuilt case manager and suite of Analytics for various ERP systems.
 * It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics
 Tools & Technologies: HTML, JavaScript, SqlServer, JQuery, CSS, Bootstrap, Node.js, D3.js, DC.js'''
+
 doc = nlp(text)
 for ent in doc.ents:
     print(ent.text, ent.label_)

@@ -1,5 +1,5 @@
 {"label":"SKILL","pattern":[{"TEXT":".NET"}]}
-{"label":"SKILL","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"SKILL","pattern":[{"ORTH":"."},{"LOWER":"net"}]}
 {"label":"SKILL","pattern":[{"LOWER":"1password"}]}
 {"label":"SKILL","pattern":[{"TEXT":"3D"}]}
 {"label":"SKILL","pattern":[{"LOWER":"3d"},{"LOWER":"reconstruction"}]}
