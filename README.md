@@ -7,7 +7,7 @@
 Large companies and recruiters rarely have the time to manually review every resume they receive. Instead, they rely on automated systems and machine learning models to screen candidates. Unfortunately, many qualified applicants are filtered out—not because they lack skills, but because their resumes aren’t formatted or phrased in ways these algorithms can easily understand.
 
 This project aims to build an intelligent **Resume Parser + Categorizer** that:
-- Classifies resumes into appropriate job categories, and  
+- Classifies resumes into appropriate job categories
 - Provides constructive, model-backed feedback to help applicants improve their resumes for specific roles.
 
 ## Motivation
