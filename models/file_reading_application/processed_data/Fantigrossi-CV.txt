@@ -1,0 +1,44 @@
+RyanFantigrossi
+SUNYBrockport
+CONTACT
+ComputerScienceStudent
+INFORMATION
++1(585)300-1202
+rfant1@brockport.edu
+EDUCATION SUNYBrockport May2026
+B.A,ComputerScience
+ConcentrationinAdvancedComputing(ABETAccredited)
+MonroeCommunityCollege December2023
+Assoc,. ComputerScience
+TEACHING SUNYBrockport
+LabAssistant,ComputerScienceDepartment
+PROJECTS EDUAlly,SUNYBrockport August2024-present
+Lead the front-end and backend design of educational software utilizing Artificial Intelli-
+gence
+ResumeParser,SUNYBrockport October2025-present
+WorkedcollaborativelywithinalargegrouptodevelopaprogramutilizingArtificialIntel-
+ligencetoparseresumesofalltypesandformats.
+MySQLDatabase,SUNYBrockport March2025-May2025
+Lead large groups in the design of a database management system centered around online
+tournamentbasedbracketcreators.
+PatientPortal,SUNYBrockport September2025-present
+Createdwebsitemaximizeuseraccessibilitywithinhealthcare.
+PartnerforHonor’sUndergraduateThesis,SUNYBrockport October2025-present
+CollaboratedwithmathematicsfellowsatSUNYBrockporttoaidinthedevelopofapeer’s
+Undergraduatethesisonalgorithmstocalculatenon-commutativeGröbnerbasis.
+RESEARCH Artificial Intelligence, Deep/Machine Learning, Artificial Intelligence within Education,
+INTERESTS OptimizationstoProgramming
+AWARDS SunnkingScholarship,SUNYBrockport May2025
+ExceptionalEngagementAward,SyracuseUniversity May2025
+UndergraduateResearchAward May2025
+PRESENTATIONS K-means Clustering and Markov Chain Monte Carlo Algorithms, SUNY Brockport’s
+ScholarsDay,Consortium,&AISymposium VariousDates
+CONFERENCES
+ATTENDED BinghamtonUniversityGraduateCombinatorics,Algebra,andTopologyConferenceBing-
+hamtonUniversity November
+2025
+PROFESSIONAL SUNYBrockport
+SERVICE • Chair,ACMStudentChapterSpecialInterestGroupinArtificialIntelligence
+• President,BrockportComputingScienceClub
+• Member,CircleK
+1of1
