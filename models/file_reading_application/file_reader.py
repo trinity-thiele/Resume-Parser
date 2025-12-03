@@ -3,8 +3,8 @@ import os
 import pdfplumber
 from docx import Document
 
-UNPROCESSED_DIR = Path("../spacy_data/unprocessed_data")
-PROCESSED_DIR = Path("../spacy_data/processed_data")
+UNPROCESSED_DIR = Path("./unprocessed_data")
+PROCESSED_DIR = Path("./processed_data")
 
 def read_pdf(file_path):
     text_parts = []
