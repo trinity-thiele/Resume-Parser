@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 import pickle
-import re
 from pathlib import Path
 
 """
@@ -162,10 +161,10 @@ Example training script for the resume classifier
 """
 def train_bow_model():
     # Load clustered data
-    df = pd.read_csv('data/clustered/clustered_resumes_1.csv')
+    df = pd.read_csv('data/clustered/clustered_combined_dataset.csv')
     
     # Prepare data using cluster names as labels
-    X = df['Text'].values
+    X = df['Resume'].values
     y = df['cluster_name'].values 
     
     # Split data into training and test data

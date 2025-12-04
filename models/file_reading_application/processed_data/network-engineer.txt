@@ -1,0 +1,48 @@
+Janessa Billings
+555-555-5555 • Boston, MA 00000 • Janessa.Billings@email.com
+NETWORK ENGINEER
+IT | Project Management | Communication Systems
+Results-driven Network Engineer with in-depth knowledge and experience in planning, strategizing, and implementing new IT solutions facilitating corporate growth. Ability to successfully manage projects, supervise and motivate people. Utilizes a hands-on approach to root-cause analysis and troubleshooting efforts to resolve product performance issues. Collaborates cross-functionally to set project goals and timelines. Delivers results by maximizing organizational effectiveness and sustainability via leadership and problem-solving skills. Bilingual in English and Spanish.
+CORE SKILLS
+SELECTED ACCOMPLISHMENTS
+Launched Infrastructure: Introduced, implemented, and managed the company’s network from the ground up, progressively growing and expanding it to two other global locations.
+Streamlined and Increased Productivity:  Identified several workflow processes that were enhanced and increased efficiency and effectiveness.
+Manufacturing/Sales Support: Successfully supports and encourages use of new technology, increasing sales and profitability, expanding network to over 30 virtual/physical servers, 200+ workstations, and 250+ mobile devices, accommodating global company growth.
+Data Center Move/Upgrade: Successfully organized and led project, facilitating the move to a new building, including wiring, equipment and personnel.
+Virtualization: Supervised the virtualization of physical servers to the new VMware environment increasing network uptime to 99.8% by drastically reducing maintenance window.
+Communication Systems: Negotiated with vendors and led multiple communications projects to reduce cost and improve customer support, enabling customer relations agents to work from home as circumstances require.
+TECHNICAL SKILLS
+Networking: 	Active Directory, TCP/IP, VLANs, DNS, Wins, DHCP
+Servers/Software:  	Windows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace
+Virtualization/Storage & SANS:  	VMware Horizon, IBM Storwize V7000, Synology NAS
+Devices:   	 	Cisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and
+Controllers, Barracuda Archiver, Web/Spam Filters
+Telecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm
+Continued on next page
+Janessa Billings 	Page 2
+PROFESSIONAL EXPERIENCE
+Company One, Boston, MA	20XX – 20XX
+Network Engineer, 20XX – Present
+Network Administrator, 20XX – 20XX
+Programmer, 20XX – 20XX
+Promoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems. Leads IT projects from beginning to end with the ability to supervise and motivate others. Maintains a friendly, approachable style to collaborate and build relationships.
+Troubleshoots network and server systems to identify potential issues, determine solutions, and enhance productivity and profitability.
+Successfully migrates various systems to Google Workspace.
+Strategically selects and recommends network and communications systems to advance company goals and increase customer satisfaction.
+Oversees all network wiring and maintenance activities.
+Instrumental in the design, development, and execution of a new data center including fiber backbone installation and CAT6 wiring.
+Introduced and implemented a VOIP Cloud solution including the CJP Call Center platform providing employees with the opportunity of working from home.
+Facilitated the successful network integration of a Swiss Log Robot-based picking and palletizing system for higher warehouse performance.
+Supervised the set up and upgrade of the wireless environment.
+Designed and configured upgrades for Active Directory and TCP/IP communications.
+Programmed in RPG to develop and implement a staging system for the distribution area.
+Created software to automatically process and print forms.
+Performed adds, moves and changes to phone system and maintained company directory.
+EDUCATION AND CERTIFICATIONS
+Bachelor of Science, Electrical and Electronics Engineering, College One, Boston, MA
+Associate of Science, Pre-Engineering, College Two, Boston, MA
+Microsoft Certified Solutions Expert (MCSE)
+Project Management	Supervisory Skills	Troubleshooting
+Vendor/Contractor Management	Contract Negotiations	Innovative Technology
+Systems Integration	Strategic Design	Cost Effectiveness
+Problem Solving	Time Management	Oral & Written Skills
