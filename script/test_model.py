@@ -1,27 +1,24 @@
 import pandas as pd
-
-# Load the trained model
 import sys
 from pathlib import Path
+import os
+import re
+import numpy as np
 
 # Add project root to path so imports work from any location
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+# Assuming BagOfWords is correctly imported and available
 from models.bag_of_words.bag_of_words_model import BagOfWords
 
 project_root = Path(__file__).parent.parent
+# Define the directory containing the processed text files
+processed_data_dir = project_root / 'models' / 'file_reading_application' / 'processed_data'
+
 # Load model
 model = BagOfWords.load_model(project_root / 'models/bag_of_words/bow_model.pkl')
 
-# Single resume prediction
-# Test with a new resume
-with open(project_root / 'models/file_reading_application/processed_data/Fantigrossi-CV.txt', 'r') as file:
-    new_resume = file.read()
-# Clean resume using same cleaning function as used in data/clean/clean_datasets.py
-print("Original Resume Text:")
-print(new_resume)
 def clean_resume(text):
-    import re
     # Remove bullets (• or -) and asterisks
     text = re.sub(r'[•*-]', ' ', text)
     # Remove multiple spaces
@@ -30,27 +27,54 @@ def clean_resume(text):
     text = text.encode('ascii', 'ignore').decode('ascii')
     # Strip leading/trailing spaces
     return text.strip()
-new_resume = clean_resume(new_resume)
-print("\nCleaned Resume Text:")
-print(new_resume)
-predicted_category = model.predict([new_resume])[0]
-print(f"Predicted category: {predicted_category}")
 
-# Get probability for each category
-probabilities = model.predict_proba([new_resume])[0]
-for idx, prob in enumerate(probabilities):
-    print(f"Category {model.classifier.classes_[idx]}: {prob:.2%}")
+def main():
+    print(f"Starting classification on files in: {processed_data_dir}\n")
+
+    # Get the list of all category classes from the trained model
+    category_classes = model.classifier.classes_
     
-# # Batch test predictions
-# # Read test resumes from csv file
-# test_df = pd.read_csv(project_root / 'data/clean/information-tech-set.csv')
-# test_resumes = test_df['Resume'].tolist()
-# predicted_categories = model.predict(test_resumes)
-# test_df['Predicted_Category'] = predicted_categories
-# # Save predictions to a new csv file
-# test_df.to_csv(project_root / 'script/test_resumes_with_predictions.csv', index=False)
+    # Iterate over files in processed_data
+    for filename in os.listdir(processed_data_dir):
+        if filename.endswith(".txt"):
+            file_path = processed_data_dir / filename
+            print(f"Reading {filename}...")
 
-# # Print percentage of resumes predicted in each category
-# category_counts = test_df['Predicted_Category'].value_counts(normalize=True) * 100
-# for category, percentage in category_counts.items():
-#     print(f"Category {category}: {percentage:.2f}%")
+            with open(file_path, 'r', encoding='utf-8') as file:
+                raw_resume = file.read()
+
+            # Clean resume
+            cleaned_resume = clean_resume(raw_resume)
+            
+            if not cleaned_resume:
+                print(f"Skipping {filename}: Cleaned content is empty.")
+                print("-" * 30)
+                continue
+
+            # Get probability for all categories
+            probabilities = model.predict_proba([cleaned_resume])[0]
+            
+            # Combine categories and probabilities into a list of tuples
+            category_probs = list(zip(category_classes, probabilities))
+            
+            # Sort the list by probability in descending order
+            # item[1] is the probability percentage
+            category_probs.sort(key=lambda item: item[1], reverse=True)
+
+            # Get the top 3 categories
+            top_3_categories = category_probs[:3]
+            
+            # Display the results in the desired format
+            if top_3_categories:
+                print(f"Highest category: {top_3_categories[0][0]} {top_3_categories[0][1]:.2%}")
+            if len(top_3_categories) > 1:
+                print(f"Second highest category: {top_3_categories[1][0]} {top_3_categories[1][1]:.2%}")
+            if len(top_3_categories) > 2:
+                print(f"Third highest category: {top_3_categories[2][0]} {top_3_categories[2][1]:.2%}")
+            
+            print("-" * 30) # Separator
+
+if __name__ == '__main__':
+    main()
+
+# The original batch test predictions are removed for clarity
