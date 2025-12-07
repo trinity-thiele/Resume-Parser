@@ -1,9 +1,10 @@
 import pandas as pd
-# Manual clustering of 36 IT categories into logical groups
+# Manual clustering of IT categories into logical groups
+# Using clean combined dataset of resumes
 
-# Using raw data
-input_filepath = 'data/raw/resumes_1.csv'
-output_filepath = 'data/clustered/clustered_resumes_1.csv'
+# Using clean data
+input_filepath = 'data/clean/combined_dataset.csv'
+output_filepath = 'data/clustered/clustered_combined_dataset.csv'
 
 category_to_cluster = {
     # Cluster 0: Backend Development
@@ -26,6 +27,7 @@ category_to_cluster = {
     
     # Cluster 3: Data Science & AI/ML
     'Data Science': 3,
+    'Hadoop': 3,
     'Machine Learning Engineer': 3,
     'AI Engineer': 3,
     'ETL Developer': 3,
@@ -37,11 +39,13 @@ category_to_cluster = {
     
     # Cluster 5: DevOps & Cloud
     'DevOps': 5,
+    'DevOps Engineer': 5,
     'Cloud Engineer': 5,
     'Site Reliability Engineer': 5,
     
     # Cluster 6: Quality Assurance
     'Testing': 6,
+    'Automation Testing': 6,
     'QA Engineer': 6,
     
     # Cluster 7: Security
@@ -105,6 +109,9 @@ for cluster_id in sorted(cluster_names.keys()):
     for cat, count in cluster_data['Category'].value_counts().items():
         print(f"    - {cat}: {count}")
 
-# Save
-df.to_csv(output_filepath, index=False)
+# Keep only rows where cluster is not null
+df_filtered = df[df['cluster'].notna()]
+
+# Save filtered dataframe
+df_filtered.to_csv(output_filepath, index=False)
 print(f"Saved to {output_filepath}")

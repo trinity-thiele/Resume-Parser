@@ -1,0 +1,37 @@
+Naya Brown
+716-495-6073 | vnyabrown@gmail.com | github.com/vnyabrown | linkedin.com/in/naya-brown
+Education
+B.S. - Computer Science (Anticipated May 2025)
+SUNY Brockport
+Brockport, NY
+A.S. - Computer Science May 2023
+Erie Community College
+Williamsville NY
+Projects
+SUNY Brockport Clothes Closet App (Fall 2023 – Spring 2024)
+• Team lead of project to design and develop a clothing catalogue app for SUNY Brockport’s on-
+campus clothes closet.
+• Using agile methodology: distributed work for epics assigned by professor, conducted daily stand-
+ups, and kept a written chart of attendance and contributions by members.
+• Created use cases, sequence diagrams, and state diagrams detailing software requirements and
+workflow.
+• Developed using SQL, Java and HTML/CSS.
+Work Experience
+Wegmans – Cashier & Storefront Team Member
+Buffalo, NY ~ (March 2023 – Current / Seasonal)
+• Greet customers with a welcoming atmosphere, resolve costumer needs at point of sale.
+• Quickly address problems that arise, like troubles with register, customers needing help, calling
+a manager in tight situations, or replacing damaged bags/products
+• Work to fulfill store needs by assisting neighboring cashiers whenever possible, helping with
+responsibilities around store such as in-store shopping, cashing, managing meal orders while
+exercising food safety and team communication.
+Brockport Registrations & Records – Office Assistant
+Brockport, NY ~ (September 2023 – Current / Seasonal)
+• Help with computer and software tasks in the registrations and records office.
+• Ensure data confidentiality and safety while doing data entry for academic documents.
+• Diagnose and fix technical issues encountered while carrying out tasks such as scanner errors,
+software malfunctions or Wi-Fi connectivity issues.
+Technical Skills
+Languages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R
+Frameworks: React, NodeJS
+Version Control: Git/Github

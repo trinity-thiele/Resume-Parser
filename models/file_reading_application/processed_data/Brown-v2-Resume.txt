@@ -1,0 +1,48 @@
+Naya Brown
+716-495-6073 - vnyabrown@gmail.com - github.com/vnyabrown - linkedin.com/in/naya-brown
+Education
+B.S. - Computer Science (May 2025)
+SUNY Brockport
+Brockport, NY
+Projects
+● SUNY Brockport Clothes Closet App
+⎯ In an agile environment, lead a team of 5 students to design and develop a clothing
+catalogue application for SUNY Brockport’s on-campus clothes closet.
+⎯ Created use cases, sequence diagrams, and state diagrams detailing software
+requirements and workflow for ease of implementation.
+⎯ Developed using Java, HTML/CSS, and mySQL with an MVC structure.
+● EduAlly: AI Integrated Assessment Tool
+⎯ Collaborated with a team of 5-10 students in an agile environment to develop the
+frontend for an AI-integrated assessment web app using Typescript, React and user
+management through Clerk.
+⎯ Participated in daily scrum meetings for progress reports, sprint planning, and task
+management to ensure team efficiency.
+⎯ Worked closely with the backend team to design and implement a RESTful architecture,
+ensuring seamless API integration.
+Work Experience
+Wegmans Food Markets
+● Pharmacy Technician (August 2025 – Current)
+― Respond to customer inquiries regarding their medication while ensuring compliance with
+HIPAA regulations at each stage of distribution: processing, dispensing, and point of sale.
+― Use EnterpriseRX and data entry knowledge to process prescriptions, bill insurance and
+manage medication inventory with high proficiency to process and dispense hundreds of
+prescriptions daily.
+― Utilize quick thinking and analyzation skills to diagnose and fix computer software and
+medical hardware malfunctions for smooth daily operations.
+● Cashier & Storefront Team Member (March 2023 – August 2025)
+― Greeted customers with a welcoming aura, resolve customer needs at point of sale to ensure
+customers leave the store satisfied.
+― Exemplified quick thinking and problem solving by patiently reaching out to customers in
+need, brainstorming with managers and coworkers to ensure a steady workday.
+― Strengthened team spirit through volunteering to fulfill store needs, assisting neighboring
+cashiers, helping with in-store operations such as routine cleaning, curbside delivery and
+managing meal orders while meeting safety regulations and communicating efficiently.
+Technical Skills
+Languages: C, C++, Java, Python, SQL, R
+Web Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript
+Version Control: Git/Github
+Software: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx
+Awards & Community Engagement
+● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport
+● President of Computing Sciences Club @ SUNY Brockport
+● Girls in ICT Day Panel Speaker @ SUNY Brockport
