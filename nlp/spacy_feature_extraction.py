@@ -838,7 +838,7 @@ if __name__ == "__main__":
     
     # Option 2: Classify all PDFs in a folder
     # Compute project root and use absolute, project-relative paths so script works
-    project_root = Path(__file__).resolve().parent.parent.parent
+    project_root = Path(__file__).resolve().parent.parent
     RESUME_FOLDER = project_root / "models" / "file_reading_application" / "processed_data"
     output_json = project_root / "models" / "spacy_data" / "classified_resumes.json"
 
