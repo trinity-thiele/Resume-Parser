@@ -44,6 +44,7 @@ def save_text(text, output_path):
         f.write(text)
 
 def main():
+    print("Starting file processing...")
     for filename in os.listdir(UNPROCESSED_DIR):
         file_path = UNPROCESSED_DIR/filename
         if filename.lower().endswith(".pdf"):

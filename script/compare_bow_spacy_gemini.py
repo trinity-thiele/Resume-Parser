@@ -58,6 +58,7 @@ def compare_lists(a: List[str], b: List[str]) -> Dict[str, Any]:
 
 
 def main():
+    print("\nComparing Bag of Words and SpaCy/Gemini model results...\n")
     repo_root = Path(__file__).resolve().parent
     bow_path = repo_root / 'bow_results.json'
     spacy_path = Path(__file__).resolve().parent.parent / 'models' / 'spacy_data' / 'classified_resumes.json'

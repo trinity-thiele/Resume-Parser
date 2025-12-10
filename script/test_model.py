@@ -30,14 +30,16 @@ def clean_resume(text):
     return text.strip()
 
 def main():
-    print(f"Starting classification on files in: {processed_data_dir}\n")
+    print(f"\nStarting BOW classification on files in: {processed_data_dir}\n")
 
     # Get the list of all category classes from the trained model
     category_classes = model.classifier.classes_
     
     # Iterate over files in processed_data
+    numFiles = 0
     results = []
     for filename in os.listdir(processed_data_dir):
+        numFiles += 1
         if filename.endswith(".txt"):
             file_path = processed_data_dir / filename
             print(f"Reading {filename}...")
@@ -88,6 +90,7 @@ def main():
                 'bow_confidence': float(category_probs[0][1]),
                 'top_3_categories': top3_struct
             })
+    print(f"\nProcessed {numFiles} files.")
 
     # After processing all files, save results (if any)
     if results:
@@ -95,7 +98,7 @@ def main():
         out_path = Path(__file__).parent / 'bow_results.json'
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(json.dumps(results, indent=2, ensure_ascii=False), encoding='utf-8')
-        print(f"\nSaved combined results to: {out_path}")
+        print(f"\nSaved results to: {out_path}")
 
         # Build a compact CSV summary (one row per resume) with BOW results only
         summary_rows = []
