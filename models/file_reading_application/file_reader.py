@@ -44,12 +44,16 @@ def save_text(text, output_path):
         f.write(text)
 
 def main():
+    print("Starting file processing...")
     for filename in os.listdir(UNPROCESSED_DIR):
         file_path = UNPROCESSED_DIR/filename
         if filename.lower().endswith(".pdf"):
             text = read_pdf(file_path)
         elif filename.lower().endswith(".docx"):
             text = read_docx(file_path)
+        elif filename.lower().endswith(".txt"):
+            with open(file_path, "r", encoding="utf-8") as f:
+                text = f.read()
         else:
             continue
         

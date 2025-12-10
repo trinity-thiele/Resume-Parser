@@ -6,6 +6,11 @@ import re
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 
+# Get API key from environment variable
+from dotenv import load_dotenv
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+
 # Optional: pdfplumber for PDF extraction
 try:
     import pdfplumber
@@ -826,8 +831,6 @@ Be specific in your reasoning - mention actual skills or experiences from the re
 # ============================================================
 
 if __name__ == "__main__":
-    # Configuration - Alison API key 
-    API_KEY = "AIzaSyASKkXd5ZUQrzBjRW258KldC-qP-cxA-OM"
     
     # Initialize classifier
     classifier = ResumeClusterClassifier(api_key=API_KEY)

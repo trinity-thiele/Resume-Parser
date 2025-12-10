@@ -1,0 +1,13 @@
+file_name,bow_prediction,bow_confidence,bow_top3
+aws.txt,Backend Development,0.45578277164461406,Backend Development|Frontend Development|Content & Documentation
+Bickford-Resume.txt,Data Science & AI/ML,0.9831266996005088,Data Science & AI/ML|Specialized Technologies|Database Administration
+Brown-Resume.txt,Backend Development,0.5615806091588018,Backend Development|Data Science & AI/ML|Specialized Technologies
+Brown-v2-Resume.txt,Data Science & AI/ML,0.4605688767580448,Data Science & AI/ML|Frontend Development|Backend Development
+database-admin.txt,Database Administration,0.9999836658565777,Database Administration|Backend Development|Data Science & AI/ML
+Fantigrossi-CV.txt,Data Science & AI/ML,0.32117949378234806,Data Science & AI/ML|Quality Assurance|Database Administration
+network-engineer.txt,Security,0.9995203727913092,Security|Data Science & AI/ML|Database Administration
+old-example.txt,Data Science & AI/ML,0.809143702913959,Data Science & AI/ML|Frontend Development|Specialized Technologies
+old-example2.txt,Quality Assurance,0.36370317019646375,Quality Assurance|Data Science & AI/ML|Database Administration
+saws.txt,Backend Development,0.45578277164461406,Backend Development|Frontend Development|Content & Documentation
+Thiele-Resume.txt,Data Science & AI/ML,0.8416338066446417,Data Science & AI/ML|Frontend Development|Backend Development
+Tintera-Resume.txt,Backend Development,0.3808214123223302,Backend Development|Full Stack Development|Specialized Technologies
