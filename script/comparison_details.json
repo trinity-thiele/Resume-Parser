@@ -1,0 +1,167 @@
+[
+  {
+    "file_name": "aws.txt",
+    "bow_top3": [
+      "Backend Development",
+      "Frontend Development",
+      "Content & Documentation"
+    ],
+    "spacy_top3": [
+      "DevOps & Cloud",
+      "Systems Administration",
+      "Full Stack Development"
+    ],
+    "top1_match": false,
+    "top3_overlap": 0
+  },
+  {
+    "file_name": "Bickford-Resume.txt",
+    "bow_top3": [
+      "Data Science & AI/ML",
+      "Specialized Technologies",
+      "Database Administration"
+    ],
+    "spacy_top3": [
+      "Data Science & AI/ML",
+      "Content & Documentation",
+      "Quality Assurance"
+    ],
+    "top1_match": true,
+    "top3_overlap": 1
+  },
+  {
+    "file_name": "Brown-Resume.txt",
+    "bow_top3": [
+      "Backend Development",
+      "Data Science & AI/ML",
+      "Specialized Technologies"
+    ],
+    "spacy_top3": [
+      "Full Stack Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "top1_match": false,
+    "top3_overlap": 1
+  },
+  {
+    "file_name": "Brown-v2-Resume.txt",
+    "bow_top3": [
+      "Data Science & AI/ML",
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "spacy_top3": [
+      "Full Stack Development",
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "top1_match": false,
+    "top3_overlap": 2
+  },
+  {
+    "file_name": "database-admin.txt",
+    "bow_top3": [
+      "Database Administration",
+      "Backend Development",
+      "Data Science & AI/ML"
+    ],
+    "spacy_top3": [
+      "Database Administration",
+      "Specialized Technologies",
+      "Systems Administration"
+    ],
+    "top1_match": true,
+    "top3_overlap": 1
+  },
+  {
+    "file_name": "Fantigrossi-CV.txt",
+    "bow_top3": [
+      "Data Science & AI/ML",
+      "Quality Assurance",
+      "Database Administration"
+    ],
+    "spacy_top3": [
+      "Data Science & AI/ML",
+      "Backend Development",
+      "Full Stack Development"
+    ],
+    "top1_match": true,
+    "top3_overlap": 1
+  },
+  {
+    "file_name": "network-engineer.txt",
+    "bow_top3": [
+      "Security",
+      "Data Science & AI/ML",
+      "Database Administration"
+    ],
+    "spacy_top3": [
+      "DevOps & Cloud",
+      "Systems Administration",
+      "Engineering Leadership"
+    ],
+    "top1_match": false,
+    "top3_overlap": 0
+  },
+  {
+    "file_name": "old-example.txt",
+    "bow_top3": [
+      "Data Science & AI/ML",
+      "Frontend Development",
+      "Specialized Technologies"
+    ],
+    "spacy_top3": [
+      "Frontend Development",
+      "Full Stack Development",
+      "Backend Development"
+    ],
+    "top1_match": false,
+    "top3_overlap": 1
+  },
+  {
+    "file_name": "old-example2.txt",
+    "bow_top3": [
+      "Quality Assurance",
+      "Data Science & AI/ML",
+      "Database Administration"
+    ],
+    "spacy_top3": [
+      "Backend Development",
+      "Full Stack Development",
+      "DevOps & Cloud"
+    ],
+    "top1_match": false,
+    "top3_overlap": 0
+  },
+  {
+    "file_name": "Thiele-Resume.txt",
+    "bow_top3": [
+      "Data Science & AI/ML",
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "spacy_top3": [
+      "Data Science & AI/ML",
+      "Frontend Development",
+      "Full Stack Development"
+    ],
+    "top1_match": true,
+    "top3_overlap": 2
+  },
+  {
+    "file_name": "Tintera-Resume.txt",
+    "bow_top3": [
+      "Backend Development",
+      "Full Stack Development",
+      "Specialized Technologies"
+    ],
+    "spacy_top3": [
+      "Full Stack Development",
+      "DevOps & Cloud",
+      "Security"
+    ],
+    "top1_match": false,
+    "top3_overlap": 1
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "file_name": "aws.txt",
+    "bow_prediction": "Backend Development",
+    "bow_confidence": 0.4544106764986841,
+    "top_3_categories": [
+      {
+        "category": "Backend Development",
+        "probability": 0.4544106764986841
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.26442161887668386
+      },
+      {
+        "category": "Content & Documentation",
+        "probability": 0.1086381051583685
+      }
+    ]
+  },
+  {
+    "file_name": "Bickford-Resume.txt",
+    "bow_prediction": "Data Science & AI/ML",
+    "bow_confidence": 0.9838450352334046,
+    "top_3_categories": [
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.9838450352334046
+      },
+      {
+        "category": "Specialized Technologies",
+        "probability": 0.003449591180815514
+      },
+      {
+        "category": "Database Administration",
+        "probability": 0.002763808064654623
+      }
+    ]
+  },
+  {
+    "file_name": "Brown-Resume.txt",
+    "bow_prediction": "Backend Development",
+    "bow_confidence": 0.5670897130382869,
+    "top_3_categories": [
+      {
+        "category": "Backend Development",
+        "probability": 0.5670897130382869
+      },
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.15934535101446745
+      },
+      {
+        "category": "Specialized Technologies",
+        "probability": 0.07333673100230279
+      }
+    ]
+  },
+  {
+    "file_name": "Brown-v2-Resume.txt",
+    "bow_prediction": "Data Science & AI/ML",
+    "bow_confidence": 0.46166512617838995,
+    "top_3_categories": [
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.46166512617838995
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.43787162800379487
+      },
+      {
+        "category": "Backend Development",
+        "probability": 0.04954472690370839
+      }
+    ]
+  },
+  {
+    "file_name": "database-admin.txt",
+    "bow_prediction": "Database Administration",
+    "bow_confidence": 0.999983985217736,
+    "top_3_categories": [
+      {
+        "category": "Database Administration",
+        "probability": 0.999983985217736
+      },
+      {
+        "category": "Backend Development",
+        "probability": 1.244681528890742e-05
+      },
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 1.9312897344601763e-06
+      }
+    ]
+  },
+  {
+    "file_name": "Fantigrossi-CV.txt",
+    "bow_prediction": "Data Science & AI/ML",
+    "bow_confidence": 0.3252213710580495,
+    "top_3_categories": [
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.3252213710580495
+      },
+      {
+        "category": "Quality Assurance",
+        "probability": 0.14714643998757324
+      },
+      {
+        "category": "Database Administration",
+        "probability": 0.10648040991174605
+      }
+    ]
+  },
+  {
+    "file_name": "network-engineer.txt",
+    "bow_prediction": "Security",
+    "bow_confidence": 0.9995443243034382,
+    "top_3_categories": [
+      {
+        "category": "Security",
+        "probability": 0.9995443243034382
+      },
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.00019222537858808967
+      },
+      {
+        "category": "Database Administration",
+        "probability": 7.962124161161298e-05
+      }
+    ]
+  },
+  {
+    "file_name": "old-example.txt",
+    "bow_prediction": "Data Science & AI/ML",
+    "bow_confidence": 0.8100920057305169,
+    "top_3_categories": [
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.8100920057305169
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.05983566716518677
+      },
+      {
+        "category": "Specialized Technologies",
+        "probability": 0.039647160966439485
+      }
+    ]
+  },
+  {
+    "file_name": "old-example2.txt",
+    "bow_prediction": "Quality Assurance",
+    "bow_confidence": 0.367065395250579,
+    "top_3_categories": [
+      {
+        "category": "Quality Assurance",
+        "probability": 0.367065395250579
+      },
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.3496159995670967
+      },
+      {
+        "category": "Database Administration",
+        "probability": 0.17728117312691852
+      }
+    ]
+  },
+  {
+    "file_name": "Thiele-Resume.txt",
+    "bow_prediction": "Data Science & AI/ML",
+    "bow_confidence": 0.843733657212783,
+    "top_3_categories": [
+      {
+        "category": "Data Science & AI/ML",
+        "probability": 0.843733657212783
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.10548434656018163
+      },
+      {
+        "category": "Backend Development",
+        "probability": 0.0306332353657207
+      }
+    ]
+  },
+  {
+    "file_name": "Tintera-Resume.txt",
+    "bow_prediction": "Backend Development",
+    "bow_confidence": 0.38489926768618127,
+    "top_3_categories": [
+      {
+        "category": "Backend Development",
+        "probability": 0.38489926768618127
+      },
+      {
+        "category": "Full Stack Development",
+        "probability": 0.34039831120693476
+      },
+      {
+        "category": "Specialized Technologies",
+        "probability": 0.07074419987467548
+      }
+    ]
+  }
+]

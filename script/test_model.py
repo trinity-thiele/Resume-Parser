@@ -4,6 +4,7 @@ from pathlib import Path
 import os
 import re
 import numpy as np
+import json
 
 # Add project root to path so imports work from any location
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -35,6 +36,7 @@ def main():
     category_classes = model.classifier.classes_
     
     # Iterate over files in processed_data
+    results = []
     for filename in os.listdir(processed_data_dir):
         if filename.endswith(".txt"):
             file_path = processed_data_dir / filename
@@ -73,6 +75,42 @@ def main():
                 print(f"Third highest category: {top_3_categories[2][0]} {top_3_categories[2][1]:.2%}")
             
             print("-" * 30) # Separator
+
+            # Prepare top-3 structured data for persistence
+            top3_struct = [
+                {'category': str(cat), 'probability': float(prob)}
+                for cat, prob in top_3_categories
+            ]
+
+            results.append({
+                'file_name': filename,
+                'bow_prediction': category_probs[0][0],
+                'bow_confidence': float(category_probs[0][1]),
+                'top_3_categories': top3_struct
+            })
+
+    # After processing all files, save results (if any)
+    if results:
+        # Save full results (JSON) in the same directory as this script
+        out_path = Path(__file__).parent / 'bow_results.json'
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps(results, indent=2, ensure_ascii=False), encoding='utf-8')
+        print(f"\nSaved combined results to: {out_path}")
+
+        # Build a compact CSV summary (one row per resume) with BOW results only
+        summary_rows = []
+        for item in results:
+            row = {
+                'file_name': item.get('file_name'),
+                'bow_prediction': item.get('bow_prediction'),
+                'bow_confidence': item.get('bow_confidence'),
+                'bow_top3': '|'.join([t.get('category') for t in item.get('top_3_categories', [])])
+            }
+            summary_rows.append(row)
+
+        csv_path = Path(__file__).parent / 'bow_predictions.csv'
+        pd.DataFrame(summary_rows).to_csv(csv_path, index=False)
+        print(f"Saved CSV summary to: {csv_path}")
 
 if __name__ == '__main__':
     main()

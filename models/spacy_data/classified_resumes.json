@@ -3,27 +3,27 @@
     "file_name": "aws.txt",
     "extracted": {
       "skills": [
-        "unix",
-        "sql",
-        "linux",
-        "scrum",
-        "python",
-        "project management",
-        "agile",
         "amazon web services",
-        "java"
+        "linux",
+        "unix",
+        "scrum",
+        "project management",
+        "java",
+        "sql",
+        "agile",
+        "python"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "unix",
-        "sql",
-        "linux",
-        "scrum",
-        "python",
-        "project management",
-        "agile",
         "amazon web services",
-        "java"
+        "linux",
+        "unix",
+        "scrum",
+        "project management",
+        "java",
+        "sql",
+        "agile",
+        "python"
       ],
       "skills_with_context": [
         {
@@ -86,27 +86,27 @@
       "file_name": "aws.txt"
     },
     "classification": {
-      "primary_cluster": 2,
-      "primary_cluster_name": "Full Stack Development",
-      "confidence": 0.9,
+      "primary_cluster": 5,
+      "primary_cluster_name": "DevOps & Cloud",
+      "confidence": 0.85,
       "top_three_clusters": [
         {
-          "cluster": 2,
-          "name": "Full Stack Development",
-          "confidence": 0.9
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.85
         },
         {
           "cluster": 8,
           "name": "Systems Administration",
-          "confidence": 0.7
+          "confidence": 0.75
         },
         {
-          "cluster": 0,
-          "name": "Backend Development",
-          "confidence": 0.6
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.65
         }
       ],
-      "reasoning": "The resume strongly indicates Full Stack Development as the primary cluster. Key indicators include the 'Developed showcase app' experience, the 'Web Development Certification', and proficiency in core programming languages like `python`, `java`, and `sql`. The use of `agile` and `scrum` methodologies further supports a development context. The 'IT Helpdesk Intern' experience, combined with skills such as `unix`, `linux`, and tasks like 'Built employee workstations' and 'Assist and develop inventory system for IT equipment', also makes Systems Administration a strong secondary cluster. Backend Development is closely related to Full Stack and is directly supported by the listed programming languages and the app development experience, making it a relevant third cluster.",
+      "reasoning": "The resume strongly points to DevOps & Cloud. Key skills include `amazon web services`, `linux`, and `unix`, which are fundamental for cloud infrastructure and operations. The presence of programming languages like `java` and `python` (used for scripting and automation) along with `sql` demonstrates coding capabilities essential for DevOps. Methodologies such as `scrum` and `agile` are explicitly mentioned, indicating familiarity with modern software development and operations practices. The experience of 'Decrease hard drive wipe time by 80%' suggests process optimization and automation, which are core DevOps principles. Furthermore, 'Developed showcase app' highlights software development aptitude, crucial for building and maintaining CI/CD pipelines or infrastructure as code. While the role is 'IT Helpdesk Intern' and includes many Systems Administration tasks (building workstations, enrolling users), the blend of development skills, cloud technologies, and process improvement points to a strong potential and fit for a DevOps & Cloud career path. The 'Web Development Certification' and 'developed showcase app' also suggest Full Stack Development capabilities, making it a strong third cluster, and many aspects of the internship align with Systems Administration as a second cluster.",
       "success": true
     }
   },
@@ -134,12 +134,12 @@
     "classification": {
       "primary_cluster": 3,
       "primary_cluster_name": "Data Science & AI/ML",
-      "confidence": 0.98,
+      "confidence": 0.95,
       "top_three_clusters": [
         {
           "cluster": 3,
           "name": "Data Science & AI/ML",
-          "confidence": 0.98
+          "confidence": 0.95
         },
         {
           "cluster": 12,
@@ -147,12 +147,12 @@
           "confidence": 0.35
         },
         {
-          "cluster": 11,
-          "name": "Engineering Leadership",
-          "confidence": 0.2
+          "cluster": 6,
+          "name": "Quality Assurance",
+          "confidence": 0.15
         }
       ],
-      "reasoning": "The resume's strongest fit is overwhelmingly with Cluster 3: Data Science & AI/ML. This is evidenced by the explicit job title 'Graduate Assistant for Statistics and Data Science' (January 2025 – Current). The candidate holds a Master of Science and Bachelor of Science in Mathematics, along with a Bachelor of Science in Finance and a minor in Economics, providing a robust quantitative and analytical foundation. Work history includes extensive experience in tutoring and instructing various 'statistics courses' (Business Statistics, Intermediate Statistics, Psychology Statistics, Sociology Statistics) and 'enhancing students' analytical and quantitative skills'. Key skills listed include 'Analytical and problem-solving skills' and 'Minitab', a statistical software. The inclusion of 'Business Analyst' within the cluster definition further aligns with the candidate's finance, economics, and statistics background. \n\nThe second most appropriate cluster, albeit with significantly lower confidence, is Cluster 12: Content & Documentation. While there is no explicit technical writing experience, the resume heavily emphasizes 'Interpersonal communication skills' and a demonstrated ability to 'communicate this knowledge to others' through extensive tutoring and instructional roles. This experience in breaking down and explaining complex mathematical and statistical concepts to diverse audiences is a core transferable skill for technical writing. \n\nThe third cluster, Engineering Leadership (Cluster 11), is a weak third, mainly considering the 'Product Manager' aspect. The candidate's strong analytical and problem-solving skills, combined with academic 'leadership' roles ('Selected as the first Graduate Assistant', 'Promoted to Graduate Math Tutor', 'Recitation Leader', 'Supplemental Instructor') and a Finance/Economics background, could provide a foundation for a Product Manager role, which often requires quantitative analysis and communication skills. However, direct engineering or product management experience is absent.",
+      "reasoning": "The resume's primary strength lies in **Data Science & AI/ML (Cluster 3)** due to several key indicators: \n1.  **Education**: A Master of Science in Mathematics, Bachelor of Science in Mathematics, and Bachelor of Science in Finance with a Minor in Economics provide a strong quantitative, analytical, and business-oriented foundation essential for data science and analytics roles.\n2.  **Work History**: The role as 'Graduate Assistant for Statistics and Data Science' is a direct and explicit match, involving 'enhancing students' analytical and quantitative skills' and demonstrating 'knowledge in statistics'. Additionally, extensive experience as a 'Math Tutor' and 'Supplemental Instructor for various Statistics courses' (including Business, Intermediate, Psychology, and Sociology Statistics) further solidifies expertise in statistics and data analysis.\n3.  **Skills**: The explicit mention of 'Analytical and problem-solving skills' and 'Minitab' (a widely used statistical software package) directly supports capabilities in data analysis and statistical modeling.\n\nSecondary to this, the resume shows some applicability to **Content & Documentation (Cluster 12)**. The numerous roles as a 'Graduate Assistant', 'Math Tutor', 'Recitation Leader', and 'Supplemental Instructor' demonstrate exceptional 'Interpersonal communication skills' and the ability to explain complex mathematical and statistical concepts clearly and effectively to diverse audiences. This skill set is highly relevant for technical writing and creating clear documentation, even if the current content is academic rather than software-specific.\n\nA tertiary, albeit weaker, connection can be made to **Quality Assurance (Cluster 6)**. The profound understanding of 'Statistics' and proficiency with statistical tools like 'Minitab', coupled with 'Analytical and problem-solving skills', provides a strong foundation that could be applied to statistical process control, data analysis of quality metrics, and performance analysis, which are components of data-driven Quality Assurance roles, even without direct testing experience.",
       "success": true
     }
   },
@@ -170,15 +170,15 @@
         "Frameworks: React",
         "NodeJS",
         "Version Control: Git/Github",
-        "r",
-        "spring",
-        "github",
-        "css",
         "html",
-        "c",
-        "agile",
+        "r",
+        "git",
         "react",
-        "git"
+        "c",
+        "css",
+        "github",
+        "spring",
+        "agile"
       ],
       "skills_from_section": [
         "Languages: C",
@@ -193,20 +193,20 @@
         "Version Control: Git/Github"
       ],
       "skills_from_spacy": [
-        "sql",
-        "r",
-        "spring",
-        "github",
-        "css",
-        "python",
         "html",
-        "c",
-        "agile",
-        "react",
-        "javascript",
+        "r",
         "git",
+        "javascript",
+        "react",
+        "c",
+        "css",
         "c++",
-        "java"
+        "github",
+        "java",
+        "spring",
+        "sql",
+        "agile",
+        "python"
       ],
       "skills_with_context": [
         {
@@ -319,7 +319,7 @@
           "confidence": 0.8
         }
       ],
-      "reasoning": "The resume strongly indicates a Full Stack Development profile due to a comprehensive set of both frontend and backend technologies. Frontend skills include React, HTML/CSS, and Javascript. Backend skills include Java, Python, NodeJS, Spring, and SQL. The combination of these languages and frameworks (Java, Python, NodeJS for backend logic and APIs; SQL for database interaction; React, HTML/CSS, Javascript for user interfaces) is the hallmark of a Full Stack Developer. The Computer Science education further solidifies a foundational understanding for such roles. While there's a minor mention of 'r' and some basic technical troubleshooting experience, the core strength lies in web development technologies that span both client-side and server-side programming.",
+      "reasoning": "The resume strongly indicates a fit for Full Stack Development due to a comprehensive list of relevant skills. For frontend development, the candidate lists HTML/CSS, Javascript, and React. For backend development, they list Java, Python, NodeJS, Spring, and SQL. The combination of these skills covers both client-side and server-side development, making 'Full Stack Development' the most appropriate primary cluster. The B.S. in Computer Science further supports a strong foundation in software development. While the 'Office Assistant' experience includes basic technical troubleshooting ('Diagnose and fix technical issues encountered while carrying out tasks such as scanner errors, software malfunctions or Wi-Fi connectivity issues'), the core strength of this resume lies in the breadth of programming languages and frameworks.",
       "success": true
     }
   },
@@ -347,18 +347,18 @@
         "● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport",
         "● President of Computing Sciences Club @ SUNY Brockport",
         "● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-        "github",
-        "docker",
-        "c",
-        "agile",
-        "mysql",
-        "restful",
-        "r",
         "react",
-        "git",
-        "scrum",
+        "r",
         "css",
-        "html"
+        "html",
+        "git",
+        "mysql",
+        "c",
+        "github",
+        "restful",
+        "agile",
+        "docker",
+        "scrum"
       ],
       "skills_from_section": [
         "Languages: C",
@@ -383,25 +383,25 @@
         "● Girls in ICT Day Panel Speaker @ SUNY Brockport"
       ],
       "skills_from_spacy": [
-        "github",
-        "docker",
-        "postman",
-        "java",
-        "c",
-        "agile",
-        "mysql",
-        "sql",
-        "restful",
-        "r",
         "react",
-        "git",
-        "c++",
-        "scrum",
-        "css",
+        "sql",
         "python",
-        "html",
+        "r",
+        "css",
         "typescript",
-        "javascript"
+        "html",
+        "git",
+        "mysql",
+        "c",
+        "c++",
+        "github",
+        "postman",
+        "restful",
+        "agile",
+        "docker",
+        "scrum",
+        "javascript",
+        "java"
       ],
       "skills_with_context": [
         {
@@ -536,15 +536,15 @@
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.85
+          "confidence": 0.9
         },
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.8
+          "confidence": 0.9
         }
       ],
-      "reasoning": "The resume strongly indicates a fit for Full Stack Development due to the comprehensive list of both frontend and backend technologies. Frontend skills include `React.js/Next.js`, `HTML/CSS`, `Javascript`, and `Typescript`. Backend capabilities are demonstrated by `Java`, `Python`, `SQL`, `MySQL`, and an understanding of `RESTful` services. The `Computer Science` degree provides a solid foundation for software development, and `Docker` is a valuable skill in modern full-stack environments. The experience, while not directly technical development, highlights problem-solving and analytical skills applicable to software development.",
+      "reasoning": "The resume strongly indicates Full Stack Development due to a comprehensive set of skills covering both frontend and backend technologies. For frontend, the candidate lists 'React.js/Next.js', 'HTML/CSS', 'Javascript', and 'Typescript'. For backend, 'Java', 'Python', 'SQL', 'C', 'C++', 'restful', and 'mysql' are listed. Tools like 'Docker' and 'Git/Github' further support a full-stack profile. The B.S. in Computer Science provides a solid foundation for these roles. While the work experience is not directly technical, the listed technical skills are explicit and extensive, making Full Stack Development the most appropriate primary classification, with strong secondary fits for Frontend and Backend Development.",
       "success": true
     }
   },
@@ -552,29 +552,29 @@
     "file_name": "database-admin.txt",
     "extracted": {
       "skills": [
-        "unix",
-        "sql",
         "linux",
-        "apache",
-        "sap",
+        "unix",
         "xml",
-        "oracle",
         "c",
+        "oracle",
         "c++",
-        "java"
+        "sap",
+        "java",
+        "sql",
+        "apache"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "unix",
-        "sql",
         "linux",
-        "apache",
-        "sap",
+        "unix",
         "xml",
-        "oracle",
         "c",
+        "oracle",
         "c++",
-        "java"
+        "sap",
+        "java",
+        "sql",
+        "apache"
       ],
       "skills_with_context": [
         {
@@ -645,25 +645,25 @@
     "classification": {
       "primary_cluster": 4,
       "primary_cluster_name": "Database Administration",
-      "confidence": 0.95,
+      "confidence": 0.98,
       "top_three_clusters": [
         {
           "cluster": 4,
           "name": "Database Administration",
-          "confidence": 0.95
+          "confidence": 0.98
         },
         {
           "cluster": 10,
           "name": "Specialized Technologies",
-          "confidence": 0.8
+          "confidence": 0.75
         },
         {
-          "cluster": 0,
-          "name": "Backend Development",
+          "cluster": 8,
+          "name": "Systems Administration",
           "confidence": 0.65
         }
       ],
-      "reasoning": "The primary classification as Database Administration (Cluster 4) is strongly supported by the candidate's extensive experience as a 'Database Administrator' for over 13 years ('5/2010 to Present'). This is further reinforced by key skills such as 'sql' and 'oracle'.\n\nThe second top cluster, Specialized Technologies (Cluster 10), is identified due to the explicit mention of 'sap' in the skills section, which directly corresponds to this cluster.\n\nThe third top cluster, Backend Development (Cluster 0), is suggested by the presence of general-purpose programming languages like 'c', 'c++', and 'java' (common for Computer Science graduates), along with 'sql' and foundational operating system knowledge ('unix', 'linux', 'apache'). While the primary role is DBA, these skills indicate a strong foundation and potential for backend development work, which often interacts heavily with databases.",
+      "reasoning": "The primary classification is based on the candidate's extensive 13+ years of experience as a 'Database Administrator', which is a direct match for Cluster 4. This is strongly supported by core database skills such as 'oracle' and 'sql'. The inclusion of 'sap' in the skills suggests an alignment with Cluster 10, indicating potential experience with specialized ERP systems and their database components. Furthermore, skills like 'linux', 'unix', and 'apache' are common for Database Administrators who often manage the underlying operating systems and server infrastructure, thus indicating capabilities in Cluster 8: Systems Administration.",
       "success": true
     }
   },
@@ -702,15 +702,15 @@
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.05
+          "confidence": 0.1
         },
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.03
+          "confidence": 0.05
         }
       ],
-      "reasoning": "The resume explicitly lists 'machine learning' under the SKILLS section. This skill directly aligns with 'ML' (Machine Learning) which is a core component of 'Cluster 3: Data Science & AI/ML'. There is no other information (education or experience) provided to suggest a primary fit for any other cluster. Backend Development (Cluster 0) and Full Stack Development (Cluster 2) are included with very low confidence as machine learning models often require backend infrastructure for deployment or integration into full-stack applications, but this is a speculative inference given the limited data.",
+      "reasoning": "The resume explicitly lists 'machine learning' as the only skill. Cluster 3: Data Science & AI/ML directly encompasses 'ML' (Machine Learning) and 'AI', making it an exact match for the provided skill. Due to the lack of any other information in skills, education, or experience, the confidence for this cluster is absolute. Backend Development (Cluster 0) and Full Stack Development (Cluster 2) are included with very low confidence as machine learning models often require integration into backend systems or full-stack applications for deployment, but there is no explicit evidence for these on the resume.",
       "success": true
     }
   },
@@ -755,12 +755,12 @@
         "Rolm",
         "Continued on next page",
         "Janessa Billings \tPage 2",
-        "vpn",
-        "networking",
-        "virtualization",
         "vmware",
+        "project management",
+        "virtualization",
         "windows server",
-        "project management"
+        "networking",
+        "vpn"
       ],
       "skills_from_section": [
         "Networking: \tActive Directory",
@@ -802,14 +802,14 @@
         "Janessa Billings \tPage 2"
       ],
       "skills_from_spacy": [
-        "vpn",
-        "networking",
-        "virtualization",
         "vmware",
-        "tcp/ip",
-        "windows server",
-        "dns",
         "project management",
+        "virtualization",
+        "windows server",
+        "networking",
+        "dns",
+        "vpn",
+        "tcp/ip",
         "dhcp"
       ],
       "skills_with_context": [
@@ -873,27 +873,27 @@
       "file_name": "network-engineer.txt"
     },
     "classification": {
-      "primary_cluster": 8,
-      "primary_cluster_name": "Systems Administration",
-      "confidence": 0.95,
+      "primary_cluster": 5,
+      "primary_cluster_name": "DevOps & Cloud",
+      "confidence": 0.9,
       "top_three_clusters": [
+        {
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.9
+        },
         {
           "cluster": 8,
           "name": "Systems Administration",
-          "confidence": 0.95
+          "confidence": 0.85
         },
         {
           "cluster": 11,
           "name": "Engineering Leadership",
-          "confidence": 0.8
-        },
-        {
-          "cluster": 7,
-          "name": "Security",
           "confidence": 0.7
         }
       ],
-      "reasoning": "The resume's primary focus is on managing and maintaining IT infrastructure, which strongly aligns with Systems Administration. Key evidence includes skills like 'Windows Server 2008/2016', 'Active Directory', 'Exchange 2010', 'IIS', 'VMware Horizon', 'Veeam Backup', and the 'Microsoft Certified Solutions Expert (MCSE)' certification. The 'Network Administrator' role and responsibilities such as 'Troubleshoots network and server systems' further support this. \n\nThe candidate also demonstrates strong Engineering Leadership capabilities, explicitly stating 'Leads IT projects from beginning to end with the ability to supervise and motivate others,' and listing 'Project Management,' 'Supervisory Skills,' 'Vendor/Contractor Management,' and 'Contract Negotiations' as key skills. \n\nFinally, the resume shows significant involvement in Security, with experience managing 'Firewalls & VPN', 'Carbon Black Antivirus', 'Cisco Umbrella', and 'Web/Spam Filters', which are core components of network and system security management.",
+      "reasoning": "The resume strongly aligns with 'DevOps & Cloud' due to the individual's role as a 'Network Engineer' and 'Network Administrator' and extensive experience in designing, implementing, and migrating complex IT infrastructure. Specific skills and experiences include 'successfully migrates various systems to Google Workspace', 'introduced and implemented a VOIP Cloud solution', 'instrumental in the design, development, and execution of a new data center', and 'strategically selects and recommends network and communications systems'. The broad range of networking (TCP/IP, VLANs, DNS, Cisco & HP Switches, Firewalls, VPN) and virtualization (VMware Horizon) skills, along with an MCSE certification, are foundational to modern cloud and infrastructure engineering roles. While 'Systems Administration' is a very close second and encompasses many of the direct server and network management tasks (Windows Server, Exchange, Active Directory), the strategic, design, and cloud migration aspects push it more towards the 'DevOps & Cloud' cluster, which often includes advanced infrastructure and network engineering roles. Furthermore, the experience of 'Leads IT projects from beginning to end' and 'ability to supervise and motivate others', coupled with promotions and strategic decision-making, indicates a strong component of 'Engineering Leadership'.",
       "success": true
     }
   },
@@ -901,31 +901,31 @@
     "file_name": "old-example.txt",
     "extracted": {
       "skills": [
-        "restful",
+        "html",
+        "docker",
+        "git",
         "scrum",
+        "react",
+        "c",
         "kanban",
         "figma",
-        "docker",
-        "react",
-        "git",
-        "c",
-        "agile",
-        "html",
-        "java"
+        "restful",
+        "java",
+        "agile"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "restful",
+        "html",
+        "docker",
+        "git",
         "scrum",
+        "react",
+        "c",
         "kanban",
         "figma",
-        "docker",
-        "react",
-        "git",
-        "c",
-        "agile",
-        "html",
-        "java"
+        "restful",
+        "java",
+        "agile"
       ],
       "skills_with_context": [
         {
@@ -1000,13 +1000,28 @@
       "file_name": "old-example.txt"
     },
     "classification": {
-      "success": false,
-      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 3.564092879s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 3\n}\n]",
-      "primary_cluster": -1,
-      "primary_cluster_name": "unknown",
-      "confidence": 0.0,
-      "top_three_clusters": [],
-      "reasoning": "Failed to classify"
+      "primary_cluster": 1,
+      "primary_cluster_name": "Frontend Development",
+      "confidence": 0.95,
+      "top_three_clusters": [
+        {
+          "cluster": 1,
+          "name": "Frontend Development",
+          "confidence": 0.95
+        },
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.75
+        },
+        {
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.55
+        }
+      ],
+      "reasoning": "The resume strongly indicates a focus on Frontend Development. The primary project experience, 'EduAlly: AI Integrated Personal Assessment Tool', explicitly states the role as 'Frontend Team Member' and lists key frontend technologies used: 'Figma', 'React', and 'html' (from skills). The project description further mentions developing 'the frontend for an AI-integrated assessment web app'.\n\nFull Stack Development is a strong secondary cluster because the candidate's project involved working 'closely with the backend team to design and implement a scalable, RESTful architecture, ensuring seamless API integration.' This demonstrates an understanding of backend interaction. Skills like 'java', 'docker', and 'restful' also contribute to full-stack capabilities.\n\nBackend Development is a tertiary fit due to the 'java', 'c', and 'restful' skills, reinforced by the tutoring experience providing support in 'Java, C, and HTML', which covers common backend languages.",
+      "success": true
     }
   },
   {
@@ -1032,13 +1047,28 @@
       "file_name": "old-example2.txt"
     },
     "classification": {
-      "success": false,
-      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 59.035682985s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 59\n}\n]",
-      "primary_cluster": -1,
-      "primary_cluster_name": "unknown",
-      "confidence": 0.0,
-      "top_three_clusters": [],
-      "reasoning": "Failed to classify"
+      "primary_cluster": 0,
+      "primary_cluster_name": "Backend Development",
+      "confidence": 0.9,
+      "top_three_clusters": [
+        {
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.9
+        },
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.7
+        },
+        {
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.5
+        }
+      ],
+      "reasoning": "The only skill listed is 'spring'. In a technical context, 'spring' almost universally refers to the Spring Framework in Java. The Spring Framework is a predominant technology for building enterprise-level backend applications, RESTful APIs, and microservices. This directly aligns with 'Backend Development' (Cluster 0). As backend services are a core component of a complete application, 'Full Stack Development' (Cluster 2) is a strong secondary fit. Furthermore, applications developed with Spring require deployment and operational management, often involving cloud platforms and DevOps practices, thus linking to 'DevOps & Cloud' (Cluster 5).",
+      "success": true
     }
   },
   {
@@ -1096,15 +1126,15 @@
         "ACM Special Interest Group on Artificial Intelligence (ACM SIGAI) – Vice Chair",
         "SUNY Brockport Computing Sciences Club – Vice President",
         "Brockport Women in Technology (BWiT) – Treasurer",
-        "mysql",
-        "unix",
-        "sql",
-        "r",
-        "machine learning",
-        "agile",
-        "figma",
         "html",
-        "java"
+        "r",
+        "mysql",
+        "machine learning",
+        "unix",
+        "figma",
+        "java",
+        "sql",
+        "agile"
       ],
       "skills_from_section": [
         "Languages: Java",
@@ -1160,24 +1190,24 @@
         "Brockport Women in Technology (BWiT) – Treasurer"
       ],
       "skills_from_spacy": [
-        "mysql",
-        "kubernetes",
-        "unix",
-        "sql",
-        "r",
-        "docker",
-        "css",
-        "machine learning",
-        "agile",
-        "figma",
-        "next.js",
-        "python",
         "html",
-        "react",
+        "r",
+        "next.js",
         "git",
-        "typescript",
+        "docker",
+        "mysql",
         "javascript",
-        "java"
+        "machine learning",
+        "unix",
+        "react",
+        "css",
+        "typescript",
+        "figma",
+        "java",
+        "kubernetes",
+        "sql",
+        "agile",
+        "python"
       ],
       "skills_with_context": [
         {
@@ -1294,13 +1324,28 @@
       "file_name": "Thiele-Resume.txt"
     },
     "classification": {
-      "success": false,
-      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 54.165441716s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 54\n}\n]",
-      "primary_cluster": -1,
-      "primary_cluster_name": "unknown",
-      "confidence": 0.0,
-      "top_three_clusters": [],
-      "reasoning": "Failed to classify"
+      "primary_cluster": 3,
+      "primary_cluster_name": "Data Science & AI/ML",
+      "confidence": 0.85,
+      "top_three_clusters": [
+        {
+          "cluster": 3,
+          "name": "Data Science & AI/ML",
+          "confidence": 0.85
+        },
+        {
+          "cluster": 1,
+          "name": "Frontend Development",
+          "confidence": 0.8
+        },
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.7
+        }
+      ],
+      "reasoning": "The primary classification is Data Science & AI/ML (Cluster 3) due to several strong indicators:\n1.  **Relevant Current Coursework:** Explicitly lists 'AI & Machine Learning'.\n2.  **Project Experience:** 'EduAlly: AI Integrated Personal Assessment Tool' project name directly highlights AI integration.\n3.  **Affiliations & Memberships:** The candidate is the 'Vice Chair' of the 'ACM Special Interest Group on Artificial Intelligence (ACM SIGAI)', demonstrating a clear passion and leadership in the AI field.\n4.  **Skills:** Lists 'R (RStudio)' and 'machine learning' keyword, which are core to Data Science and AI/ML.\n\nFrontend Development (Cluster 1) is a strong secondary cluster because the candidate explicitly states 'develop the frontend' for the EduAlly project and lists comprehensive frontend skills such as 'React', 'Next.js', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Figma', and 'Tailwind'.\n\nFull Stack Development (Cluster 2) is the third top cluster as the candidate possesses a broad range of skills including strong frontend capabilities, along with backend languages like 'Java', 'Python', and 'SQL (MySQL)', and development tools like 'Docker' and 'Kubernetes'. Their involvement in 'general architecture' design for the project also supports a full-stack capability, covering aspects beyond just frontend.",
+      "success": true
     }
   },
   {
@@ -1362,21 +1407,21 @@
         "HONORS SOCIETIES AND AWARDS:",
         " SUNY Brockport Honors College: Pursuing Honors Degree",
         " President’s List Spring 2023 – Spring 2025",
-        "ssl",
-        "github",
-        "nginx",
-        "docker",
         "unit testing",
-        "agile",
         "r",
-        "restful",
-        "git",
+        "ssl",
         "gitlab",
-        "spring",
-        "gitlab ci",
+        "nginx",
         "html",
-        "project management",
-        "swagger"
+        "git",
+        "swagger",
+        "github",
+        "restful",
+        "spring",
+        "agile",
+        "docker",
+        "gitlab ci",
+        "project management"
       ],
       "skills_from_section": [
         "Technical: HTML",
@@ -1436,32 +1481,32 @@
         " President’s List Spring 2023 – Spring 2025"
       ],
       "skills_from_spacy": [
-        "ssl",
-        "github",
-        "nginx",
-        "docker",
-        "express.js",
-        "java",
-        "unit testing",
-        "agile",
         "sql",
+        "python",
+        "unit testing",
         "r",
-        "express",
-        "restful",
-        "git",
-        "gitlab",
-        "linux",
-        "spring",
-        "gitlab ci",
+        "node.js",
         "openapi",
         "css",
-        "node.js",
-        "python",
-        "html",
-        "project management",
-        "swagger",
         "typescript",
-        "javascript"
+        "ssl",
+        "gitlab",
+        "nginx",
+        "html",
+        "git",
+        "express",
+        "swagger",
+        "github",
+        "restful",
+        "spring",
+        "agile",
+        "linux",
+        "docker",
+        "javascript",
+        "gitlab ci",
+        "express.js",
+        "project management",
+        "java"
       ],
       "skills_with_context": [
         {
@@ -1626,13 +1671,28 @@
       "file_name": "Tintera-Resume.txt"
     },
     "classification": {
-      "success": false,
-      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 49.371350802s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 49\n}\n]",
-      "primary_cluster": -1,
-      "primary_cluster_name": "unknown",
-      "confidence": 0.0,
-      "top_three_clusters": [],
-      "reasoning": "Failed to classify"
+      "primary_cluster": 2,
+      "primary_cluster_name": "Full Stack Development",
+      "confidence": 0.95,
+      "top_three_clusters": [
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.95
+        },
+        {
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.85
+        },
+        {
+          "cluster": 7,
+          "name": "Security",
+          "confidence": 0.8
+        }
+      ],
+      "reasoning": "The resume strongly points to Full Stack Development due to the 'Computer Programmer Co-op' experience where the candidate 'Delivered a secure, full-stack internal portal (React.js, Express, SQLite3)'. This explicitly covers both frontend (React.js, HTML, CSS, Javascript, Typescript) and backend (Node.js, Express.js, Java, Python, SQL, SQLite3, RESTful APIs) technologies. The co-op also demonstrated significant skills in DevOps & Cloud, including 'hosted on Linux/Nginx with SSL and PM2 management', 'mirrored production locally via Docker', and mentions of Git/GitHub/GitLab and GitLab CI. Furthermore, the experience shows a clear focus on Security by 'Delivered a secure' portal, implementing 'Kerberos-based Active Directory authentication', and 'advanced security controls', along with SSL.",
+      "success": true
     }
   }
 ]
