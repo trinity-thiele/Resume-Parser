@@ -51,6 +51,9 @@ def main():
             text = read_pdf(file_path)
         elif filename.lower().endswith(".docx"):
             text = read_docx(file_path)
+        elif filename.lower().endswith(".txt"):
+            with open(file_path, "r", encoding="utf-8") as f:
+                text = f.read()
         else:
             continue
         

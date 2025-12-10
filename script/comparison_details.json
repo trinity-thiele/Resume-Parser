@@ -7,9 +7,9 @@
       "Content & Documentation"
     ],
     "spacy_top3": [
-      "DevOps & Cloud",
+      "Full Stack Development",
       "Systems Administration",
-      "Full Stack Development"
+      "DevOps & Cloud"
     ],
     "top1_match": false,
     "top3_overlap": 0
@@ -24,7 +24,7 @@
     "spacy_top3": [
       "Data Science & AI/ML",
       "Content & Documentation",
-      "Quality Assurance"
+      "Engineering Leadership"
     ],
     "top1_match": true,
     "top3_overlap": 1
@@ -68,11 +68,11 @@
     ],
     "spacy_top3": [
       "Database Administration",
-      "Specialized Technologies",
+      "Backend Development",
       "Systems Administration"
     ],
     "top1_match": true,
-    "top3_overlap": 1
+    "top3_overlap": 2
   },
   {
     "file_name": "Fantigrossi-CV.txt",
@@ -84,7 +84,7 @@
     "spacy_top3": [
       "Data Science & AI/ML",
       "Backend Development",
-      "Full Stack Development"
+      "DevOps & Cloud"
     ],
     "top1_match": true,
     "top3_overlap": 1
@@ -97,8 +97,8 @@
       "Database Administration"
     ],
     "spacy_top3": [
-      "DevOps & Cloud",
       "Systems Administration",
+      "DevOps & Cloud",
       "Engineering Leadership"
     ],
     "top1_match": false,
@@ -135,6 +135,21 @@
     "top3_overlap": 0
   },
   {
+    "file_name": "saws.txt",
+    "bow_top3": [
+      "Backend Development",
+      "Frontend Development",
+      "Content & Documentation"
+    ],
+    "spacy_top3": [
+      "Full Stack Development",
+      "Backend Development",
+      "Systems Administration"
+    ],
+    "top1_match": false,
+    "top3_overlap": 1
+  },
+  {
     "file_name": "Thiele-Resume.txt",
     "bow_top3": [
       "Data Science & AI/ML",
@@ -159,9 +174,9 @@
     "spacy_top3": [
       "Full Stack Development",
       "DevOps & Cloud",
-      "Security"
+      "Backend Development"
     ],
     "top1_match": false,
-    "top3_overlap": 1
+    "top3_overlap": 2
   }
 ]
