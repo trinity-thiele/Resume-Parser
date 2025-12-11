@@ -95,6 +95,25 @@
     ]
   },
   {
+    "file_name": "Eric Ocke Resume.txt",
+    "bow_prediction": "Backend Development",
+    "bow_confidence": 0.6447691341852817,
+    "top_3_categories": [
+      {
+        "category": "Backend Development",
+        "probability": 0.6447691341852817
+      },
+      {
+        "category": "Full Stack Development",
+        "probability": 0.18652563950980602
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.12704861773721832
+      }
+    ]
+  },
+  {
     "file_name": "Fantigrossi-CV.txt",
     "bow_prediction": "Data Science & AI/ML",
     "bow_confidence": 0.3252213710580495,
@@ -110,25 +129,6 @@
       {
         "category": "Database Administration",
         "probability": 0.10648040991174605
-      }
-    ]
-  },
-  {
-    "file_name": "network-engineer.txt",
-    "bow_prediction": "Security",
-    "bow_confidence": 0.9995443243034382,
-    "top_3_categories": [
-      {
-        "category": "Security",
-        "probability": 0.9995443243034382
-      },
-      {
-        "category": "Data Science & AI/ML",
-        "probability": 0.00019222537858808967
-      },
-      {
-        "category": "Database Administration",
-        "probability": 7.962124161161298e-05
       }
     ]
   },

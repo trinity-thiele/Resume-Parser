@@ -3,27 +3,27 @@
     "file_name": "aws.txt",
     "extracted": {
       "skills": [
-        "amazon web services",
-        "linux",
-        "unix",
         "scrum",
+        "amazon web services",
         "project management",
+        "python",
+        "agile",
+        "linux",
         "java",
         "sql",
-        "agile",
-        "python"
+        "unix"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "amazon web services",
-        "linux",
-        "unix",
         "scrum",
+        "amazon web services",
         "project management",
+        "python",
+        "agile",
+        "linux",
         "java",
         "sql",
-        "agile",
-        "python"
+        "unix"
       ],
       "skills_with_context": [
         {
@@ -86,27 +86,27 @@
       "file_name": "aws.txt"
     },
     "classification": {
-      "primary_cluster": 5,
-      "primary_cluster_name": "DevOps & Cloud",
+      "primary_cluster": 2,
+      "primary_cluster_name": "Full Stack Development",
       "confidence": 0.85,
       "top_three_clusters": [
         {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.85
+        },
+        {
           "cluster": 5,
           "name": "DevOps & Cloud",
-          "confidence": 0.85
+          "confidence": 0.8
         },
         {
           "cluster": 8,
           "name": "Systems Administration",
           "confidence": 0.75
-        },
-        {
-          "cluster": 2,
-          "name": "Full Stack Development",
-          "confidence": 0.65
         }
       ],
-      "reasoning": "The resume strongly points to DevOps & Cloud. Key skills include `amazon web services`, `linux`, and `unix`, which are fundamental for cloud infrastructure and operations. The presence of programming languages like `java` and `python` (used for scripting and automation) along with `sql` demonstrates coding capabilities essential for DevOps. Methodologies such as `scrum` and `agile` are explicitly mentioned, indicating familiarity with modern software development and operations practices. The experience of 'Decrease hard drive wipe time by 80%' suggests process optimization and automation, which are core DevOps principles. Furthermore, 'Developed showcase app' highlights software development aptitude, crucial for building and maintaining CI/CD pipelines or infrastructure as code. While the role is 'IT Helpdesk Intern' and includes many Systems Administration tasks (building workstations, enrolling users), the blend of development skills, cloud technologies, and process improvement points to a strong potential and fit for a DevOps & Cloud career path. The 'Web Development Certification' and 'developed showcase app' also suggest Full Stack Development capabilities, making it a strong third cluster, and many aspects of the internship align with Systems Administration as a second cluster.",
+      "reasoning": "The resume indicates strong potential and active engagement in software development. Key indicators include: 'Developed showcase app' and 'Assist and develop inventory system' which show practical development experience. The 'Web Development Certification' explicitly points towards web development, a core component of full-stack. Furthermore, the listed skills `python`, `java`, and `sql` are foundational for both backend and general application development. While the 'IT Helpdesk Intern' title suggests Systems Administration (Cluster 8) and many duties align there, the explicit development projects and certification indicate a strong pivot or interest towards a development role. The presence of `amazon web services`, `linux`, `unix`, and `scrum`/`agile` also strongly suggest a leaning towards DevOps & Cloud (Cluster 5) capabilities, often synergistic with full stack roles. Full Stack is chosen as primary due to the combination of backend language skills, a web development certification, and practical app development.",
       "success": true
     }
   },
@@ -142,17 +142,17 @@
           "confidence": 0.95
         },
         {
-          "cluster": 12,
-          "name": "Content & Documentation",
-          "confidence": 0.35
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.15
         },
         {
-          "cluster": 6,
-          "name": "Quality Assurance",
-          "confidence": 0.15
+          "cluster": 4,
+          "name": "Database Administration",
+          "confidence": 0.1
         }
       ],
-      "reasoning": "The resume's primary strength lies in **Data Science & AI/ML (Cluster 3)** due to several key indicators: \n1.  **Education**: A Master of Science in Mathematics, Bachelor of Science in Mathematics, and Bachelor of Science in Finance with a Minor in Economics provide a strong quantitative, analytical, and business-oriented foundation essential for data science and analytics roles.\n2.  **Work History**: The role as 'Graduate Assistant for Statistics and Data Science' is a direct and explicit match, involving 'enhancing students' analytical and quantitative skills' and demonstrating 'knowledge in statistics'. Additionally, extensive experience as a 'Math Tutor' and 'Supplemental Instructor for various Statistics courses' (including Business, Intermediate, Psychology, and Sociology Statistics) further solidifies expertise in statistics and data analysis.\n3.  **Skills**: The explicit mention of 'Analytical and problem-solving skills' and 'Minitab' (a widely used statistical software package) directly supports capabilities in data analysis and statistical modeling.\n\nSecondary to this, the resume shows some applicability to **Content & Documentation (Cluster 12)**. The numerous roles as a 'Graduate Assistant', 'Math Tutor', 'Recitation Leader', and 'Supplemental Instructor' demonstrate exceptional 'Interpersonal communication skills' and the ability to explain complex mathematical and statistical concepts clearly and effectively to diverse audiences. This skill set is highly relevant for technical writing and creating clear documentation, even if the current content is academic rather than software-specific.\n\nA tertiary, albeit weaker, connection can be made to **Quality Assurance (Cluster 6)**. The profound understanding of 'Statistics' and proficiency with statistical tools like 'Minitab', coupled with 'Analytical and problem-solving skills', provides a strong foundation that could be applied to statistical process control, data analysis of quality metrics, and performance analysis, which are components of data-driven Quality Assurance roles, even without direct testing experience.",
+      "reasoning": "The resume strongly aligns with Cluster 3 (Data Science & AI/ML) due to several key factors: \n1.  **Work History:** The explicit job title 'Graduate Assistant for Statistics and Data Science' directly mentions 'Data Science' and 'Statistics'. The roles involve organizing reviews and tutoring 'every statistics course' and enhancing students' 'analytical and quantitative skills'. The candidate was selected for these roles due to 'knowledge in statistics'.\n2.  **Skills:** 'Minitab' is a statistical software package commonly used in data analysis. 'Analytical and problem-solving skills' are core competencies for data science roles.\n3.  **Education:** The candidate is pursuing a Master of Science in Mathematics and holds Bachelor degrees in Mathematics and Finance, with a Minor in Economics. This strong quantitative background in mathematics, statistics (as evidenced by work history), finance, and economics is ideal for Data Science, Machine Learning, and particularly Business Analyst roles (which are included in this cluster definition).\n\nSecondary and tertiary clusters are much weaker fits. Cluster 0 (Backend Development) is considered due to the strong foundational mathematical, analytical, and problem-solving skills, which are crucial for algorithmic thinking and logic in backend development, assuming the acquisition of specific programming languages not listed on the resume. Cluster 4 (Database Administration) is a distant third, as the focus on statistics and data inherently involves working with structured data, and strong analytical skills could be transferable to understanding database structures and management, though no direct DBA experience or SQL skills are mentioned.",
       "success": true
     }
   },
@@ -170,15 +170,15 @@
         "Frameworks: React",
         "NodeJS",
         "Version Control: Git/Github",
-        "html",
+        "css",
         "r",
-        "git",
+        "spring",
         "react",
         "c",
-        "css",
+        "agile",
         "github",
-        "spring",
-        "agile"
+        "git",
+        "html"
       ],
       "skills_from_section": [
         "Languages: C",
@@ -193,20 +193,20 @@
         "Version Control: Git/Github"
       ],
       "skills_from_spacy": [
-        "html",
+        "css",
         "r",
-        "git",
+        "spring",
+        "c++",
         "javascript",
+        "java",
         "react",
         "c",
-        "css",
-        "c++",
-        "github",
-        "java",
-        "spring",
-        "sql",
         "agile",
-        "python"
+        "python",
+        "github",
+        "git",
+        "sql",
+        "html"
       ],
       "skills_with_context": [
         {
@@ -301,25 +301,25 @@
     "classification": {
       "primary_cluster": 2,
       "primary_cluster_name": "Full Stack Development",
-      "confidence": 0.95,
+      "confidence": 0.9,
       "top_three_clusters": [
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.95
+          "confidence": 0.9
         },
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.85
+          "confidence": 0.8
         },
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.8
+          "confidence": 0.75
         }
       ],
-      "reasoning": "The resume strongly indicates a fit for Full Stack Development due to a comprehensive list of relevant skills. For frontend development, the candidate lists HTML/CSS, Javascript, and React. For backend development, they list Java, Python, NodeJS, Spring, and SQL. The combination of these skills covers both client-side and server-side development, making 'Full Stack Development' the most appropriate primary cluster. The B.S. in Computer Science further supports a strong foundation in software development. While the 'Office Assistant' experience includes basic technical troubleshooting ('Diagnose and fix technical issues encountered while carrying out tasks such as scanner errors, software malfunctions or Wi-Fi connectivity issues'), the core strength of this resume lies in the breadth of programming languages and frameworks.",
+      "reasoning": "The resume prominently features a strong set of skills indicative of a general software developer, covering both frontend and backend technologies. For frontend, the candidate lists HTML/CSS, Javascript, and React. For backend, they have Java, Python, SQL, NodeJS, and Spring. The Computer Science degrees (A.S. and anticipated B.S.) provide a solid theoretical foundation. The inclusion of Git/Github and Agile further supports a software development trajectory. While current work experience is not directly in development, the breadth of technical skills strongly aligns with an aspiring Full Stack Developer, which encompasses both Backend and Frontend Development. Backend and Frontend are listed as secondary clusters due to the specific skills that align with each, with Full Stack being the most comprehensive classification for the candidate's current skillset.",
       "success": true
     }
   },
@@ -347,18 +347,18 @@
         "● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport",
         "● President of Computing Sciences Club @ SUNY Brockport",
         "● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-        "react",
-        "r",
+        "docker",
         "css",
         "html",
-        "git",
-        "mysql",
+        "react",
+        "r",
         "c",
         "github",
         "restful",
+        "scrum",
+        "mysql",
         "agile",
-        "docker",
-        "scrum"
+        "git"
       ],
       "skills_from_section": [
         "Languages: C",
@@ -383,25 +383,25 @@
         "● Girls in ICT Day Panel Speaker @ SUNY Brockport"
       ],
       "skills_from_spacy": [
-        "react",
-        "sql",
-        "python",
-        "r",
-        "css",
         "typescript",
-        "html",
-        "git",
-        "mysql",
-        "c",
-        "c++",
-        "github",
-        "postman",
-        "restful",
-        "agile",
         "docker",
+        "css",
+        "html",
+        "postman",
+        "react",
+        "r",
+        "c",
+        "python",
+        "github",
+        "restful",
+        "java",
         "scrum",
+        "c++",
         "javascript",
-        "java"
+        "mysql",
+        "agile",
+        "git",
+        "sql"
       ],
       "skills_with_context": [
         {
@@ -536,15 +536,15 @@
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.9
+          "confidence": 0.85
         },
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.9
+          "confidence": 0.85
         }
       ],
-      "reasoning": "The resume strongly indicates Full Stack Development due to a comprehensive set of skills covering both frontend and backend technologies. For frontend, the candidate lists 'React.js/Next.js', 'HTML/CSS', 'Javascript', and 'Typescript'. For backend, 'Java', 'Python', 'SQL', 'C', 'C++', 'restful', and 'mysql' are listed. Tools like 'Docker' and 'Git/Github' further support a full-stack profile. The B.S. in Computer Science provides a solid foundation for these roles. While the work experience is not directly technical, the listed technical skills are explicit and extensive, making Full Stack Development the most appropriate primary classification, with strong secondary fits for Frontend and Backend Development.",
+      "reasoning": "The resume strongly indicates a Full Stack Development profile due to the comprehensive list of both frontend and backend technologies. For frontend, skills include 'React.js/Next.js', 'HTML/CSS', 'Javascript', and 'Typescript'. For backend, 'C', 'C++', 'Java', 'Python', 'SQL', 'MySQL', and 'restful' APIs are listed. General development tools like 'Git/Github', 'Docker', and methodologies like 'scrum' and 'agile' further support a software developer role. The B.S. in Computer Science provides the foundational knowledge for such a career path. The experience, while not technical, shows problem-solving and analytical skills, which are transferable. The primary classification is Full Stack, with Frontend and Backend as very strong secondary classifications given the explicit mention of technologies spanning both ends of the stack.",
       "success": true
     }
   },
@@ -552,29 +552,29 @@
     "file_name": "database-admin.txt",
     "extracted": {
       "skills": [
-        "linux",
-        "unix",
+        "sap",
+        "c++",
+        "java",
         "xml",
         "c",
         "oracle",
-        "c++",
-        "sap",
-        "java",
+        "apache",
+        "linux",
         "sql",
-        "apache"
+        "unix"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "linux",
-        "unix",
+        "sap",
+        "c++",
+        "java",
         "xml",
         "c",
         "oracle",
-        "c++",
-        "sap",
-        "java",
+        "apache",
+        "linux",
         "sql",
-        "apache"
+        "unix"
       ],
       "skills_with_context": [
         {
@@ -645,25 +645,337 @@
     "classification": {
       "primary_cluster": 4,
       "primary_cluster_name": "Database Administration",
-      "confidence": 0.98,
+      "confidence": 1.0,
       "top_three_clusters": [
         {
           "cluster": 4,
           "name": "Database Administration",
-          "confidence": 0.98
+          "confidence": 1.0
+        },
+        {
+          "cluster": 8,
+          "name": "Systems Administration",
+          "confidence": 0.8
         },
         {
           "cluster": 10,
           "name": "Specialized Technologies",
+          "confidence": 0.7
+        }
+      ],
+      "reasoning": "The resume's primary classification is 'Database Administration' due to the explicit job title 'Database Administrator' held for over 13 years, from 5/2010 to Present. This is strongly supported by core skills such as 'oracle' and 'sql', which are fundamental to database management. \n\nThe second most appropriate cluster is 'Systems Administration' because the skills 'linux', 'unix', and 'apache' are commonly associated with managing the underlying operating systems and servers where databases reside, a task often performed by DBAs.\n\nThe third cluster, 'Specialized Technologies', is indicated by the 'sap' skill. SAP is a specialized enterprise technology, and expertise in it, particularly in database administration for SAP environments, directly aligns with this cluster.",
+      "success": true
+    }
+  },
+  {
+    "file_name": "Eric Ocke Resume.txt",
+    "extracted": {
+      "skills": [
+        "Languages: Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Frameworks & Libraries: React.js",
+        "Node.js",
+        "Express.js",
+        "Bootstrap",
+        "Databases: MongoDB",
+        "MySQL",
+        "Technologies & Tools: Git/GitHub",
+        "Docker",
+        "JWT",
+        "RESTful APIs",
+        "VS Code",
+        "IntelliJ",
+        "PyCharm",
+        "PuTTY",
+        "QTSpim",
+        "Operating Systems: Windows Administration",
+        "Linux/Unix",
+        "TrueNAS Scale",
+        "Networking & Security: Routing",
+        "Switching",
+        "VPN Configuration",
+        "RAID Implementation",
+        "Vulnerability Assessment",
+        "Development Practices: Agile Workflow",
+        "Kanban",
+        "Unit Testing",
+        "UML Diagrams (Use Cases",
+        "Sequence",
+        "State)",
+        "vpn",
+        "networking",
+        "react",
+        "cybersecurity",
+        "linux",
+        "github",
+        "restful",
+        "java",
+        "mongodb",
+        "agile",
+        "documentation",
+        "git",
+        "unix"
+      ],
+      "skills_from_section": [
+        "Languages: Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Frameworks & Libraries: React.js",
+        "Node.js",
+        "Express.js",
+        "Bootstrap",
+        "Databases: MongoDB",
+        "MySQL",
+        "Technologies & Tools: Git/GitHub",
+        "Docker",
+        "JWT",
+        "RESTful APIs",
+        "VS Code",
+        "IntelliJ",
+        "PyCharm",
+        "PuTTY",
+        "QTSpim",
+        "Operating Systems: Windows Administration",
+        "Linux/Unix",
+        "TrueNAS Scale",
+        "Networking & Security: Routing",
+        "Switching",
+        "VPN Configuration",
+        "RAID Implementation",
+        "Vulnerability Assessment",
+        "Development Practices: Agile Workflow",
+        "Kanban",
+        "Unit Testing",
+        "UML Diagrams (Use Cases",
+        "Sequence",
+        "State)"
+      ],
+      "skills_from_spacy": [
+        "docker",
+        "unit testing",
+        "vpn",
+        "node.js",
+        "css",
+        "html",
+        "networking",
+        "react",
+        "vulnerability assessment",
+        "kanban",
+        "express.js",
+        "cybersecurity",
+        "python",
+        "jwt",
+        "linux",
+        "github",
+        "restful",
+        "java",
+        "bootstrap",
+        "javascript",
+        "mysql",
+        "mongodb",
+        "agile",
+        "documentation",
+        "git",
+        "sql",
+        "unix"
+      ],
+      "skills_with_context": [
+        {
+          "skill": "github",
+          "context": "| Github\nSUMMARY\nComputer Science graduate with a strong foundation in full-stack development, cybersecurity, and system administration.",
+          "start": 18,
+          "end": 19
+        },
+        {
+          "skill": "cybersecurity",
+          "context": "| Github\nSUMMARY\nComputer Science graduate with a strong foundation in full-stack development, cybersecurity, and system administration.",
+          "start": 35,
+          "end": 36
+        },
+        {
+          "skill": "node.js",
+          "context": "Experienced in building scalable web applications using React.js and Node.js, designing database architectures, and implementing secure network infrastructure.",
+          "start": 50,
+          "end": 51
+        },
+        {
+          "skill": "vulnerability assessment",
+          "context": "Completed RIT Cybersecurity Bootcamp with expertise in vulnerability assessment and security compliance.",
+          "start": 69,
+          "end": 71
+        },
+        {
+          "skill": "java",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 176,
+          "end": 177
+        },
+        {
+          "skill": "python",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 178,
+          "end": 179
+        },
+        {
+          "skill": "javascript",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 180,
+          "end": 181
+        },
+        {
+          "skill": "sql",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 182,
+          "end": 183
+        },
+        {
+          "skill": "html",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 184,
+          "end": 185
+        },
+        {
+          "skill": "css",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 186,
+          "end": 187
+        },
+        {
+          "skill": "express.js",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 196,
+          "end": 197
+        },
+        {
+          "skill": "bootstrap",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 198,
+          "end": 199
+        },
+        {
+          "skill": "mongodb",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 202,
+          "end": 203
+        },
+        {
+          "skill": "mysql",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 204,
+          "end": 205
+        },
+        {
+          "skill": "git",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 210,
+          "end": 211
+        },
+        {
+          "skill": "docker",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 214,
+          "end": 215
+        },
+        {
+          "skill": "jwt",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 216,
+          "end": 217
+        },
+        {
+          "skill": "restful",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 218,
+          "end": 219
+        },
+        {
+          "skill": "linux",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 238,
+          "end": 239
+        },
+        {
+          "skill": "unix",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 240,
+          "end": 241
+        },
+        {
+          "skill": "networking",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 245,
+          "end": 246
+        },
+        {
+          "skill": "vpn",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 253,
+          "end": 254
+        },
+        {
+          "skill": "agile",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 265,
+          "end": 266
+        },
+        {
+          "skill": "kanban",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 268,
+          "end": 269
+        },
+        {
+          "skill": "unit testing",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 270,
+          "end": 272
+        },
+        {
+          "skill": "react",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 370,
+          "end": 371
+        },
+        {
+          "skill": "documentation",
+          "context": "Java, Python, JavaScript, SQL, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, Bootstrap\nDatabases: MongoDB, MySQL\nTechnologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim\nOperating Systems: Windows Administration, Linux/Unix, TrueNAS Scale\nNetworking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment\nDevelopment Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)\nProjects\nPatient Portal Web Application | Full-Stack Development\nTechnologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT\nDeveloped single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types\nImplemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data\nBuilt RESTful APIs for user and appointment management with Express.js backend and MongoDB database\nCreated responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces\nUtilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation\nReservation System Database and Application Design | Team Lead\nTechnologies: SQL, UML\nLed team of developers in designing comprehensive database schema for restaurant reservation application\nCreated detailed use cases, sequence diagrams, and state diagrams for system requirements\nDeveloped and tested mock database with sample data to validate schema design and SQL queries\nDemonstrated leadership in coordinating team deliverables and technical documentation\nNetwork Attached Storage Server\nTechnologies: TrueNAS",
+          "start": 411,
+          "end": 412
+        }
+      ],
+      "education": "SUNY Brockport — Brockport, NY\nBachelor of Science in Computer Science | December 2025\nConcentration: Advanced Computing | GPA: 3.55\nMonroe Community College — Rochester, NY\nAssociate in Science, Liberal Arts | June 2023",
+      "experience": "",
+      "file_name": "Eric Ocke Resume.txt"
+    },
+    "classification": {
+      "primary_cluster": 2,
+      "primary_cluster_name": "Full Stack Development",
+      "confidence": 0.75,
+      "top_three_clusters": [
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
           "confidence": 0.75
         },
         {
           "cluster": 8,
           "name": "Systems Administration",
+          "confidence": 0.7
+        },
+        {
+          "cluster": 7,
+          "name": "Security",
           "confidence": 0.65
         }
       ],
-      "reasoning": "The primary classification is based on the candidate's extensive 13+ years of experience as a 'Database Administrator', which is a direct match for Cluster 4. This is strongly supported by core database skills such as 'oracle' and 'sql'. The inclusion of 'sap' in the skills suggests an alignment with Cluster 10, indicating potential experience with specialized ERP systems and their database components. Furthermore, skills like 'linux', 'unix', and 'apache' are common for Database Administrators who often manage the underlying operating systems and server infrastructure, thus indicating capabilities in Cluster 8: Systems Administration.",
+      "reasoning": "The resume showcases a robust set of skills highly relevant to Full Stack Development. This includes proficiency in multiple programming languages (Java, Python, JavaScript, SQL), web frameworks and libraries (React.js, Node.js, Express.js, HTML, CSS, Bootstrap), and databases (MongoDB, MySQL). Experience with essential development tools and practices like Git/GitHub, Docker, RESTful APIs, JWT, and Agile Workflow further strengthens this classification. The Bachelor of Science in Computer Science with an 'Advanced Computing' concentration provides a strong academic foundation for a software development career, often leading to roles like Full Stack Developer.\n\nHowever, the resume also demonstrates significant competency in other areas. Skills such as 'Windows Administration', 'Linux/Unix', 'TrueNAS Scale', 'RAID Implementation', 'Routing', 'Switching', and 'VPN Configuration' point strongly towards Systems Administration. Furthermore, 'Vulnerability Assessment', 'cybersecurity', and the broader 'Networking' skills indicate a solid foundation for Security roles. While these areas are very strong and represent valid career paths, the comprehensive application development stack (both front-end and back-end technologies) makes Full Stack Development the most fitting primary cluster, with Systems Administration and Security as closely related and highly relevant secondary clusters.",
       "success": true
     }
   },
@@ -702,198 +1014,15 @@
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.1
+          "confidence": 0.2
         },
-        {
-          "cluster": 2,
-          "name": "Full Stack Development",
-          "confidence": 0.05
-        }
-      ],
-      "reasoning": "The resume explicitly lists 'machine learning' as the only skill. Cluster 3: Data Science & AI/ML directly encompasses 'ML' (Machine Learning) and 'AI', making it an exact match for the provided skill. Due to the lack of any other information in skills, education, or experience, the confidence for this cluster is absolute. Backend Development (Cluster 0) and Full Stack Development (Cluster 2) are included with very low confidence as machine learning models often require integration into backend systems or full-stack applications for deployment, but there is no explicit evidence for these on the resume.",
-      "success": true
-    }
-  },
-  {
-    "file_name": "network-engineer.txt",
-    "extracted": {
-      "skills": [
-        "Networking: \tActive Directory",
-        "TCP/IP",
-        "VLANs",
-        "DNS",
-        "Wins",
-        "DHCP",
-        "Servers/Software:  \tWindows Server 2008/2016",
-        "Windows 7/10",
-        "Exchange 2010",
-        "IIS",
-        "IBM iSeries",
-        "Veeam Backup",
-        "Carbon Black Antivirus",
-        "Cisco Umbrella",
-        "Google Workspace",
-        "Virtualization/Storage & SANS:  \tVMware Horizon",
-        "IBM Storwize V7000",
-        "Synology NAS",
-        "Devices:   \t \tCisco & HP Switches",
-        "Routers",
-        "Firewalls & VPN",
-        "Cisco Wireless APs and",
-        "Controllers",
-        "Barracuda Archiver",
-        "Web/Spam Filters",
-        "Telecommunications:                       VOIP",
-        "ACD",
-        "PBX",
-        "VoiceMaxx",
-        "Cisco CUCM",
-        "CJP",
-        "Intertel",
-        "Mitel",
-        "Avaya",
-        "Rolm",
-        "Continued on next page",
-        "Janessa Billings \tPage 2",
-        "vmware",
-        "project management",
-        "virtualization",
-        "windows server",
-        "networking",
-        "vpn"
-      ],
-      "skills_from_section": [
-        "Networking: \tActive Directory",
-        "TCP/IP",
-        "VLANs",
-        "DNS",
-        "Wins",
-        "DHCP",
-        "Servers/Software:  \tWindows Server 2008/2016",
-        "Windows 7/10",
-        "Exchange 2010",
-        "IIS",
-        "IBM iSeries",
-        "Veeam Backup",
-        "Carbon Black Antivirus",
-        "Cisco Umbrella",
-        "Google Workspace",
-        "Virtualization/Storage & SANS:  \tVMware Horizon",
-        "IBM Storwize V7000",
-        "Synology NAS",
-        "Devices:   \t \tCisco & HP Switches",
-        "Routers",
-        "Firewalls & VPN",
-        "Cisco Wireless APs and",
-        "Controllers",
-        "Barracuda Archiver",
-        "Web/Spam Filters",
-        "Telecommunications:                       VOIP",
-        "ACD",
-        "PBX",
-        "VoiceMaxx",
-        "Cisco CUCM",
-        "CJP",
-        "Intertel",
-        "Mitel",
-        "Avaya",
-        "Rolm",
-        "Continued on next page",
-        "Janessa Billings \tPage 2"
-      ],
-      "skills_from_spacy": [
-        "vmware",
-        "project management",
-        "virtualization",
-        "windows server",
-        "networking",
-        "dns",
-        "vpn",
-        "tcp/ip",
-        "dhcp"
-      ],
-      "skills_with_context": [
-        {
-          "skill": "project management",
-          "context": "Janessa Billings\n555-555-5555 • Boston, MA 00000 • Janessa.Billings@email.com\nNETWORK ENGINEER\nIT | Project Management | Communication Systems\nResults-driven Network Engineer with in-depth knowledge and experience in planning, strategizing, and implementing new IT solutions facilitating corporate growth.",
-          "start": 21,
-          "end": 23
-        },
-        {
-          "skill": "virtualization",
-          "context": "Virtualization: Supervised the virtualization of physical servers to the new VMware environment increasing network uptime to 99.8% by drastically reducing maintenance window.",
-          "start": 247,
-          "end": 248
-        },
-        {
-          "skill": "vmware",
-          "context": "Virtualization: Supervised the virtualization of physical servers to the new VMware environment increasing network uptime to 99.8% by drastically reducing maintenance window.",
-          "start": 258,
-          "end": 259
-        },
-        {
-          "skill": "networking",
-          "context": "TECHNICAL SKILLS\nNetworking: \tActive Directory, TCP/IP, VLANs, DNS, Wins, DHCP\nServers/Software:  \tWindows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace\nVirtualization/Storage & SANS:  \tVMware Horizon, IBM Storwize V7000, Synology NAS\nDevices:   \t \tCisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and\nControllers, Barracuda Archiver, Web/Spam Filters\nTelecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm\nContinued on next page\nJanessa Billings \tPage 2\nPROFESSIONAL EXPERIENCE\nCompany One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems.",
-          "start": 308,
-          "end": 309
-        },
-        {
-          "skill": "tcp/ip",
-          "context": "TECHNICAL SKILLS\nNetworking: \tActive Directory, TCP/IP, VLANs, DNS, Wins, DHCP\nServers/Software:  \tWindows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace\nVirtualization/Storage & SANS:  \tVMware Horizon, IBM Storwize V7000, Synology NAS\nDevices:   \t \tCisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and\nControllers, Barracuda Archiver, Web/Spam Filters\nTelecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm\nContinued on next page\nJanessa Billings \tPage 2\nPROFESSIONAL EXPERIENCE\nCompany One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems.",
-          "start": 314,
-          "end": 317
-        },
-        {
-          "skill": "dns",
-          "context": "TECHNICAL SKILLS\nNetworking: \tActive Directory, TCP/IP, VLANs, DNS, Wins, DHCP\nServers/Software:  \tWindows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace\nVirtualization/Storage & SANS:  \tVMware Horizon, IBM Storwize V7000, Synology NAS\nDevices:   \t \tCisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and\nControllers, Barracuda Archiver, Web/Spam Filters\nTelecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm\nContinued on next page\nJanessa Billings \tPage 2\nPROFESSIONAL EXPERIENCE\nCompany One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems.",
-          "start": 320,
-          "end": 321
-        },
-        {
-          "skill": "dhcp",
-          "context": "TECHNICAL SKILLS\nNetworking: \tActive Directory, TCP/IP, VLANs, DNS, Wins, DHCP\nServers/Software:  \tWindows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace\nVirtualization/Storage & SANS:  \tVMware Horizon, IBM Storwize V7000, Synology NAS\nDevices:   \t \tCisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and\nControllers, Barracuda Archiver, Web/Spam Filters\nTelecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm\nContinued on next page\nJanessa Billings \tPage 2\nPROFESSIONAL EXPERIENCE\nCompany One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems.",
-          "start": 324,
-          "end": 325
-        },
-        {
-          "skill": "windows server",
-          "context": "TECHNICAL SKILLS\nNetworking: \tActive Directory, TCP/IP, VLANs, DNS, Wins, DHCP\nServers/Software:  \tWindows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace\nVirtualization/Storage & SANS:  \tVMware Horizon, IBM Storwize V7000, Synology NAS\nDevices:   \t \tCisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and\nControllers, Barracuda Archiver, Web/Spam Filters\nTelecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm\nContinued on next page\nJanessa Billings \tPage 2\nPROFESSIONAL EXPERIENCE\nCompany One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems.",
-          "start": 331,
-          "end": 333
-        },
-        {
-          "skill": "vpn",
-          "context": "TECHNICAL SKILLS\nNetworking: \tActive Directory, TCP/IP, VLANs, DNS, Wins, DHCP\nServers/Software:  \tWindows Server 2008/2016, Windows 7/10, Exchange 2010, IIS, IBM iSeries, Veeam Backup, Carbon Black Antivirus, Cisco Umbrella, Google Workspace\nVirtualization/Storage & SANS:  \tVMware Horizon, IBM Storwize V7000, Synology NAS\nDevices:   \t \tCisco & HP Switches, Routers, Firewalls & VPN, Cisco Wireless APs and\nControllers, Barracuda Archiver, Web/Spam Filters\nTelecommunications:                       VOIP, ACD, PBX, VoiceMaxx, Cisco CUCM, CJP, Intertel, Mitel, Avaya, Rolm\nContinued on next page\nJanessa Billings \tPage 2\nPROFESSIONAL EXPERIENCE\nCompany One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems.",
-          "start": 388,
-          "end": 389
-        }
-      ],
-      "education": "",
-      "experience": "Company One, Boston, MA\t20XX – 20XX\nNetwork Engineer, 20XX – Present\nNetwork Administrator, 20XX – 20XX\nProgrammer, 20XX – 20XX\nPromoted twice during employment and continues to contribute to the company’s bottom line with efficient technologies and communication systems. Leads IT projects from beginning to end with the ability to supervise and motivate others. Maintains a friendly, approachable style to collaborate and build relationships.\nTroubleshoots network and server systems to identify potential issues, determine solutions, and enhance productivity and profitability.\nSuccessfully migrates various systems to Google Workspace.\nStrategically selects and recommends network and communications systems to advance company goals and increase customer satisfaction.\nOversees all network wiring and maintenance activities.\nInstrumental in the design, development, and execution of a new data center including fiber backbone installation and CAT6 wiring.\nIntroduced and implemented a VOIP Cloud solution including the CJP Call Center platform providing employees with the opportunity of working from home.\nFacilitated the successful network integration of a Swiss Log Robot-based picking and palletizing system for higher warehouse performance.\nSupervised the set up and upgrade of the wireless environment.\nDesigned and configured upgrades for Active Directory and TCP/IP communications.\nProgrammed in RPG to develop and implement a staging system for the distribution area.\nCreated software to automatically process and print forms.\nPerformed adds, moves and changes to phone system and maintained company directory.\nEDUCATION AND CERTIFICATIONS\nBachelor of Science, Electrical and Electronics Engineering, College One, Boston, MA\nAssociate of Science, Pre-Engineering, College Two, Boston, MA\nMicrosoft Certified Solutions Expert (MCSE)\nProject Management\tSupervisory Skills\tTroubleshooting\nVendor/Contractor Management\tContract Negotiations\tInnovative Technology\nSystems Integration\tStrategic Design\tCost Effectiveness\nProblem Solving\tTime Management\tOral & Written Skills",
-      "file_name": "network-engineer.txt"
-    },
-    "classification": {
-      "primary_cluster": 5,
-      "primary_cluster_name": "DevOps & Cloud",
-      "confidence": 0.9,
-      "top_three_clusters": [
         {
           "cluster": 5,
           "name": "DevOps & Cloud",
-          "confidence": 0.9
-        },
-        {
-          "cluster": 8,
-          "name": "Systems Administration",
-          "confidence": 0.85
-        },
-        {
-          "cluster": 11,
-          "name": "Engineering Leadership",
-          "confidence": 0.7
+          "confidence": 0.1
         }
       ],
-      "reasoning": "The resume strongly aligns with 'DevOps & Cloud' due to the individual's role as a 'Network Engineer' and 'Network Administrator' and extensive experience in designing, implementing, and migrating complex IT infrastructure. Specific skills and experiences include 'successfully migrates various systems to Google Workspace', 'introduced and implemented a VOIP Cloud solution', 'instrumental in the design, development, and execution of a new data center', and 'strategically selects and recommends network and communications systems'. The broad range of networking (TCP/IP, VLANs, DNS, Cisco & HP Switches, Firewalls, VPN) and virtualization (VMware Horizon) skills, along with an MCSE certification, are foundational to modern cloud and infrastructure engineering roles. While 'Systems Administration' is a very close second and encompasses many of the direct server and network management tasks (Windows Server, Exchange, Active Directory), the strategic, design, and cloud migration aspects push it more towards the 'DevOps & Cloud' cluster, which often includes advanced infrastructure and network engineering roles. Furthermore, the experience of 'Leads IT projects from beginning to end' and 'ability to supervise and motivate others', coupled with promotions and strategic decision-making, indicates a strong component of 'Engineering Leadership'.",
+      "reasoning": "The resume explicitly lists 'machine learning' under skills, which is the core definition of Cluster 3: Data Science & AI/ML. There is no other information (education, experience) provided. The secondary clusters are inferred based on common adjacent roles: 'machine learning' often requires programming skills (like Python/Java) which align with Backend Development (Cluster 0) for model implementation and deployment, and large-scale deployment of ML models frequently utilizes DevOps and Cloud practices (Cluster 5).",
       "success": true
     }
   },
@@ -901,31 +1030,31 @@
     "file_name": "old-example.txt",
     "extracted": {
       "skills": [
-        "html",
-        "docker",
-        "git",
         "scrum",
         "react",
-        "c",
-        "kanban",
-        "figma",
-        "restful",
+        "git",
         "java",
-        "agile"
+        "c",
+        "agile",
+        "kanban",
+        "docker",
+        "restful",
+        "figma",
+        "html"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "html",
-        "docker",
-        "git",
         "scrum",
         "react",
-        "c",
-        "kanban",
-        "figma",
-        "restful",
+        "git",
         "java",
-        "agile"
+        "c",
+        "agile",
+        "kanban",
+        "docker",
+        "restful",
+        "figma",
+        "html"
       ],
       "skills_with_context": [
         {
@@ -1002,25 +1131,25 @@
     "classification": {
       "primary_cluster": 1,
       "primary_cluster_name": "Frontend Development",
-      "confidence": 0.95,
+      "confidence": 0.9,
       "top_three_clusters": [
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.95
+          "confidence": 0.9
         },
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.75
+          "confidence": 0.7
         },
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.55
+          "confidence": 0.6
         }
       ],
-      "reasoning": "The resume strongly indicates a focus on Frontend Development. The primary project experience, 'EduAlly: AI Integrated Personal Assessment Tool', explicitly states the role as 'Frontend Team Member' and lists key frontend technologies used: 'Figma', 'React', and 'html' (from skills). The project description further mentions developing 'the frontend for an AI-integrated assessment web app'.\n\nFull Stack Development is a strong secondary cluster because the candidate's project involved working 'closely with the backend team to design and implement a scalable, RESTful architecture, ensuring seamless API integration.' This demonstrates an understanding of backend interaction. Skills like 'java', 'docker', and 'restful' also contribute to full-stack capabilities.\n\nBackend Development is a tertiary fit due to the 'java', 'c', and 'restful' skills, reinforced by the tutoring experience providing support in 'Java, C, and HTML', which covers common backend languages.",
+      "reasoning": "The resume strongly points to Frontend Development (Cluster 1) due to explicit skills like 'react', 'figma', and 'html'. The primary project experience, 'EduAlly', designates the candidate as a 'Frontend Team Member' with responsibilities focused on developing the frontend using 'Figma', 'Git', 'Docker', and 'React'. Additionally, the candidate tutored students in 'HTML'. Full Stack Development (Cluster 2) is a strong secondary fit, as the candidate possesses these robust frontend skills combined with backend-relevant languages like 'java' and 'c' (demonstrated through tutoring) and experience in 'RESTful' architecture and API integration from the project. Backend Development (Cluster 0) is also supported by the 'java', 'c', and 'restful' skills, and the involvement in designing 'RESTful architecture' with the backend team, indicating foundational knowledge and exposure to backend concepts.",
       "success": true
     }
   },
@@ -1049,25 +1178,25 @@
     "classification": {
       "primary_cluster": 0,
       "primary_cluster_name": "Backend Development",
-      "confidence": 0.9,
+      "confidence": 0.95,
       "top_three_clusters": [
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.9
+          "confidence": 0.95
         },
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.7
+          "confidence": 0.85
         },
         {
           "cluster": 5,
           "name": "DevOps & Cloud",
-          "confidence": 0.5
+          "confidence": 0.35
         }
       ],
-      "reasoning": "The only skill listed is 'spring'. In a technical context, 'spring' almost universally refers to the Spring Framework in Java. The Spring Framework is a predominant technology for building enterprise-level backend applications, RESTful APIs, and microservices. This directly aligns with 'Backend Development' (Cluster 0). As backend services are a core component of a complete application, 'Full Stack Development' (Cluster 2) is a strong secondary fit. Furthermore, applications developed with Spring require deployment and operational management, often involving cloud platforms and DevOps practices, thus linking to 'DevOps & Cloud' (Cluster 5).",
+      "reasoning": "The resume lists 'spring' as the sole skill. The Spring Framework (commonly Spring Boot) is a leading framework for building robust backend applications, RESTful services, and microservices, primarily in Java. This directly and strongly aligns with 'Backend Development' (Cluster 0). A developer proficient in Spring is a 'Software Developer', a role explicitly mentioned within 'Full Stack Development' (Cluster 2), as backend development is a core component of full-stack efforts. Modern Spring Boot applications are also frequently deployed to cloud environments and integrated with DevOps pipelines (CI/CD, containerization), implying a tangential connection to 'DevOps & Cloud' (Cluster 5), although 'spring' itself is not a DevOps tool.",
       "success": true
     }
   },
@@ -1126,15 +1255,15 @@
         "ACM Special Interest Group on Artificial Intelligence (ACM SIGAI) – Vice Chair",
         "SUNY Brockport Computing Sciences Club – Vice President",
         "Brockport Women in Technology (BWiT) – Treasurer",
-        "html",
         "r",
-        "mysql",
         "machine learning",
-        "unix",
-        "figma",
+        "mysql",
+        "agile",
         "java",
+        "figma",
+        "unix",
         "sql",
-        "agile"
+        "html"
       ],
       "skills_from_section": [
         "Languages: Java",
@@ -1190,24 +1319,24 @@
         "Brockport Women in Technology (BWiT) – Treasurer"
       ],
       "skills_from_spacy": [
-        "html",
         "r",
-        "next.js",
-        "git",
-        "docker",
-        "mysql",
-        "javascript",
-        "machine learning",
-        "unix",
-        "react",
         "css",
+        "next.js",
+        "machine learning",
         "typescript",
-        "figma",
-        "java",
+        "javascript",
         "kubernetes",
-        "sql",
+        "react",
+        "mysql",
+        "python",
+        "docker",
         "agile",
-        "python"
+        "git",
+        "java",
+        "figma",
+        "unix",
+        "sql",
+        "html"
       ],
       "skills_with_context": [
         {
@@ -1326,25 +1455,25 @@
     "classification": {
       "primary_cluster": 3,
       "primary_cluster_name": "Data Science & AI/ML",
-      "confidence": 0.85,
+      "confidence": 0.9,
       "top_three_clusters": [
         {
           "cluster": 3,
           "name": "Data Science & AI/ML",
-          "confidence": 0.85
+          "confidence": 0.95
         },
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.8
+          "confidence": 0.9
         },
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.7
+          "confidence": 0.85
         }
       ],
-      "reasoning": "The primary classification is Data Science & AI/ML (Cluster 3) due to several strong indicators:\n1.  **Relevant Current Coursework:** Explicitly lists 'AI & Machine Learning'.\n2.  **Project Experience:** 'EduAlly: AI Integrated Personal Assessment Tool' project name directly highlights AI integration.\n3.  **Affiliations & Memberships:** The candidate is the 'Vice Chair' of the 'ACM Special Interest Group on Artificial Intelligence (ACM SIGAI)', demonstrating a clear passion and leadership in the AI field.\n4.  **Skills:** Lists 'R (RStudio)' and 'machine learning' keyword, which are core to Data Science and AI/ML.\n\nFrontend Development (Cluster 1) is a strong secondary cluster because the candidate explicitly states 'develop the frontend' for the EduAlly project and lists comprehensive frontend skills such as 'React', 'Next.js', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Figma', and 'Tailwind'.\n\nFull Stack Development (Cluster 2) is the third top cluster as the candidate possesses a broad range of skills including strong frontend capabilities, along with backend languages like 'Java', 'Python', and 'SQL (MySQL)', and development tools like 'Docker' and 'Kubernetes'. Their involvement in 'general architecture' design for the project also supports a full-stack capability, covering aspects beyond just frontend.",
+      "reasoning": "The resume strongly points to Data Science & AI/ML as the primary career focus due to several key indicators: 'AI & Machine Learning' listed in relevant current coursework, active involvement as Vice Chair of the ACM Special Interest Group on Artificial Intelligence (ACM SIGAI), the inclusion of R in programming skills, and the project title 'EduAlly: AI Integrated Personal Assessment Tool'. While the project description specifically mentions developing the 'frontend', the overarching academic and extracurricular context indicates a strong interest and specialization in AI/ML.\n\nSecondary clusters include Frontend Development, which is strongly supported by explicit skills such as React, Next.js, JavaScript, TypeScript, HTML, CSS, Figma, and Tailwind. The project experience directly states the candidate's role in 'develop[ing] the frontend'. Full Stack Development is also a strong fit, as the candidate possesses a robust combination of frontend skills (React, Next.js, JS, TS) and backend languages (Java, Python, SQL), along with development tools like Docker and Kubernetes, and involvement in 'creat[ing] and design[ing] a general architecture' for a web application.",
       "success": true
     }
   },
@@ -1407,21 +1536,21 @@
         "HONORS SOCIETIES AND AWARDS:",
         " SUNY Brockport Honors College: Pursuing Honors Degree",
         " President’s List Spring 2023 – Spring 2025",
-        "unit testing",
-        "r",
-        "ssl",
-        "gitlab",
         "nginx",
-        "html",
-        "git",
-        "swagger",
-        "github",
-        "restful",
         "spring",
-        "agile",
         "docker",
+        "unit testing",
+        "html",
+        "r",
+        "gitlab",
+        "github",
+        "ssl",
+        "restful",
         "gitlab ci",
-        "project management"
+        "swagger",
+        "project management",
+        "agile",
+        "git"
       ],
       "skills_from_section": [
         "Technical: HTML",
@@ -1481,32 +1610,32 @@
         " President’s List Spring 2023 – Spring 2025"
       ],
       "skills_from_spacy": [
-        "sql",
-        "python",
-        "unit testing",
-        "r",
-        "node.js",
         "openapi",
-        "css",
-        "typescript",
-        "ssl",
-        "gitlab",
         "nginx",
-        "html",
-        "git",
-        "express",
-        "swagger",
-        "github",
-        "restful",
         "spring",
-        "agile",
-        "linux",
+        "typescript",
         "docker",
-        "javascript",
-        "gitlab ci",
+        "unit testing",
+        "node.js",
+        "css",
+        "html",
+        "express",
         "express.js",
+        "r",
+        "gitlab",
+        "python",
+        "linux",
+        "github",
+        "ssl",
+        "java",
+        "restful",
+        "gitlab ci",
+        "javascript",
+        "swagger",
         "project management",
-        "java"
+        "agile",
+        "git",
+        "sql"
       ],
       "skills_with_context": [
         {
@@ -1683,15 +1812,15 @@
         {
           "cluster": 5,
           "name": "DevOps & Cloud",
-          "confidence": 0.85
+          "confidence": 0.8
         },
         {
-          "cluster": 7,
-          "name": "Security",
-          "confidence": 0.8
+          "cluster": 6,
+          "name": "Quality Assurance",
+          "confidence": 0.75
         }
       ],
-      "reasoning": "The resume strongly points to Full Stack Development due to the 'Computer Programmer Co-op' experience where the candidate 'Delivered a secure, full-stack internal portal (React.js, Express, SQLite3)'. This explicitly covers both frontend (React.js, HTML, CSS, Javascript, Typescript) and backend (Node.js, Express.js, Java, Python, SQL, SQLite3, RESTful APIs) technologies. The co-op also demonstrated significant skills in DevOps & Cloud, including 'hosted on Linux/Nginx with SSL and PM2 management', 'mirrored production locally via Docker', and mentions of Git/GitHub/GitLab and GitLab CI. Furthermore, the experience shows a clear focus on Security by 'Delivered a secure' portal, implementing 'Kerberos-based Active Directory authentication', and 'advanced security controls', along with SSL.",
+      "reasoning": "The resume strongly indicates Full Stack Development through the Computer Programmer Co-op experience, explicitly stating 'Delivered a secure, full-stack internal portal (React.js, Express, SQLite3)'. This directly maps to Cluster 2. The education specializing in 'Software Development' further reinforces this. \n\nThe broad range of technical skills including HTML, CSS, Javascript, Typescript, React.js (Frontend) and Java, Python, Node.js, Express.js, SQL (Backend) also align perfectly with a full-stack profile.\n\nDevOps & Cloud (Cluster 5) is a strong secondary cluster due to skills and experience with Linux, Nginx, PM2 management, Docker for mirroring production, staging and production environments, and 'gitlab ci' mentioned in skills. These are core DevOps practices.\n\nQuality Assurance (Cluster 6) is also well-represented with explicit mentions of 'unit & manual testing' in the skills and 'manual, and unit testing' in the co-op experience, alongside 'consistent testing' via Docker.",
       "success": true
     }
   }

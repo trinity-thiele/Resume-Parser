@@ -1,11 +1,11 @@
 file_name,bow_top1,spacy_top1,top1_match,top3_overlap
-aws.txt,Backend Development,DevOps & Cloud,False,0
-Bickford-Resume.txt,Data Science & AI/ML,Data Science & AI/ML,True,1
+aws.txt,Backend Development,Full Stack Development,False,0
+Bickford-Resume.txt,Data Science & AI/ML,Data Science & AI/ML,True,2
 Brown-Resume.txt,Backend Development,Full Stack Development,False,1
 Brown-v2-Resume.txt,Data Science & AI/ML,Full Stack Development,False,2
 database-admin.txt,Database Administration,Database Administration,True,1
+Eric Ocke Resume.txt,Backend Development,Full Stack Development,False,1
 Fantigrossi-CV.txt,Data Science & AI/ML,Data Science & AI/ML,True,1
-network-engineer.txt,Security,DevOps & Cloud,False,0
 old-example.txt,Data Science & AI/ML,Frontend Development,False,1
 old-example2.txt,Quality Assurance,Backend Development,False,0
 Thiele-Resume.txt,Data Science & AI/ML,Data Science & AI/ML,True,2
