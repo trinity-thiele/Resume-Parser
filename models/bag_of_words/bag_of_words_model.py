@@ -6,6 +6,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 import pickle
 from pathlib import Path
+import warnings
+warnings.filterwarnings('ignore', category=FutureWarning)
 
 """
 Bag of Words Model for Resume Classification
@@ -161,7 +163,9 @@ Example training script for the resume classifier
 """
 def train_bow_model():
     # Load clustered data
-    df = pd.read_csv('data/clustered/clustered_combined_dataset.csv')
+    project_root = Path(__file__).parent.parent.parent
+    csv_path = project_root / 'data' / 'clustered' / 'clustered_combined_dataset.csv'
+    df = pd.read_csv(csv_path)
     
     # Prepare data using cluster names as labels
     X = df['Resume'].values
@@ -194,13 +198,14 @@ def train_bow_model():
             print(f"  {word}: {score:.4f}")
     
     # Save model - ensure path exists
-    Path('models/bag_of_words').mkdir(parents=True, exist_ok=True)
+    model_path = project_root / 'models' / 'bag_of_words' / 'bow_model.pkl'
+    model_path.parent.mkdir(parents=True, exist_ok=True)
     """
     Save to pickle file - commonly used for storing machine learning models
     Allows Python objects to be serialized (converted) into byte stream and deserialized back into Python object given byte stream
     """
-    bow_model.save_model('models/bag_of_words/bow_model.pkl')
-    print("\nModel saved to models/bag_of_words/bow_model.pkl")
+    bow_model.save_model(str(model_path))
+    print(f"\nModel saved to {model_path}")
     
     return bow_model
 
