@@ -28,57 +28,39 @@
       "skills_with_context": [
         {
           "skill": "amazon web services",
-          "context": "Alex Yi\nalex.yi@email.com | 555.555.5555 | linkedin.com/alex.yi\nAmazon Web Services\nGoal-oriented and innovative IT Specialist committed to excellent performance and delivering results.",
-          "start": 9,
-          "end": 12
+          "context": ""
         },
         {
           "skill": "project management",
-          "context": "Technical Support | Project Management | IT Services | Troubleshooting | Analytical Aptitudes | User Support\nSecurity Concepts",
-          "start": 74,
-          "end": 76
-        },
-        {
-          "skill": "java",
-          "context": "| Team Leadership | Reports Generation | Data Analysis | Certified Web Developer\nTechnical Aptitudes\nJava, Python, Access, SQL, Windows, Linux, Unix\nProfessional Experience\nIT Helpdesk Intern - Company One | San Francisco, CA\t\t\t\t\t\t\t\t\t\t20XX – Present\nProvide optimal assistance on team of 100; leverage IT aptitudes to effectively reach departmental goals.",
-          "start": 107,
-          "end": 108
+          "context": ""
         },
         {
           "skill": "python",
-          "context": "| Team Leadership | Reports Generation | Data Analysis | Certified Web Developer\nTechnical Aptitudes\nJava, Python, Access, SQL, Windows, Linux, Unix\nProfessional Experience\nIT Helpdesk Intern - Company One | San Francisco, CA\t\t\t\t\t\t\t\t\t\t20XX – Present\nProvide optimal assistance on team of 100; leverage IT aptitudes to effectively reach departmental goals.",
-          "start": 109,
-          "end": 110
-        },
-        {
-          "skill": "sql",
-          "context": "| Team Leadership | Reports Generation | Data Analysis | Certified Web Developer\nTechnical Aptitudes\nJava, Python, Access, SQL, Windows, Linux, Unix\nProfessional Experience\nIT Helpdesk Intern - Company One | San Francisco, CA\t\t\t\t\t\t\t\t\t\t20XX – Present\nProvide optimal assistance on team of 100; leverage IT aptitudes to effectively reach departmental goals.",
-          "start": 113,
-          "end": 114
-        },
-        {
-          "skill": "linux",
-          "context": "| Team Leadership | Reports Generation | Data Analysis | Certified Web Developer\nTechnical Aptitudes\nJava, Python, Access, SQL, Windows, Linux, Unix\nProfessional Experience\nIT Helpdesk Intern - Company One | San Francisco, CA\t\t\t\t\t\t\t\t\t\t20XX – Present\nProvide optimal assistance on team of 100; leverage IT aptitudes to effectively reach departmental goals.",
-          "start": 117,
-          "end": 118
-        },
-        {
-          "skill": "unix",
-          "context": "| Team Leadership | Reports Generation | Data Analysis | Certified Web Developer\nTechnical Aptitudes\nJava, Python, Access, SQL, Windows, Linux, Unix\nProfessional Experience\nIT Helpdesk Intern - Company One | San Francisco, CA\t\t\t\t\t\t\t\t\t\t20XX – Present\nProvide optimal assistance on team of 100; leverage IT aptitudes to effectively reach departmental goals.",
-          "start": 119,
-          "end": 120
-        },
-        {
-          "skill": "scrum",
-          "context": "Developed showcase app within two months; collaborated with SCRUM team; utilized Agile software development,  demonstrating strong, dynamic leadership, and time management.",
-          "start": 185,
-          "end": 186
+          "context": ""
         },
         {
           "skill": "agile",
-          "context": "Developed showcase app within two months; collaborated with SCRUM team; utilized Agile software development,  demonstrating strong, dynamic leadership, and time management.",
-          "start": 189,
-          "end": 190
+          "context": ""
+        },
+        {
+          "skill": "linux",
+          "context": ""
+        },
+        {
+          "skill": "scrum",
+          "context": ""
+        },
+        {
+          "skill": "java",
+          "context": ""
+        },
+        {
+          "skill": "unix",
+          "context": ""
+        },
+        {
+          "skill": "sql",
+          "context": ""
         }
       ],
       "education": "",
@@ -210,88 +192,56 @@
       ],
       "skills_with_context": [
         {
-          "skill": "spring",
-          "context": "May 2023\nErie Community College\nWilliamsville NY\nProjects\nSUNY Brockport Clothes Closet App (Fall 2023 – Spring 2024)\n• Team lead of project to design and develop a clothing catalogue app for SUNY Brockport’s on-\ncampus clothes closet.",
-          "start": 59,
-          "end": 60
-        },
-        {
-          "skill": "agile",
-          "context": "• Using agile methodology:",
-          "start": 89,
-          "end": 90
-        },
-        {
-          "skill": "sql",
-          "context": "• Created use cases, sequence diagrams, and state diagrams detailing software requirements and\nworkflow.\n• Developed using SQL, Java and HTML/CSS.\nWork Experience\nWegmans – Cashier & Storefront Team Member\nBuffalo, NY ~ (March 2023 – Current / Seasonal)\n• Greet customers with a welcoming atmosphere, resolve costumer needs at point of sale.",
-          "start": 141,
-          "end": 142
-        },
-        {
-          "skill": "java",
-          "context": "• Created use cases, sequence diagrams, and state diagrams detailing software requirements and\nworkflow.\n• Developed using SQL, Java and HTML/CSS.\nWork Experience\nWegmans – Cashier & Storefront Team Member\nBuffalo, NY ~ (March 2023 – Current / Seasonal)\n• Greet customers with a welcoming atmosphere, resolve costumer needs at point of sale.",
-          "start": 143,
-          "end": 144
-        },
-        {
-          "skill": "html",
-          "context": "• Created use cases, sequence diagrams, and state diagrams detailing software requirements and\nworkflow.\n• Developed using SQL, Java and HTML/CSS.\nWork Experience\nWegmans – Cashier & Storefront Team Member\nBuffalo, NY ~ (March 2023 – Current / Seasonal)\n• Greet customers with a welcoming atmosphere, resolve costumer needs at point of sale.",
-          "start": 145,
-          "end": 146
-        },
-        {
-          "skill": "css",
-          "context": "• Created use cases, sequence diagrams, and state diagrams detailing software requirements and\nworkflow.\n• Developed using SQL, Java and HTML/CSS.\nWork Experience\nWegmans – Cashier & Storefront Team Member\nBuffalo, NY ~ (March 2023 – Current / Seasonal)\n• Greet customers with a welcoming atmosphere, resolve costumer needs at point of sale.",
-          "start": 147,
-          "end": 148
-        },
-        {
-          "skill": "c",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 346,
-          "end": 347
-        },
-        {
-          "skill": "c++",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 348,
-          "end": 349
-        },
-        {
-          "skill": "python",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 352,
-          "end": 353
-        },
-        {
           "skill": "javascript",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 358,
-          "end": 359
+          "context": ""
         },
         {
-          "skill": "r",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 362,
-          "end": 363
-        },
-        {
-          "skill": "react",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 366,
-          "end": 367
-        },
-        {
-          "skill": "git",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 373,
-          "end": 374
+          "skill": "spring",
+          "context": ""
         },
         {
           "skill": "github",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, HTML/CSS, Javascript, SQL, R\nFrameworks: React, NodeJS\nVersion Control: Git/Github",
-          "start": 375,
-          "end": 376
+          "context": ""
+        },
+        {
+          "skill": "python",
+          "context": ""
+        },
+        {
+          "skill": "agile",
+          "context": ""
+        },
+        {
+          "skill": "react",
+          "context": ""
+        },
+        {
+          "skill": "java",
+          "context": ""
+        },
+        {
+          "skill": "html",
+          "context": ""
+        },
+        {
+          "skill": "sql",
+          "context": ""
+        },
+        {
+          "skill": "git",
+          "context": ""
+        },
+        {
+          "skill": "css",
+          "context": ""
+        },
+        {
+          "skill": "r",
+          "context": ""
+        },
+        {
+          "skill": "c",
+          "context": ""
         }
       ],
       "education": "B.S. - Computer Science (Anticipated May 2025)\nSUNY Brockport\nBrockport, NY\nA.S. - Computer Science May 2023\nErie Community College\nWilliamsville NY",
@@ -405,118 +355,80 @@
       ],
       "skills_with_context": [
         {
-          "skill": "agile",
-          "context": "Naya Brown\n716-495-6073 - vnyabrown@gmail.com - github.com/vnyabrown - linkedin.com/in/naya-brown\nEducation\nB.S. - Computer Science (May 2025)\nSUNY Brockport\nBrockport, NY\nProjects\n● SUNY Brockport Clothes Closet App\n⎯ In an agile environment, lead a team of 5 students to design and develop a clothing\ncatalogue application for SUNY Brockport’s on-campus clothes closet.",
-          "start": 45,
-          "end": 46
-        },
-        {
-          "skill": "java",
-          "context": "⎯ Developed using Java, HTML/CSS, and mySQL with an MVC structure.",
-          "start": 100,
-          "end": 101
-        },
-        {
-          "skill": "html",
-          "context": "⎯ Developed using Java, HTML/CSS, and mySQL with an MVC structure.",
-          "start": 102,
-          "end": 103
-        },
-        {
-          "skill": "css",
-          "context": "⎯ Developed using Java, HTML/CSS, and mySQL with an MVC structure.",
-          "start": 104,
-          "end": 105
-        },
-        {
-          "skill": "mysql",
-          "context": "⎯ Developed using Java, HTML/CSS, and mySQL with an MVC structure.",
-          "start": 107,
-          "end": 108
+          "skill": "javascript",
+          "context": ""
         },
         {
           "skill": "typescript",
-          "context": "● EduAlly: AI Integrated Assessment Tool\n⎯ Collaborated with a team of 5-10 students in an agile environment to develop the\nfrontend for an AI-integrated assessment web app using Typescript, React and user\nmanagement through Clerk.",
-          "start": 150,
-          "end": 151
+          "context": ""
         },
         {
-          "skill": "react",
-          "context": "● EduAlly: AI Integrated Assessment Tool\n⎯ Collaborated with a team of 5-10 students in an agile environment to develop the\nfrontend for an AI-integrated assessment web app using Typescript, React and user\nmanagement through Clerk.",
-          "start": 152,
-          "end": 153
-        },
-        {
-          "skill": "scrum",
-          "context": "⎯ Participated in daily scrum meetings for progress reports, sprint planning, and task\nmanagement to ensure team efficiency.",
-          "start": 165,
-          "end": 166
-        },
-        {
-          "skill": "restful",
-          "context": "⎯ Worked closely with the backend team to design and implement a RESTful architecture,\nensuring seamless API integration.",
-          "start": 196,
-          "end": 197
-        },
-        {
-          "skill": "c",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 426,
-          "end": 427
-        },
-        {
-          "skill": "c++",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 428,
-          "end": 429
-        },
-        {
-          "skill": "python",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 432,
-          "end": 433
-        },
-        {
-          "skill": "sql",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 434,
-          "end": 435
-        },
-        {
-          "skill": "r",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 436,
-          "end": 437
-        },
-        {
-          "skill": "javascript",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 447,
-          "end": 448
-        },
-        {
-          "skill": "git",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 454,
-          "end": 455
-        },
-        {
-          "skill": "github",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 456,
-          "end": 457
-        },
-        {
-          "skill": "docker",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 460,
-          "end": 461
+          "skill": "next.js",
+          "context": ""
         },
         {
           "skill": "postman",
-          "context": "Technical Skills\nLanguages: C, C++, Java, Python, SQL, R\nWeb Dev: React.js/Next.js, HTML/CSS, Javascript, Typescript\nVersion Control: Git/Github\nSoftware: Docker, Postman, IntelliJ, Visual Studio Code, Microsoft Suite, EnterpriseRx\nAwards & Community Engagement\n● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport\n● President of Computing Sciences Club @ SUNY Brockport\n● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-          "start": 462,
-          "end": 463
+          "context": ""
+        },
+        {
+          "skill": "restful",
+          "context": ""
+        },
+        {
+          "skill": "docker",
+          "context": ""
+        },
+        {
+          "skill": "github",
+          "context": ""
+        },
+        {
+          "skill": "python",
+          "context": ""
+        },
+        {
+          "skill": "agile",
+          "context": ""
+        },
+        {
+          "skill": "react",
+          "context": ""
+        },
+        {
+          "skill": "mysql",
+          "context": ""
+        },
+        {
+          "skill": "scrum",
+          "context": ""
+        },
+        {
+          "skill": "java",
+          "context": ""
+        },
+        {
+          "skill": "html",
+          "context": ""
+        },
+        {
+          "skill": "sql",
+          "context": ""
+        },
+        {
+          "skill": "git",
+          "context": ""
+        },
+        {
+          "skill": "css",
+          "context": ""
+        },
+        {
+          "skill": "r",
+          "context": ""
+        },
+        {
+          "skill": "c",
+          "context": ""
         }
       ],
       "education": "B.S. - Computer Science (May 2025)\nSUNY Brockport\nBrockport, NY",
@@ -578,64 +490,40 @@
       ],
       "skills_with_context": [
         {
-          "skill": "c",
-          "context": "Ann Simpson\nSometown, NY 10000 | H: 718-555-5555 | C: 917-555-5555 | as@somedomain.com",
-          "start": 16,
-          "end": 17
+          "skill": "apache",
+          "context": ""
         },
         {
           "skill": "oracle",
-          "context": "| LinkedIn URL\nDatabase administrator (DBA) with extensive experience designing, coding, testing and supporting next-generation database solutions in Oracle enterprise and SQL Server environments.",
-          "start": 50,
-          "end": 51
-        },
-        {
-          "skill": "sql",
-          "context": "| LinkedIn URL\nDatabase administrator (DBA) with extensive experience designing, coding, testing and supporting next-generation database solutions in Oracle enterprise and SQL Server environments.",
-          "start": 53,
-          "end": 54
-        },
-        {
-          "skill": "apache",
-          "context": "Proficient in an assortment of technologies, including Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.",
-          "start": 83,
-          "end": 84
-        },
-        {
-          "skill": "java",
-          "context": "Proficient in an assortment of technologies, including Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.",
-          "start": 87,
-          "end": 88
-        },
-        {
-          "skill": "c++",
-          "context": "Proficient in an assortment of technologies, including Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.",
-          "start": 89,
-          "end": 90
-        },
-        {
-          "skill": "xml",
-          "context": "Proficient in an assortment of technologies, including Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.",
-          "start": 91,
-          "end": 92
+          "context": ""
         },
         {
           "skill": "linux",
-          "context": "Proficient in an assortment of technologies, including Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.",
-          "start": 95,
-          "end": 96
+          "context": ""
+        },
+        {
+          "skill": "java",
+          "context": ""
         },
         {
           "skill": "unix",
-          "context": "Proficient in an assortment of technologies, including Oracle 12c, DB2, Access, Sybase, MS SQL Server 2016, JDBC, Visio, Apache HTTP Server, Java, C++, XML, Windows, Linux and Unix.",
-          "start": 97,
-          "end": 98
+          "context": ""
+        },
+        {
+          "skill": "sql",
+          "context": ""
         },
         {
           "skill": "sap",
-          "context": "Key projects:\nDeveloped 25 custom financial and auditing reports using SAP Crystal Reports with T-SQL, JDE Report Design Aid, MS Excel and Access.",
-          "start": 414,
-          "end": 415
+          "context": ""
+        },
+        {
+          "skill": "xml",
+          "context": ""
+        },
+        {
+          "skill": "c",
+          "context": ""
         }
       ],
       "education": "",
@@ -992,9 +880,7 @@
       "skills_with_context": [
         {
           "skill": "machine learning",
-          "context": "RESEARCH Artificial Intelligence, Deep/Machine Learning, Artificial Intelligence within Education,\nINTERESTS OptimizationstoProgramming\nAWARDS SunnkingScholarship,SUNYBrockport May2025\nExceptionalEngagementAward,SyracuseUniversity May2025\nUndergraduateResearchAward May2025\nPRESENTATIONS K-means Clustering and Markov Chain Monte Carlo Algorithms, SUNY Brockport’s\nScholarsDay,Consortium,&AISymposium VariousDates\nCONFERENCES\nATTENDED BinghamtonUniversityGraduateCombinatorics,Algebra,andTopologyConferenceBing-\nhamtonUniversity November\n2025\nPROFESSIONAL SUNYBrockport\nSERVICE • Chair,ACMStudentChapterSpecialInterestGroupinArtificialIntelligence\n• President,BrockportComputingScienceClub\n• Member,CircleK\n1of1",
-          "start": 135,
-          "end": 137
+          "context": ""
         }
       ],
       "education": "",
@@ -1058,70 +944,48 @@
       ],
       "skills_with_context": [
         {
-          "skill": "agile",
-          "context": "EduAlly: AI Integrated Personal Assessment Tool - Frontend Team Member\nAugust 2024 – Current\nCollaborate with a team of 5-10 students in an agile environment to develop the frontend for an AI-integrated assessment web app using Figma, Git, Docker, and React.",
-          "start": 65,
-          "end": 66
-        },
-        {
-          "skill": "figma",
-          "context": "EduAlly: AI Integrated Personal Assessment Tool - Frontend Team Member\nAugust 2024 – Current\nCollaborate with a team of 5-10 students in an agile environment to develop the frontend for an AI-integrated assessment web app using Figma, Git, Docker, and React.",
-          "start": 80,
-          "end": 81
-        },
-        {
-          "skill": "git",
-          "context": "EduAlly: AI Integrated Personal Assessment Tool - Frontend Team Member\nAugust 2024 – Current\nCollaborate with a team of 5-10 students in an agile environment to develop the frontend for an AI-integrated assessment web app using Figma, Git, Docker, and React.",
-          "start": 82,
-          "end": 83
+          "skill": "restful",
+          "context": ""
         },
         {
           "skill": "docker",
-          "context": "EduAlly: AI Integrated Personal Assessment Tool - Frontend Team Member\nAugust 2024 – Current\nCollaborate with a team of 5-10 students in an agile environment to develop the frontend for an AI-integrated assessment web app using Figma, Git, Docker, and React.",
-          "start": 84,
-          "end": 85
-        },
-        {
-          "skill": "react",
-          "context": "EduAlly: AI Integrated Personal Assessment Tool - Frontend Team Member\nAugust 2024 – Current\nCollaborate with a team of 5-10 students in an agile environment to develop the frontend for an AI-integrated assessment web app using Figma, Git, Docker, and React.",
-          "start": 87,
-          "end": 88
-        },
-        {
-          "skill": "scrum",
-          "context": "Participate in daily scrum meetings, sprint planning, and kanban-board task management.",
-          "start": 93,
-          "end": 94
+          "context": ""
         },
         {
           "skill": "kanban",
-          "context": "Participate in daily scrum meetings, sprint planning, and kanban-board task management.",
-          "start": 100,
-          "end": 101
+          "context": ""
         },
         {
-          "skill": "restful",
-          "context": "Work closely with the backend team to design and implement a scalable, RESTful architecture, ensuring seamless API integration.",
-          "start": 120,
-          "end": 121
+          "skill": "agile",
+          "context": ""
+        },
+        {
+          "skill": "figma",
+          "context": ""
+        },
+        {
+          "skill": "react",
+          "context": ""
+        },
+        {
+          "skill": "scrum",
+          "context": ""
         },
         {
           "skill": "java",
-          "context": "WORK HISTORY\nSUNY Brockport Academic Success Center, Brockport NY – Computing Sciences Tutor\nSeptember 2024 – Current\nProvide one-on-one and group tutoring sessions for introductory and intermediate computing science courses, including languages such as Java, C, and HTML.",
-          "start": 172,
-          "end": 173
-        },
-        {
-          "skill": "c",
-          "context": "WORK HISTORY\nSUNY Brockport Academic Success Center, Brockport NY – Computing Sciences Tutor\nSeptember 2024 – Current\nProvide one-on-one and group tutoring sessions for introductory and intermediate computing science courses, including languages such as Java, C, and HTML.",
-          "start": 174,
-          "end": 175
+          "context": ""
         },
         {
           "skill": "html",
-          "context": "WORK HISTORY\nSUNY Brockport Academic Success Center, Brockport NY – Computing Sciences Tutor\nSeptember 2024 – Current\nProvide one-on-one and group tutoring sessions for introductory and intermediate computing science courses, including languages such as Java, C, and HTML.",
-          "start": 177,
-          "end": 178
+          "context": ""
+        },
+        {
+          "skill": "git",
+          "context": ""
+        },
+        {
+          "skill": "c",
+          "context": ""
         }
       ],
       "education": "State University of New York at Brockport, Brockport NY                                        May 2025\nBachelor of Science in Computer Science                                                                       GPA: 3.85\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool - Frontend Team Member\nAugust 2024 – Current\nCollaborate with a team of 5-10 students in an agile environment to develop the frontend for an AI-integrated assessment web app using Figma, Git, Docker, and React.\nParticipate in daily scrum meetings, sprint planning, and kanban-board task management.\nWork closely with the backend team to design and implement a scalable, RESTful architecture, ensuring seamless API integration.\nWORK HISTORY\nSUNY Brockport Academic Success Center, Brockport NY – Computing Sciences Tutor\nSeptember 2024 – Current\nProvide one-on-one and group tutoring sessions for introductory and intermediate computing science courses, including languages such as Java, C, and HTML.\nSupport students in debugging code in various programming environments.\nHelp students develop effective study habits and time management.\nBrockport Auxiliary Service Corporation Dining Services, Brockport NY – Student Manager\nSeptember 2022 – September 2024\nAssisted in upholding strict safety and sanitation procedures.\nProvided support in organizing, coordinating, and administering job tasks.\nBob’s Diner, Rochester NY – Dining Room Attendant/Dishwasher\nJune 2021 – November 2021\nScraped and stacked dirty dishes and carried dishes and other tableware to kitchens for cleaning.\nCarried food, dishes, trays and silverware from kitchens and supply departments to serving counters.\nSet tables with clean linens, condiments and other supplies.\nAFFILIATIONS & MEMBERSHIPS\nBrockport Women in Technology (BWiT) - Club President\nSUNY Brockport Computing Sciences Club – Secretary\nNational Science Foundation Community Scholars Program – Scholar\nACM Special Interest Group on Artificial Intelligence (ACM SIGAI) – Member",
@@ -1166,9 +1030,7 @@
       "skills_with_context": [
         {
           "skill": "spring",
-          "context": "The College at Brockport / Supplemental Instructor\nSpring 2023 - Present, BROCKPORT, NY\nHired to be a Supplemental Instructor for various Statistics classes because of my understanding of Statistics and ability to communicate this knowledge to others.",
-          "start": 260,
-          "end": 261
+          "context": ""
         }
       ],
       "education": "",
@@ -1251,6 +1113,7 @@
         "including languages such as Java",
         "and Python.",
         "Support students in debugging code in various programming environments.",
+        "Help students develop effective study habits and time management.",
         "AFFILIATIONS & MEMBERSHIPS",
         "ACM Special Interest Group on Artificial Intelligence (ACM SIGAI) – Vice Chair",
         "SUNY Brockport Computing Sciences Club – Vice President",
@@ -1313,6 +1176,7 @@
         "including languages such as Java",
         "and Python.",
         "Support students in debugging code in various programming environments.",
+        "Help students develop effective study habits and time management.",
         "AFFILIATIONS & MEMBERSHIPS",
         "ACM Special Interest Group on Artificial Intelligence (ACM SIGAI) – Vice Chair",
         "SUNY Brockport Computing Sciences Club – Vice President",
@@ -1340,112 +1204,76 @@
       ],
       "skills_with_context": [
         {
-          "skill": "java",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 60,
-          "end": 61
-        },
-        {
-          "skill": "python",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 62,
-          "end": 63
-        },
-        {
-          "skill": "sql",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 64,
-          "end": 65
-        },
-        {
-          "skill": "mysql",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 66,
-          "end": 67
-        },
-        {
-          "skill": "r",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 69,
-          "end": 70
+          "skill": "machine learning",
+          "context": ""
         },
         {
           "skill": "javascript",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 74,
-          "end": 75
+          "context": ""
         },
         {
           "skill": "typescript",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 76,
-          "end": 77
-        },
-        {
-          "skill": "html",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 81,
-          "end": 82
-        },
-        {
-          "skill": "css",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 83,
-          "end": 84
-        },
-        {
-          "skill": "react",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 85,
-          "end": 86
-        },
-        {
-          "skill": "next.js",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 87,
-          "end": 88
-        },
-        {
-          "skill": "git",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 98,
-          "end": 99
-        },
-        {
-          "skill": "docker",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 100,
-          "end": 101
+          "context": ""
         },
         {
           "skill": "kubernetes",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 102,
-          "end": 103
+          "context": ""
         },
         {
-          "skill": "machine learning",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 110,
-          "end": 112
+          "skill": "next.js",
+          "context": ""
         },
         {
-          "skill": "unix",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 146,
-          "end": 147
+          "skill": "docker",
+          "context": ""
+        },
+        {
+          "skill": "python",
+          "context": ""
         },
         {
           "skill": "agile",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 176,
-          "end": 177
+          "context": ""
         },
         {
           "skill": "figma",
-          "context": "Java, Python, SQL (MySQL), R (RStudio), JavaScript, TypeScript\nWeb Technologies: HTML, CSS, React, Next.js\nDevelopment Tools: IntelliJ IDEA, Visual Studio, Git, Docker, Kubernetes\nRELEVANT CURRENT COURSEWORK\nAI & Machine Learning, Cloud Computing, and Ethical Hacking\nPAST COURSEWORK\nComputer Networks and Internet Applications, Algorithms and Data Structures, Computer\nOrganization and Architecture, Operating Systems and Parallel Computing, Unix Tools\nPROJECT EXPERIENCE\nEduAlly: AI Integrated Personal Assessment Tool August 2024 – Current\n• Collaborate with a team of 5-8 colleagues in an agile environment to develop the frontend\nfor a locally hosted web app using Figma, Git, Next.js, and Tailwind.\n• Work closely with the integration team to create and design a general architecture\napplication to be completed by December 12th of this year for more user testing.",
-          "start": 190,
-          "end": 191
+          "context": ""
+        },
+        {
+          "skill": "react",
+          "context": ""
+        },
+        {
+          "skill": "mysql",
+          "context": ""
+        },
+        {
+          "skill": "java",
+          "context": ""
+        },
+        {
+          "skill": "html",
+          "context": ""
+        },
+        {
+          "skill": "unix",
+          "context": ""
+        },
+        {
+          "skill": "sql",
+          "context": ""
+        },
+        {
+          "skill": "git",
+          "context": ""
+        },
+        {
+          "skill": "css",
+          "context": ""
+        },
+        {
+          "skill": "r",
+          "context": ""
         }
       ],
       "education": "State University of New York at Brockport, Brockport, NY May 2027\nMaster of Science in Computing Sciences\nSUNY Brockport, Brockport, NY May 2025\nBachelor of Science in Computer Science GPA: 3.85",
@@ -1524,6 +1352,7 @@
         "based Active Directory authentication",
         "hosted on Linux/Nginx with SSL and PM2",
         "management.",
+        " Built a GitLab CI/CD pipeline with isolated dev",
         "staging",
         "and production environments",
         "using scoped environment variables.",
@@ -1531,6 +1360,7 @@
         "documented RESTful APIs with Swagger",
         "OpenAPI",
         "and mirrored production locally via Docker for consistent testing.",
+        " Ensured quality through user acceptance",
         "manual",
         "and unit testing.",
         "HONORS SOCIETIES AND AWARDS:",
@@ -1596,6 +1426,7 @@
         "based Active Directory authentication",
         "hosted on Linux/Nginx with SSL and PM2",
         "management.",
+        " Built a GitLab CI/CD pipeline with isolated dev",
         "staging",
         "and production environments",
         "using scoped environment variables.",
@@ -1603,6 +1434,7 @@
         "documented RESTful APIs with Swagger",
         "OpenAPI",
         "and mirrored production locally via Docker for consistent testing.",
+        " Ensured quality through user acceptance",
         "manual",
         "and unit testing.",
         "HONORS SOCIETIES AND AWARDS:",
@@ -1639,160 +1471,112 @@
       ],
       "skills_with_context": [
         {
-          "skill": "github",
-          "context": "| Github\nOBJECTIVE\nHonors Computer Science student with full-stack development experience seeking a software\nengineering position to contribute technical expertise and agile development skills.",
-          "start": 18,
-          "end": 19
-        },
-        {
-          "skill": "agile",
-          "context": "| Github\nOBJECTIVE\nHonors Computer Science student with full-stack development experience seeking a software\nengineering position to contribute technical expertise and agile development skills.",
-          "start": 43,
-          "end": 44
-        },
-        {
-          "skill": "html",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 82,
-          "end": 83
-        },
-        {
-          "skill": "css",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 84,
-          "end": 85
-        },
-        {
-          "skill": "javascript",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 86,
-          "end": 87
-        },
-        {
-          "skill": "typescript",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 88,
-          "end": 89
-        },
-        {
-          "skill": "java",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 90,
-          "end": 91
-        },
-        {
-          "skill": "python",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 92,
-          "end": 93
-        },
-        {
-          "skill": "sql",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 94,
-          "end": 95
-        },
-        {
-          "skill": "r",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 96,
-          "end": 97
-        },
-        {
-          "skill": "node.js",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 102,
-          "end": 103
-        },
-        {
-          "skill": "express.js",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 105,
-          "end": 106
-        },
-        {
-          "skill": "git",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 107,
-          "end": 108
-        },
-        {
-          "skill": "gitlab",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 111,
-          "end": 112
-        },
-        {
-          "skill": "linux",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 119,
-          "end": 120
-        },
-        {
           "skill": "project management",
-          "context": "EDUCATION\nState University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99\nSKILLS\nTechnical: HTML, CSS, Javascript, Typescript, Java, Python, SQL, R, MIPS | React.js, Node.js,\nExpress.js | Git/GitHub/GitLab, VSCode, Intellij, RStudio, Linux\nDevelopment: Agile project management, unit & manual testing, UML diagrams, version\ncontrol\nProfessional: Team collaboration, leadership, problem-solving\nEMPLOYMENT\nSUNY Brockport: September 2023 – December 2024\nStudent Grader Part Time:\n",
-          "start": 124,
-          "end": 126
-        },
-        {
-          "skill": "express",
-          "context": "Monroe County Water Authority: May 2025 – August 2025\nComputer Programmer Co-op:\n Delivered a secure, full-stack internal portal (React.js, Express, SQLite3) with Kerberos-\nbased Active Directory authentication, hosted on Linux/Nginx with SSL and PM2\nmanagement.",
-          "start": 227,
-          "end": 228
-        },
-        {
-          "skill": "nginx",
-          "context": "Monroe County Water Authority: May 2025 – August 2025\nComputer Programmer Co-op:\n Delivered a secure, full-stack internal portal (React.js, Express, SQLite3) with Kerberos-\nbased Active Directory authentication, hosted on Linux/Nginx with SSL and PM2\nmanagement.",
-          "start": 243,
-          "end": 244
-        },
-        {
-          "skill": "ssl",
-          "context": "Monroe County Water Authority: May 2025 – August 2025\nComputer Programmer Co-op:\n Delivered a secure, full-stack internal portal (React.js, Express, SQLite3) with Kerberos-\nbased Active Directory authentication, hosted on Linux/Nginx with SSL and PM2\nmanagement.",
-          "start": 245,
-          "end": 246
-        },
-        {
-          "skill": "gitlab ci",
-          "context": " Built a GitLab CI/CD pipeline with isolated dev, staging, and production environments\nusing scoped environment variables.",
-          "start": 255,
-          "end": 257
-        },
-        {
-          "skill": "restful",
-          "context": " Implemented advanced security controls, documented RESTful APIs with Swagger\nOpenAPI, and mirrored production locally via Docker for consistent testing.",
-          "start": 283,
-          "end": 284
-        },
-        {
-          "skill": "swagger",
-          "context": " Implemented advanced security controls, documented RESTful APIs with Swagger\nOpenAPI, and mirrored production locally via Docker for consistent testing.",
-          "start": 286,
-          "end": 287
-        },
-        {
-          "skill": "openapi",
-          "context": " Implemented advanced security controls, documented RESTful APIs with Swagger\nOpenAPI, and mirrored production locally via Docker for consistent testing.",
-          "start": 288,
-          "end": 289
-        },
-        {
-          "skill": "docker",
-          "context": " Implemented advanced security controls, documented RESTful APIs with Swagger\nOpenAPI, and mirrored production locally via Docker for consistent testing.",
-          "start": 295,
-          "end": 296
+          "context": ""
         },
         {
           "skill": "unit testing",
-          "context": "Ensured quality through user acceptance, manual, and unit testing.",
-          "start": 311,
-          "end": 313
+          "context": ""
+        },
+        {
+          "skill": "express.js",
+          "context": ""
+        },
+        {
+          "skill": "javascript",
+          "context": ""
+        },
+        {
+          "skill": "typescript",
+          "context": ""
+        },
+        {
+          "skill": "gitlab ci",
+          "context": ""
+        },
+        {
+          "skill": "express",
+          "context": ""
+        },
+        {
+          "skill": "node.js",
+          "context": ""
+        },
+        {
+          "skill": "swagger",
+          "context": ""
+        },
+        {
+          "skill": "restful",
+          "context": ""
+        },
+        {
+          "skill": "openapi",
+          "context": ""
         },
         {
           "skill": "spring",
-          "context": "Pursuing Honors Degree\n President’s List Spring 2023 – Spring 2025",
-          "start": 335,
-          "end": 336
+          "context": ""
+        },
+        {
+          "skill": "docker",
+          "context": ""
+        },
+        {
+          "skill": "github",
+          "context": ""
+        },
+        {
+          "skill": "python",
+          "context": ""
+        },
+        {
+          "skill": "gitlab",
+          "context": ""
+        },
+        {
+          "skill": "agile",
+          "context": ""
+        },
+        {
+          "skill": "react",
+          "context": ""
+        },
+        {
+          "skill": "linux",
+          "context": ""
+        },
+        {
+          "skill": "nginx",
+          "context": ""
+        },
+        {
+          "skill": "java",
+          "context": ""
+        },
+        {
+          "skill": "html",
+          "context": ""
+        },
+        {
+          "skill": "sql",
+          "context": ""
+        },
+        {
+          "skill": "git",
+          "context": ""
+        },
+        {
+          "skill": "css",
+          "context": ""
+        },
+        {
+          "skill": "ssl",
+          "context": ""
+        },
+        {
+          "skill": "r",
+          "context": ""
         }
       ],
       "education": "State University of New York Brockport, Brockport NY Expected May 2026\nHonors Bachelor of Science in Computer Science | Software Development | GPA: 3.99",
