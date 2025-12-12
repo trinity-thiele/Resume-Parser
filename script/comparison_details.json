@@ -23,11 +23,11 @@
     ],
     "spacy_top3": [
       "Data Science & AI/ML",
-      "Content & Documentation",
-      "Engineering Leadership"
+      "Backend Development",
+      "Database Administration"
     ],
     "top1_match": true,
-    "top3_overlap": 1
+    "top3_overlap": 2
   },
   {
     "file_name": "Brown-Resume.txt",
@@ -38,8 +38,8 @@
     ],
     "spacy_top3": [
       "Full Stack Development",
-      "Backend Development",
-      "Frontend Development"
+      "Frontend Development",
+      "Backend Development"
     ],
     "top1_match": false,
     "top3_overlap": 1
@@ -53,8 +53,8 @@
     ],
     "spacy_top3": [
       "Full Stack Development",
-      "Frontend Development",
-      "Backend Development"
+      "Backend Development",
+      "Frontend Development"
     ],
     "top1_match": false,
     "top3_overlap": 2
@@ -75,6 +75,21 @@
     "top3_overlap": 2
   },
   {
+    "file_name": "Eric Ocke Resume.txt",
+    "bow_top3": [
+      "Backend Development",
+      "Full Stack Development",
+      "Frontend Development"
+    ],
+    "spacy_top3": [
+      "Full Stack Development",
+      "Backend Development",
+      "Frontend Development"
+    ],
+    "top1_match": false,
+    "top3_overlap": 3
+  },
+  {
     "file_name": "Fantigrossi-CV.txt",
     "bow_top3": [
       "Data Science & AI/ML",
@@ -84,25 +99,10 @@
     "spacy_top3": [
       "Data Science & AI/ML",
       "Backend Development",
-      "DevOps & Cloud"
+      "Full Stack Development"
     ],
     "top1_match": true,
     "top3_overlap": 1
-  },
-  {
-    "file_name": "network-engineer.txt",
-    "bow_top3": [
-      "Security",
-      "Data Science & AI/ML",
-      "Database Administration"
-    ],
-    "spacy_top3": [
-      "Systems Administration",
-      "DevOps & Cloud",
-      "Engineering Leadership"
-    ],
-    "top1_match": false,
-    "top3_overlap": 0
   },
   {
     "file_name": "old-example.txt",
@@ -112,8 +112,8 @@
       "Specialized Technologies"
     ],
     "spacy_top3": [
-      "Frontend Development",
       "Full Stack Development",
+      "Frontend Development",
       "Backend Development"
     ],
     "top1_match": false,
@@ -135,21 +135,6 @@
     "top3_overlap": 0
   },
   {
-    "file_name": "saws.txt",
-    "bow_top3": [
-      "Backend Development",
-      "Frontend Development",
-      "Content & Documentation"
-    ],
-    "spacy_top3": [
-      "Full Stack Development",
-      "Backend Development",
-      "Systems Administration"
-    ],
-    "top1_match": false,
-    "top3_overlap": 1
-  },
-  {
     "file_name": "Thiele-Resume.txt",
     "bow_top3": [
       "Data Science & AI/ML",
@@ -157,11 +142,11 @@
       "Backend Development"
     ],
     "spacy_top3": [
+      "Full Stack Development",
       "Data Science & AI/ML",
-      "Frontend Development",
-      "Full Stack Development"
+      "Frontend Development"
     ],
-    "top1_match": true,
+    "top1_match": false,
     "top3_overlap": 2
   },
   {
@@ -174,9 +159,9 @@
     "spacy_top3": [
       "Full Stack Development",
       "DevOps & Cloud",
-      "Backend Development"
+      "Security"
     ],
     "top1_match": false,
-    "top3_overlap": 2
+    "top3_overlap": 1
   }
 ]

@@ -1,0 +1,47 @@
+ERIC OCKE
+Ontario, NY | (585) 645-3280 | ericocke699@gmail.com | LinkedIn | Github
+SUMMARY
+Computer Science graduate with a strong foundation in full-stack development, cybersecurity, and system administration. Experienced in building scalable web applications using React.js and Node.js, designing database architectures, and implementing secure network infrastructure. Completed RIT Cybersecurity Bootcamp with expertise in vulnerability assessment and security compliance. Seeking entry-level software development or cybersecurity role to apply technical skills and drive innovative solutions.
+Education
+SUNY Brockport — Brockport, NY
+Bachelor of Science in Computer Science | December 2025
+Concentration: Advanced Computing | GPA: 3.55
+Monroe Community College — Rochester, NY
+Associate in Science, Liberal Arts | June 2023
+Certifications
+RIT Cybersecurity Bootcamp | August 2022
+Certificate of Completion covering Information Systems Auditing, Vulnerability and Risk Assessment, Security Compliance, and End-User Communication
+Technical Skills
+Languages: Java, Python, JavaScript, SQL, HTML, CSS
+Frameworks & Libraries: React.js, Node.js, Express.js, Bootstrap
+Databases: MongoDB, MySQL
+Technologies & Tools: Git/GitHub, Docker, JWT, RESTful APIs, VS Code, IntelliJ, PyCharm, PuTTY, QTSpim
+Operating Systems: Windows Administration, Linux/Unix, TrueNAS Scale
+Networking & Security: Routing, Switching, VPN Configuration, RAID Implementation, Vulnerability Assessment
+Development Practices: Agile Workflow, Kanban, Unit Testing, UML Diagrams (Use Cases, Sequence, State)
+Projects
+Patient Portal Web Application | Full-Stack Development
+Technologies: MongoDB, Express.js, React.js, Node.js, Bootstrap, JWT
+Developed single-page application for managing patient appointments using MERN stack with role-based authentication for Admin, Patient, and Doctor user types
+Implemented secure authentication system with JWT tokens and password hashing to protect sensitive medical data
+Built RESTful APIs for user and appointment management with Express.js backend and MongoDB database
+Created responsive React dashboards with Bootstrap for role-specific functionality across three user interfaces
+Utilized Agile methodology with Git/GitHub for version control, Kanban boards for sprint planning, and delivered across four development epics with demos and comprehensive documentation
+Reservation System Database and Application Design | Team Lead
+Technologies: SQL, UML
+Led team of developers in designing comprehensive database schema for restaurant reservation application
+Created detailed use cases, sequence diagrams, and state diagrams for system requirements
+Developed and tested mock database with sample data to validate schema design and SQL queries
+Demonstrated leadership in coordinating team deliverables and technical documentation
+Network Attached Storage Server
+Technologies: TrueNAS Scale, Docker, RAID-5, VPN
+Assembled and configured custom 16TB NAS server for secure file storage and media streaming
+Implemented RAID-5 configuration for data redundancy and fault tolerance
+Deployed containerized applications using Docker including Plex media server
+Configured VPN for secure remote access and established user permission controls
+Employment
+Char: Steak and Lounge — Rochester, NY
+Line Cook | 2021 – Present
+Developed strong time management and collaboration skills in a fast-paced, team-oriented environment
+Consistently meet performance standards while coordinating with cross-functional team members
+Additional Skills: Leadership | Team Collaboration | Clear Communication | Problem-Solving
