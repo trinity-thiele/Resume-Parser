@@ -1,29 +1,142 @@
 [
   {
+    "file_name": "adrian_t_sample_resume.txt",
+    "extracted": {
+      "skills": [
+        "System Administration & Troubleshooting",
+        "Cybersecurity & Risk Management",
+        "Cloud Computing (AWS",
+        "Azure)",
+        "Network Configuration & Maintenance",
+        "Programming (Python",
+        "Java",
+        "SQL)",
+        "Technical Support & Help Desk",
+        "python",
+        "azure",
+        "aws",
+        "project management",
+        "sql",
+        "cybersecurity"
+      ],
+      "skills_from_section": [
+        "System Administration & Troubleshooting",
+        "Cybersecurity & Risk Management",
+        "Cloud Computing (AWS",
+        "Azure)",
+        "Network Configuration & Maintenance",
+        "Programming (Python",
+        "Java",
+        "SQL)",
+        "Technical Support & Help Desk"
+      ],
+      "skills_from_spacy": [
+        "python",
+        "azure",
+        "java",
+        "aws",
+        "project management",
+        "sql",
+        "cybersecurity"
+      ],
+      "skills_with_context": [
+        {
+          "skill": "cybersecurity",
+          "context": "Adrian T. Reynolds\nCertified IT Professional\nadrian.reynolds@email.com\nlinkedin.com/in/adriantreynolds\nSummary\nInnovative and results-driven IT professional with over 6 years of experience in system administration, cloud computing, and cybersecurity.",
+          "start": 35,
+          "end": 36
+        },
+        {
+          "skill": "project management",
+          "context": "Education\nBachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management\nSkills\nSystem Administration & Troubleshooting\nCybersecurity & Risk Management\nCloud Computing (AWS, Azure)\nNetwork Configuration & Maintenance\nProgramming (Python, Java, SQL)\nTechnical Support & Help Desk\nCertifications\nCompTIA Security+\nAWS Certified Solutions Architect\nCisco Certified Network Associate (CCNA)",
+          "start": 283,
+          "end": 285
+        },
+        {
+          "skill": "aws",
+          "context": "Education\nBachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management\nSkills\nSystem Administration & Troubleshooting\nCybersecurity & Risk Management\nCloud Computing (AWS, Azure)\nNetwork Configuration & Maintenance\nProgramming (Python, Java, SQL)\nTechnical Support & Help Desk\nCertifications\nCompTIA Security+\nAWS Certified Solutions Architect\nCisco Certified Network Associate (CCNA)",
+          "start": 301,
+          "end": 302
+        },
+        {
+          "skill": "azure",
+          "context": "Education\nBachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management\nSkills\nSystem Administration & Troubleshooting\nCybersecurity & Risk Management\nCloud Computing (AWS, Azure)\nNetwork Configuration & Maintenance\nProgramming (Python, Java, SQL)\nTechnical Support & Help Desk\nCertifications\nCompTIA Security+\nAWS Certified Solutions Architect\nCisco Certified Network Associate (CCNA)",
+          "start": 303,
+          "end": 304
+        },
+        {
+          "skill": "python",
+          "context": "Education\nBachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management\nSkills\nSystem Administration & Troubleshooting\nCybersecurity & Risk Management\nCloud Computing (AWS, Azure)\nNetwork Configuration & Maintenance\nProgramming (Python, Java, SQL)\nTechnical Support & Help Desk\nCertifications\nCompTIA Security+\nAWS Certified Solutions Architect\nCisco Certified Network Associate (CCNA)",
+          "start": 313,
+          "end": 314
+        },
+        {
+          "skill": "java",
+          "context": "Education\nBachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management\nSkills\nSystem Administration & Troubleshooting\nCybersecurity & Risk Management\nCloud Computing (AWS, Azure)\nNetwork Configuration & Maintenance\nProgramming (Python, Java, SQL)\nTechnical Support & Help Desk\nCertifications\nCompTIA Security+\nAWS Certified Solutions Architect\nCisco Certified Network Associate (CCNA)",
+          "start": 315,
+          "end": 316
+        },
+        {
+          "skill": "sql",
+          "context": "Education\nBachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management\nSkills\nSystem Administration & Troubleshooting\nCybersecurity & Risk Management\nCloud Computing (AWS, Azure)\nNetwork Configuration & Maintenance\nProgramming (Python, Java, SQL)\nTechnical Support & Help Desk\nCertifications\nCompTIA Security+\nAWS Certified Solutions Architect\nCisco Certified Network Associate (CCNA)",
+          "start": 317,
+          "end": 318
+        }
+      ],
+      "education": "Bachelor of Science in Information Technology\nUniversity of Texas at Austin, Austin, TX\nSeptember 2014–May 2018\nRelevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management",
+      "experience": "IT Systems Administrator\nExcellence Tech Solutions, San Francisco, CA\nMarch 2020–March 2025\nKey Qualifications & Responsibilities\nManaged and maintained IT infrastructure, including networks, servers, and cloud environments.\nDeveloped and implemented security protocols that reduced cybersecurity incidents by 40%.\nProvided technical support and training to end users, improving overall system efficiency.\nKey Achievements\nLed a migration to a hybrid cloud solution, reducing operational costs by 25%.\nDesigned a disaster recovery plan that cut recovery time by 50%.\nIT Support Specialist\nTech Innovations, Austin, TX\nJune 2018–February 2020\nKey Qualifications & Responsibilities\nProvided Tier 2 technical support for 500+ users, ensuring system uptime and resolving issues promptly.\nConfigured and maintained IT hardware, software, and security applications.\nAssisted in network troubleshooting and server maintenance tasks.",
+      "file_name": "adrian_t_sample_resume.txt"
+    },
+    "classification": {
+      "primary_cluster": 8,
+      "primary_cluster_name": "Systems Administration",
+      "confidence": 0.9,
+      "top_three_clusters": [
+        {
+          "cluster": 8,
+          "name": "Systems Administration",
+          "confidence": 0.9
+        },
+        {
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.8
+        },
+        {
+          "cluster": 7,
+          "name": "Security",
+          "confidence": 0.7
+        }
+      ],
+      "reasoning": "The resume's primary classification as Systems Administration (Cluster 8) is strongly supported by the job titles 'IT Systems Administrator' and 'IT Support Specialist'. Key skills like 'System Administration & Troubleshooting', 'Network Configuration & Maintenance', and 'Technical Support & Help Desk' directly align. Experience such as 'Managed and maintained IT infrastructure, including networks, servers', 'Provided technical support and training to end users', and 'Assisted in network troubleshooting and server maintenance tasks' further solidifies this. \n\nDevOps & Cloud (Cluster 5) is a close second due to significant emphasis on cloud technologies. Skills like 'Cloud Computing (AWS, Azure)', 'azure', and 'aws', combined with 'Cloud Computing' coursework and experience 'managed ... cloud environments' and 'Led a migration to a hybrid cloud solution, reducing operational costs by 25%' demonstrate a strong focus on cloud infrastructure management, a key aspect of modern DevOps and Cloud Engineering roles.\n\nSecurity (Cluster 7) is the third strongest fit, highlighted by skills such as 'Cybersecurity & Risk Management' and 'cybersecurity', 'Cybersecurity' coursework, and a notable achievement: 'Developed and implemented security protocols that reduced cybersecurity incidents by 40%'. The experience of 'Configured and maintained ... security applications' also contributes to this cluster. These elements show a direct and impactful involvement in cybersecurity practices within an IT operational role.",
+      "success": true
+    }
+  },
+  {
     "file_name": "aws.txt",
     "extracted": {
       "skills": [
-        "amazon web services",
         "python",
-        "scrum",
-        "sql",
-        "agile",
-        "unix",
-        "java",
         "linux",
-        "project management"
+        "java",
+        "scrum",
+        "unix",
+        "project management",
+        "sql",
+        "amazon web services",
+        "agile"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "amazon web services",
         "python",
-        "scrum",
-        "sql",
-        "agile",
-        "unix",
-        "java",
         "linux",
-        "project management"
+        "java",
+        "scrum",
+        "unix",
+        "project management",
+        "sql",
+        "amazon web services",
+        "agile"
       ],
       "skills_with_context": [
         {
@@ -88,25 +201,25 @@
     "classification": {
       "primary_cluster": 2,
       "primary_cluster_name": "Full Stack Development",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "top_three_clusters": [
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.75
+          "confidence": 0.8
         },
         {
           "cluster": 8,
           "name": "Systems Administration",
-          "confidence": 0.65
+          "confidence": 0.7
         },
         {
-          "cluster": 5,
-          "name": "DevOps & Cloud",
+          "cluster": 0,
+          "name": "Backend Development",
           "confidence": 0.6
         }
       ],
-      "reasoning": "The resume strongly indicates a focus on Full Stack Development due to the 'Web Development Certification' listed under education, and the explicit experience bullet 'Developed showcase app within two months; collaborated with SCRUM team; utilized Agile software development'. These are direct evidences of software development skills and a clear interest in building applications. The included skills like 'python', 'java', and 'sql' are fundamental for both backend and full-stack development, and 'scrum'/'agile' are common methodologies in software teams. While the 'IT Helpdesk Intern' role and skills like 'unix' and 'linux' also point significantly to Systems Administration (Cluster 8) through tasks like 'Built employee workstations' and 'Enroll users in PC/MAC programs', and 'amazon web services' with 'python', 'unix', 'linux' suggest DevOps & Cloud (Cluster 5), the explicit development project and certification provide a clearer primary direction towards full-stack development, indicating a strong aptitude and career interest in software creation beyond general IT support.",
+      "reasoning": "The resume's primary classification as Full Stack Development (Cluster 2) is strongly supported by the explicit 'Web Development Certification' and the experience of having 'Developed showcase app'. The candidate also lists core programming languages like 'python' and 'java', database skills with 'sql', and cloud experience with 'amazon web services', all of which are essential for full-stack roles. The mention of collaborating with a 'SCRUM team' and utilizing 'Agile software development' further indicates a development-focused background. While the current 'IT Helpdesk Intern' role and many associated duties like 'Built employee workstations' and 'Enroll users in PC/MAC programs' point strongly to Systems Administration (Cluster 8), the development-specific skills and achievements suggest a clear trajectory or capability in software development. Backend Development (Cluster 0) is a close third, as the 'java', 'python', 'sql', and 'amazon web services' skills are foundational for backend systems, and the 'showcase app' and 'inventory system' development would likely involve significant backend work, making it highly related to Full Stack Development.",
       "success": true
     }
   },
@@ -142,17 +255,17 @@
           "confidence": 0.95
         },
         {
-          "cluster": 0,
-          "name": "Backend Development",
-          "confidence": 0.05
+          "cluster": 12,
+          "name": "Content & Documentation",
+          "confidence": 0.15
         },
         {
-          "cluster": 4,
-          "name": "Database Administration",
-          "confidence": 0.02
+          "cluster": 11,
+          "name": "Engineering Leadership",
+          "confidence": 0.1
         }
       ],
-      "reasoning": "The resume strongly aligns with 'Data Science & AI/ML' due to several key indicators:\n\n1.  **Work History:** The individual is currently a 'Graduate Assistant for Statistics and Data Science' where they 'organize reviews and tutor every statistics course' and were selected for their 'knowledge in statistics.' They also served as a 'Supplemental Instructor for various Statistics courses' due to 'understanding of Statistics'.\n2.  **Education:** The candidate holds a Master of Science in Mathematics, a Bachelor of Science in Mathematics, a Bachelor of Science in Finance, and a Minor in Economics, providing a robust quantitative and analytical foundation essential for data science roles.\n3.  **Skills:** 'Analytical and problem-solving skills' are highlighted, and 'Minitab', a statistical software, is listed as a skill.\n\nThere is very little evidence to suggest a strong fit for any other technical cluster. The resume lacks specific programming languages (e.g., Python, Java for backend), web technologies (for frontend), cloud platforms (for DevOps), or testing frameworks (for QA). The secondary clusters (Backend Development, Database Administration) are chosen with very low confidence, primarily based on the strong mathematical foundation which could be beneficial for algorithmic thinking in backend roles or logical data structuring in database roles, but without any specific technical skills or experience, these are highly speculative fits.",
+      "reasoning": "The resume's strongest fit is overwhelmingly with Data Science & AI/ML. The candidate is pursuing a Master of Science in Mathematics and holds a Bachelor of Science in Mathematics and Finance with a Minor in Economics, providing a robust quantitative foundation. Their work history is highly concentrated in 'Statistics and Data Science' roles, including being a 'Graduate Assistant for Statistics and Data Science' where they tutor statistics courses and are noted for 'knowledge in statistics'. They also served as a 'Math Tutor' and 'Supplemental Instructor' for various 'Statistics courses', demonstrating a deep 'understanding of Statistics' and 'analytical and quantitative skills'. The listed skills 'Analytical and problem-solving skills' and 'Minitab' (a statistical software) further reinforce this classification. \n\nFor the secondary cluster, 'Content & Documentation' (specifically Technical Writing) is a very loose fit, inferred from their extensive experience in tutoring and leading recitations, which requires strong 'Interpersonal communication skills' and the ability to effectively explain and simplify complex mathematical and statistical concepts to diverse student audiences. While not technical writing, it demonstrates a transferable skill in conveying technical information. \n\nThe third cluster, 'Engineering Leadership', is also a weak fit, based on the candidate's demonstrated leadership and mentoring capabilities in academic settings (e.g., 'Led recitation session', 'Promoted to Graduate Math Tutor', 'Selected as the first Graduate Assistant', 'Hired to be a Supplemental Instructor'). These roles indicate leadership potential and the ability to guide and support others, which are foundational leadership skills, though not specific to 'engineering' leadership.",
       "success": true
     }
   },
@@ -170,14 +283,14 @@
         "Frameworks: React",
         "NodeJS",
         "Version Control: Git/Github",
+        "github",
         "spring",
+        "react",
         "css",
+        "html",
+        "r",
         "git",
         "agile",
-        "html",
-        "react",
-        "github",
-        "r",
         "c"
       ],
       "skills_from_section": [
@@ -193,19 +306,19 @@
         "Version Control: Git/Github"
       ],
       "skills_from_spacy": [
-        "spring",
-        "css",
-        "git",
-        "javascript",
         "python",
-        "sql",
-        "agile",
-        "html",
-        "c++",
+        "github",
+        "spring",
         "java",
         "react",
-        "github",
+        "css",
+        "javascript",
+        "c++",
+        "sql",
+        "html",
         "r",
+        "git",
+        "agile",
         "c"
       ],
       "skills_with_context": [
@@ -301,25 +414,25 @@
     "classification": {
       "primary_cluster": 2,
       "primary_cluster_name": "Full Stack Development",
-      "confidence": 0.9,
+      "confidence": 0.95,
       "top_three_clusters": [
         {
           "cluster": 2,
           "name": "Full Stack Development",
-          "confidence": 0.9
+          "confidence": 0.95
         },
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.8
+          "confidence": 0.85
         },
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.75
+          "confidence": 0.85
         }
       ],
-      "reasoning": "The resume's 'SKILLS' section strongly indicates a Full Stack Development profile. For frontend capabilities, the candidate lists React, HTML/CSS, and Javascript. For backend, they list Java, Python, NodeJS, Spring, and SQL. The combination of these technologies across both client-side and server-side development makes Full Stack Development (Cluster 2) the most appropriate primary classification. The Computer Science degree further supports a general software development career path. While experience is not in development, the listed technical skills are very clear. Frontend Development (Cluster 1) is a strong secondary fit due to React, HTML/CSS, and Javascript, and Backend Development (Cluster 0) is a close third due to Java, Python, NodeJS, Spring, and SQL.",
+      "reasoning": "This resume demonstrates a strong foundation for Full Stack Development. The skills section prominently features both frontend technologies such as 'React', 'HTML/CSS', and 'Javascript', and backend technologies like 'Java', 'Python', 'SQL', and the 'Spring' framework. The individual's pursuit of a B.S. in Computer Science further supports a broad technical understanding. While the work experience is not directly in software development, the 'Office Assistant' role shows aptitude in computer tasks and diagnosing technical issues, which are transferable problem-solving skills. The comprehensive set of programming languages and frameworks clearly points to the ability to work across both client-side and server-side development, making Full Stack Development the most appropriate primary classification, with strong supporting fits for Frontend and Backend Development individually.",
       "success": true
     }
   },
@@ -347,18 +460,18 @@
         "● Undergraduate Research & Exceptional Engagement Awards Recipient @ SUNY Brockport",
         "● President of Computing Sciences Club @ SUNY Brockport",
         "● Girls in ICT Day Panel Speaker @ SUNY Brockport",
-        "agile",
-        "html",
-        "restful",
-        "react",
-        "docker",
-        "r",
-        "github",
+        "scrum",
         "c",
+        "restful",
         "css",
+        "r",
         "git",
+        "github",
         "mysql",
-        "scrum"
+        "docker",
+        "react",
+        "html",
+        "agile"
       ],
       "skills_from_section": [
         "Languages: C",
@@ -384,24 +497,24 @@
       ],
       "skills_from_spacy": [
         "python",
-        "sql",
-        "agile",
-        "html",
+        "scrum",
+        "typescript",
+        "c",
         "restful",
-        "javascript",
         "java",
-        "react",
-        "docker",
+        "css",
         "c++",
         "r",
-        "github",
-        "c",
-        "typescript",
-        "css",
-        "git",
         "postman",
+        "git",
+        "github",
         "mysql",
-        "scrum"
+        "docker",
+        "react",
+        "javascript",
+        "sql",
+        "html",
+        "agile"
       ],
       "skills_with_context": [
         {
@@ -534,17 +647,17 @@
           "confidence": 0.9
         },
         {
-          "cluster": 0,
-          "name": "Backend Development",
-          "confidence": 0.75
-        },
-        {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.75
+          "confidence": 0.85
+        },
+        {
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.8
         }
       ],
-      "reasoning": "This resume is classified as Full Stack Development due to a comprehensive set of skills covering both frontend and backend technologies. For frontend, the candidate lists `React.js/Next.js`, `HTML/CSS`, `Javascript`, and `Typescript`. For backend, key skills include `Java`, `Python`, `C`, `C++`, `SQL`, `MySQL`, and `restful` (implying API development). The inclusion of `Docker` further supports full-stack development by indicating knowledge of containerization for deployment. The 'Computer Science' degree provides a strong theoretical foundation for a general software development role, which often encompasses full-stack responsibilities. While the practical experience is non-technical, the detailed technical skills section clearly points towards a software development career path that integrates both client-side and server-side expertise.",
+      "reasoning": "The resume demonstrates a comprehensive skill set covering both frontend and backend development. For frontend, the candidate explicitly lists 'React.js/Next.js', 'HTML/CSS', 'Javascript', and 'Typescript'. For backend, 'Java', 'Python', and 'SQL' are mentioned as languages, with 'RESTful' indicating experience with API development, common in backend services. The inclusion of 'Docker' is also a valuable skill for deploying full-stack applications. The 'B.S. - Computer Science' degree provides a strong academic foundation for a software development career. While the work experience is not directly technical development, the strong array of programming and web development skills points directly to Full Stack Development as the primary cluster, with strong secondary fits for Frontend and Backend Development.",
       "success": true
     }
   },
@@ -552,28 +665,28 @@
     "file_name": "database-admin.txt",
     "extracted": {
       "skills": [
-        "sap",
-        "apache",
-        "sql",
-        "xml",
-        "c++",
-        "java",
-        "unix",
-        "linux",
         "oracle",
+        "xml",
+        "sap",
+        "linux",
+        "java",
+        "c++",
+        "sql",
+        "unix",
+        "apache",
         "c"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
-        "sap",
-        "apache",
-        "sql",
-        "xml",
-        "c++",
-        "java",
-        "unix",
-        "linux",
         "oracle",
+        "xml",
+        "sap",
+        "linux",
+        "java",
+        "c++",
+        "sql",
+        "unix",
+        "apache",
         "c"
       ],
       "skills_with_context": [
@@ -645,25 +758,25 @@
     "classification": {
       "primary_cluster": 4,
       "primary_cluster_name": "Database Administration",
-      "confidence": 0.98,
+      "confidence": 1.0,
       "top_three_clusters": [
         {
           "cluster": 4,
           "name": "Database Administration",
-          "confidence": 0.98
+          "confidence": 1.0
         },
         {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.65
+          "confidence": 0.7
         },
         {
           "cluster": 8,
           "name": "Systems Administration",
-          "confidence": 0.55
+          "confidence": 0.6
         }
       ],
-      "reasoning": "The resume's most prominent feature is the 'Database Administrator' job title held for over 13 years at ABC Company, which is a direct match for Cluster 4. This is strongly supported by core skills such as 'sql' and 'oracle', both essential for database administration. Additionally, the skills 'java', 'c++', and 'c' along with 'apache', 'unix', and 'linux' suggest capability in backend development (Cluster 0) as DBAs often interact with or support backend systems. The 'unix' and 'linux' skills also indicate a strong foundation in systems administration (Cluster 8), as database administrators frequently manage the operating systems hosting their databases. The 'sap' skill is present but is an isolated skill without corresponding experience to make it a primary or secondary cluster.",
+      "reasoning": "The resume's primary classification as Database Administration (Cluster 4) is strongly driven by the 'Database Administrator' job title, held for over a decade (5/2010 to Present), which is a direct match. This is reinforced by key skills such as 'oracle' and 'sql', which are core to database management. Supporting skills like 'linux' and 'unix' are commonly used by DBAs for managing database servers. The Bachelor of Science in Computer Science provides a solid technical foundation. Backend Development (Cluster 0) is a strong secondary cluster due to the presence of programming languages like 'java', 'c++', and 'c', which indicate an ability to understand and potentially interact with database-driven applications. Systems Administration (Cluster 8) is another relevant cluster, as 'linux', 'unix', and 'apache' skills are often part of a DBA's responsibilities or closely related to the environments they manage.",
       "success": true
     }
   },
@@ -706,19 +819,19 @@
         "UML Diagrams (Use Cases",
         "Sequence",
         "State)",
-        "networking",
-        "agile",
-        "restful",
-        "mongodb",
-        "vpn",
-        "unix",
-        "java",
-        "react",
         "linux",
-        "github",
-        "documentation",
+        "unix",
+        "networking",
+        "vpn",
+        "restful",
+        "java",
         "git",
-        "cybersecurity"
+        "mongodb",
+        "github",
+        "cybersecurity",
+        "documentation",
+        "react",
+        "agile"
       ],
       "skills_from_section": [
         "Languages: Java",
@@ -758,33 +871,33 @@
         "State)"
       ],
       "skills_from_spacy": [
-        "networking",
-        "python",
-        "sql",
-        "agile",
-        "node.js",
-        "html",
-        "express.js",
-        "restful",
-        "mongodb",
-        "javascript",
-        "vpn",
-        "unix",
-        "java",
-        "react",
-        "docker",
         "unit testing",
-        "vulnerability assessment",
+        "python",
         "linux",
-        "kanban",
-        "bootstrap",
-        "github",
-        "documentation",
-        "css",
-        "git",
+        "node.js",
+        "unix",
+        "networking",
         "jwt",
+        "vpn",
+        "restful",
+        "java",
+        "bootstrap",
+        "css",
+        "kanban",
+        "vulnerability assessment",
+        "git",
+        "mongodb",
+        "github",
         "mysql",
-        "cybersecurity"
+        "cybersecurity",
+        "express.js",
+        "documentation",
+        "docker",
+        "react",
+        "javascript",
+        "sql",
+        "html",
+        "agile"
       ],
       "skills_with_context": [
         {
@@ -957,25 +1070,25 @@
     "classification": {
       "primary_cluster": 2,
       "primary_cluster_name": "Full Stack Development",
-      "confidence": 0.85,
+      "confidence": 0.95,
       "top_three_clusters": [
         {
           "cluster": 2,
           "name": "Full Stack Development",
+          "confidence": 0.95
+        },
+        {
+          "cluster": 7,
+          "name": "Security",
           "confidence": 0.85
         },
         {
-          "cluster": 0,
-          "name": "Backend Development",
+          "cluster": 8,
+          "name": "Systems Administration",
           "confidence": 0.8
-        },
-        {
-          "cluster": 1,
-          "name": "Frontend Development",
-          "confidence": 0.75
         }
       ],
-      "reasoning": "The resume strongly indicates a Full Stack Development profile due to a comprehensive blend of both frontend and backend technologies. Frontend skills include JavaScript, HTML, CSS, React.js, and Bootstrap. Backend skills are represented by Java, Python, Node.js, Express.js, SQL, MongoDB, MySQL, RESTful APIs, and JWT. The inclusion of Git/GitHub and Docker further supports a modern full-stack development workflow. While the resume also lists skills in Networking & Security (Vulnerability Assessment, cybersecurity, VPN Configuration) and Systems Administration (Linux/Unix, Windows Administration, RAID), the sheer breadth and depth of programming languages, frameworks, and database technologies make Full Stack Development the most appropriate primary classification. The Bachelor of Science in Computer Science provides a strong foundational education for these roles. The absence of specific professional experience slightly reduces the confidence score, but the explicit skill set is very clear.",
+      "reasoning": "The resume demonstrates a strong and comprehensive skillset for Full Stack Development, including frontend technologies like React.js, JavaScript, HTML, CSS, and Bootstrap, as well as backend technologies such as Java, Python, Node.js, Express.js, SQL, MongoDB, MySQL, JWT, and RESTful APIs. General development tools like Git/GitHub and Docker further support this. Additionally, there's a significant focus on Security, evidenced by skills like Vulnerability Assessment, VPN Configuration, Networking, and the explicit 'cybersecurity' keyword. The resume also shows robust skills in Systems Administration, including Windows Administration, Linux/Unix, TrueNAS Scale, RAID Implementation, Routing, Switching, and PuTTY.",
       "success": true
     }
   },
@@ -1022,7 +1135,166 @@
           "confidence": 0.05
         }
       ],
-      "reasoning": "The resume explicitly lists 'machine learning' under skills. This term directly matches the definition of 'Cluster 3: Data Science & AI/ML', which includes 'ML' and 'AI'. Given this is the only skill provided, it's a direct and very strong fit. The very low confidence in other clusters (Backend Development, Full Stack Development) is due to the potential, but unconfirmed, involvement of machine learning practitioners in coding backend services or full-stack applications to deploy or interact with ML models, but there is no explicit information to support this.",
+      "reasoning": "The only skill provided in the resume is 'machine learning'. This skill directly corresponds to 'ML' and 'AI' within Cluster 3: Data Science & AI/ML. There is no other information (education or experience) to suggest expertise in other clusters. The secondary and tertiary clusters are speculative, acknowledging that machine learning engineers often utilize programming languages (like Python) that are also common in backend development (Cluster 0) for model deployment, and to a lesser extent, might engage in full-stack aspects (Cluster 2) for end-to-end application development around their models, but these connections are not explicitly supported by the given resume content.",
+      "success": true
+    }
+  },
+  {
+    "file_name": "john_smith_example_resume.txt",
+    "extracted": {
+      "skills": [
+        "android",
+        "swift",
+        "graphql",
+        "kubernetes",
+        "github actions",
+        "github",
+        "react",
+        "objective-c",
+        "flutter",
+        "c",
+        "rest",
+        "microservices",
+        "firebase",
+        "ios",
+        "react native"
+      ],
+      "skills_from_section": [],
+      "skills_from_spacy": [
+        "android",
+        "swift",
+        "graphql",
+        "kubernetes",
+        "github actions",
+        "github",
+        "react",
+        "objective-c",
+        "flutter",
+        "c",
+        "rest",
+        "microservices",
+        "firebase",
+        "ios",
+        "react native"
+      ],
+      "skills_with_context": [
+        {
+          "skill": "ios",
+          "context": "John Smith\njohn@smith.com\n•\n(721) 498-2073\n•\nlinkedin.com/in/john-smith\n•\n@john.smith\nMobile Developer\nMobile Developer with 9 years of experience crafting intuitive, high-performance apps for iOS and Android platforms.",
+          "start": 40,
+          "end": 41
+        },
+        {
+          "skill": "android",
+          "context": "John Smith\njohn@smith.com\n•\n(721) 498-2073\n•\nlinkedin.com/in/john-smith\n•\n@john.smith\nMobile Developer\nMobile Developer with 9 years of experience crafting intuitive, high-performance apps for iOS and Android platforms.",
+          "start": 42,
+          "end": 43
+        },
+        {
+          "skill": "flutter",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 120,
+          "end": 121
+        },
+        {
+          "skill": "rest",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 149,
+          "end": 150
+        },
+        {
+          "skill": "graphql",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 151,
+          "end": 152
+        },
+        {
+          "skill": "microservices",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 185,
+          "end": 186
+        },
+        {
+          "skill": "firebase",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 233,
+          "end": 234
+        },
+        {
+          "skill": "react",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 334,
+          "end": 335
+        },
+        {
+          "skill": "react native",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 334,
+          "end": 336
+        },
+        {
+          "skill": "objective-c",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 357,
+          "end": 360
+        },
+        {
+          "skill": "c",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 359,
+          "end": 360
+        },
+        {
+          "skill": "swift",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 362,
+          "end": 363
+        },
+        {
+          "skill": "github",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 387,
+          "end": 388
+        },
+        {
+          "skill": "github actions",
+          "context": "WORK EXPERIENCE\nMobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES",
+          "start": 387,
+          "end": 389
+        },
+        {
+          "skill": "kubernetes",
+          "context": "Cross-Platform Mobile Architecture Design\nMobile Performance Optimization\nNative iOS and Android Development\nMobile DevOps and CI/CD Implementation\nMobile Security and Data Protection\nMobile Analytics and User Behavior Analysis\nMobile Product Strategy and Roadmap Planning\nReact Native\nFlutter\nFirebase\nKubernetes for Mobile Backend\nAI-Powered Mobile Development\nEdge Computing for Mobile Applications\nCOURSES / CERTIFICATIONS\nAssociate Android Developer (AAD)\n04/2023\nGoogle Developers\niOS App Developer Certification\n04/2022\nAppCoda\nReact Native Developer Certification\n04/2021\nFacebook\nEducation\nBachelor of Science in Mobile Application Development\n2013-2017\nRochester Institute of Technology\n,\nRochester, NY\nMobile Application Development\nUser Experience Design",
+          "start": 464,
+          "end": 465
+        }
+      ],
+      "education": "Bachelor of Science in Mobile Application Development\n2013-2017\nRochester Institute of Technology\n,\nRochester, NY\nMobile Application Development\nUser Experience Design",
+      "experience": "Mobile Developer\n10/2023 – Present\nMobility Innovations Inc.\nArchitected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore, reducing development time by 40% while increasing user engagement by 27% across iOS and Android platforms\nSpearheaded the migration from REST to GraphQL, decreasing API payload sizes by 62% and cutting average app load times from 3.2 to 1.1 seconds across all mobile devices\nLed a team of 7 developers to implement a microservices-based architecture for the company's flagship app, resulting in 99.98% uptime during peak holiday season and enabling twice-weekly feature deployments\nMobile Application Developer\n05/2021 – 09/2023\nTechWave Solutions Inc.\nEngineered a custom analytics framework that integrated with Firebase and Amplitude, providing real-time user journey insights that drove a 31% improvement in conversion rates within Q3\nOptimized app performance by implementing code splitting and lazy loading techniques, reducing initial bundle size by 47% and improving cold start time by 2.8 seconds\nCollaborated with UX researchers to redesign the authentication flow using biometric security features, which decreased account creation abandonment by 23% while strengthening security protocols\nJunior Mobile Developer\n08/2019 – 04/2021\nInnovative Mobile Solutions Inc.\nBuilt and shipped 6 key features for the company's React Native app, including an offline-first data synchronization system that maintained functionality in low-connectivity environments\nRefactored legacy Objective-C code to Swift, reducing crash rates by 18% and streamlining the codebase by over 12,000 lines\nImplemented CI/CD pipelines using Fastlane and GitHub Actions, cutting release preparation time from 2 days to 3 hours while ensuring consistent build quality across environments\nSKILLS & COMPETENCIES\nCross-Platform Mobile Architecture Design\nMobile Performance Optimization\nNative iOS and Android Development\nMobile DevOps and CI/CD Implementation\nMobile Security and Data Protection\nMobile Analytics and User Behavior Analysis\nMobile Product Strategy and Roadmap Planning\nReact Native\nFlutter\nFirebase\nKubernetes for Mobile Backend\nAI-Powered Mobile Development\nEdge Computing for Mobile Applications\nCOURSES / CERTIFICATIONS\nAssociate Android Developer (AAD)\n04/2023\nGoogle Developers\niOS App Developer Certification\n04/2022\nAppCoda\nReact Native Developer Certification\n04/2021\nFacebook",
+      "file_name": "john_smith_example_resume.txt"
+    },
+    "classification": {
+      "primary_cluster": 9,
+      "primary_cluster_name": "Mobile Development",
+      "confidence": 1.0,
+      "top_three_clusters": [
+        {
+          "cluster": 9,
+          "name": "Mobile Development",
+          "confidence": 1.0
+        },
+        {
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.7
+        },
+        {
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.5
+        }
+      ],
+      "reasoning": "The resume overwhelmingly points to Mobile Development. The individual's education is a Bachelor of Science in Mobile Application Development. All job titles (Mobile Developer, Mobile Application Developer, Junior Mobile Developer) directly reflect this. Core skills like 'android', 'swift', 'objective-c', 'flutter', 'ios', and 'react native' are foundational to mobile development. Experience bullet points consistently describe mobile app development, such as 'Architected and deployed a cross-platform AR shopping experience using Flutter and ARKit/ARCore across iOS and Android platforms', 'Refactored legacy Objective-C code to Swift', and 'Built and shipped 6 key features for the company's React Native app'. All certifications are also mobile-specific (Associate Android Developer, iOS App Developer, React Native Developer).\n\nSecondary clusters include DevOps & Cloud due to strong experience in 'github actions', 'kubernetes for mobile backend', 'microservices-based architecture', and 'Implemented CI/CD pipelines using Fastlane and GitHub Actions', explicitly listed as a 'Mobile DevOps and CI/CD Implementation' competency. Backend Development is also relevant as the candidate has significant experience interacting with and migrating backend services (e.g., 'migration from REST to GraphQL', 'implemented a microservices-based architecture') to support their mobile applications.",
       "success": true
     }
   },
@@ -1030,30 +1302,30 @@
     "file_name": "old-example.txt",
     "extracted": {
       "skills": [
+        "restful",
+        "java",
         "docker",
+        "react",
+        "scrum",
+        "html",
+        "kanban",
         "figma",
         "git",
-        "restful",
-        "scrum",
         "agile",
-        "html",
-        "java",
-        "react",
-        "kanban",
         "c"
       ],
       "skills_from_section": [],
       "skills_from_spacy": [
+        "restful",
+        "java",
         "docker",
+        "react",
+        "scrum",
+        "html",
+        "kanban",
         "figma",
         "git",
-        "restful",
-        "scrum",
         "agile",
-        "html",
-        "java",
-        "react",
-        "kanban",
         "c"
       ],
       "skills_with_context": [
@@ -1129,27 +1401,27 @@
       "file_name": "old-example.txt"
     },
     "classification": {
-      "primary_cluster": 2,
-      "primary_cluster_name": "Full Stack Development",
-      "confidence": 0.95,
+      "primary_cluster": 1,
+      "primary_cluster_name": "Frontend Development",
+      "confidence": 0.9,
       "top_three_clusters": [
-        {
-          "cluster": 2,
-          "name": "Full Stack Development",
-          "confidence": 0.95
-        },
         {
           "cluster": 1,
           "name": "Frontend Development",
           "confidence": 0.9
         },
         {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.75
+        },
+        {
           "cluster": 0,
           "name": "Backend Development",
-          "confidence": 0.8
+          "confidence": 0.6
         }
       ],
-      "reasoning": "The candidate demonstrates a strong foundation for Full Stack Development. While the primary project role was 'Frontend Team Member' using `Figma` and `React`, indicating strong Frontend Development skills (Cluster 1), the project description also explicitly states collaboration with the backend team to 'design and implement a scalable, RESTful architecture, ensuring seamless API integration.' This shows an understanding of how the frontend interacts with the backend and broader system design, which is core to full-stack roles. Furthermore, the candidate lists `Java` and `RESTful` in their skills and tutors `Java` (a backend language), supporting Backend Development (Cluster 0) proficiency. The inclusion of `docker` also points towards broader development and deployment understanding beyond just UI. These combined skills and experiences make Full Stack Development (Cluster 2) the most fitting primary cluster, encompassing both frontend and backend capabilities.",
+      "reasoning": "The resume strongly aligns with Frontend Development (Cluster 1) due to the explicit 'Frontend Team Member' role in the EduAlly project. This project experience directly utilizes key frontend technologies such as `React`, `Figma`, and `HTML`, all of which are also listed in the skills section. The description of collaborating on 'RESTful architecture' within a frontend context is also typical for frontend developers integrating with backend APIs.\n\nFull Stack Development (Cluster 2) is a strong secondary fit because, in addition to strong frontend skills, the candidate possesses backend-relevant skills like `Java` and `C` (from skills and tutoring experience) and experience with `Docker`. The collaboration with a backend team on `RESTful` architecture further indicates an understanding of the full software development lifecycle. Many entry-level full-stack roles are looking for this blend of skills with a leaning towards one end.\n\nBackend Development (Cluster 0) is a plausible third given the `Java`, `C`, and `RESTful` skills, reinforced by tutoring experience in these languages. While the primary project role was frontend, the foundational backend knowledge is present, making this candidate also potentially suitable for backend-focused roles.",
       "success": true
     }
   },
@@ -1178,25 +1450,159 @@
     "classification": {
       "primary_cluster": 0,
       "primary_cluster_name": "Backend Development",
-      "confidence": 0.85,
+      "confidence": 0.8,
       "top_three_clusters": [
+        {
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.8
+        },
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.6
+        },
+        {
+          "cluster": 5,
+          "name": "DevOps & Cloud",
+          "confidence": 0.4
+        }
+      ],
+      "reasoning": "The resume lists 'spring' as a skill. The Spring Framework is predominantly used for building robust backend applications, primarily with Java, which is listed under Cluster 0 (Backend Development). While Spring can be part of full-stack solutions (Cluster 2) or deployed using DevOps/Cloud practices (Cluster 5), its direct and primary association is with backend server-side development.",
+      "success": true
+    }
+  },
+  {
+    "file_name": "patricia_shaw_example_resume.txt",
+    "extracted": {
+      "skills": [
+        "Teamwork",
+        "Creative thinking",
+        "Analytical thinking",
+        "Java",
+        "Python",
+        "Web programming",
+        "Operating systems software",
+        "Excellent interpersonal skills",
+        "Languages",
+        "French (Advanced",
+        "C2)",
+        "German (Basic",
+        "A2)",
+        "Hobbies and Interests",
+        "Weekend computer class volunteer at local YMCA.",
+        "Manage web and software engineering blog called “Cup of Java”",
+        "android",
+        "svn",
+        "jira",
+        "project management",
+        "javascript",
+        "git"
+      ],
+      "skills_from_section": [
+        "Teamwork",
+        "Creative thinking",
+        "Analytical thinking",
+        "Java",
+        "Python",
+        "Web programming",
+        "Operating systems software",
+        "Excellent interpersonal skills",
+        "Languages",
+        "French (Advanced",
+        "C2)",
+        "German (Basic",
+        "A2)",
+        "Hobbies and Interests",
+        "Weekend computer class volunteer at local YMCA.",
+        "Manage web and software engineering blog called “Cup of Java”"
+      ],
+      "skills_from_spacy": [
+        "android",
+        "python",
+        "svn",
+        "java",
+        "jira",
+        "project management",
+        "javascript",
+        "git"
+      ],
+      "skills_with_context": [
+        {
+          "skill": "javascript",
+          "context": "Seeking to use proven skills in JavaScript and project management via JIRA to meet business needs at GFC Inc.\nEducation\n2016-2019, B.Sc. in Software Engineering\nRochester Institute of Technology, New York\nPursued my passion for software structures through six advanced electives in software systems, architecture, and modeling.",
+          "start": 52,
+          "end": 53
+        },
+        {
+          "skill": "project management",
+          "context": "Seeking to use proven skills in JavaScript and project management via JIRA to meet business needs at GFC Inc.\nEducation\n2016-2019, B.Sc. in Software Engineering\nRochester Institute of Technology, New York\nPursued my passion for software structures through six advanced electives in software systems, architecture, and modeling.",
+          "start": 54,
+          "end": 56
+        },
+        {
+          "skill": "jira",
+          "context": "Seeking to use proven skills in JavaScript and project management via JIRA to meet business needs at GFC Inc.\nEducation\n2016-2019, B.Sc. in Software Engineering\nRochester Institute of Technology, New York\nPursued my passion for software structures through six advanced electives in software systems, architecture, and modeling.",
+          "start": 57,
+          "end": 58
+        },
+        {
+          "skill": "android",
+          "context": "Article “Why Android is Better Than You Think” was published in TIR SEE newsletter.",
+          "start": 125,
+          "end": 126
+        },
+        {
+          "skill": "git",
+          "context": "Committed code to GIT/SVN and created 75+ code reviews.",
+          "start": 201,
+          "end": 202
+        },
+        {
+          "skill": "svn",
+          "context": "Committed code to GIT/SVN and created 75+ code reviews.",
+          "start": 203,
+          "end": 204
+        },
+        {
+          "skill": "java",
+          "context": "Skills\nTeamwork\nCreative thinking\nAnalytical thinking\nJava\nPython\nWeb programming\nOperating systems software\nExcellent interpersonal skills\nLanguages\nFrench (Advanced, C2)\nGerman (Basic, A2)\nHobbies and Interests\nWeekend computer class volunteer at local YMCA.",
+          "start": 222,
+          "end": 223
+        },
+        {
+          "skill": "python",
+          "context": "Skills\nTeamwork\nCreative thinking\nAnalytical thinking\nJava\nPython\nWeb programming\nOperating systems software\nExcellent interpersonal skills\nLanguages\nFrench (Advanced, C2)\nGerman (Basic, A2)\nHobbies and Interests\nWeekend computer class volunteer at local YMCA.",
+          "start": 224,
+          "end": 225
+        }
+      ],
+      "education": "2016-2019, B.Sc. in Software Engineering\nRochester Institute of Technology, New York\nPursued my passion for software structures through six advanced electives in software systems, architecture, and modeling.\nMember of the RIT Women in Computing and Society of Software Engineers student organizations.\nArticle “Why Android is Better Than You Think” was published in TIR SEE newsletter.",
+      "experience": "Entry-Level Software Developer\nFryction Inc.\nMarch-Oct 2018\nAssisted in maintenance of software for engineering applications.\nAnalyzed user needs and proposed design software solutions to meet them.\nSupporting testing operating systems-level software and filed 150+ upgrade and bug fix reports.\nCommitted code to GIT/SVN and created 75+ code reviews.",
+      "file_name": "patricia_shaw_example_resume.txt"
+    },
+    "classification": {
+      "primary_cluster": 2,
+      "primary_cluster_name": "Full Stack Development",
+      "confidence": 0.95,
+      "top_three_clusters": [
+        {
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.95
+        },
         {
           "cluster": 0,
           "name": "Backend Development",
           "confidence": 0.85
         },
         {
-          "cluster": 2,
-          "name": "Full Stack Development",
+          "cluster": 9,
+          "name": "Mobile Development",
           "confidence": 0.75
-        },
-        {
-          "cluster": 5,
-          "name": "DevOps & Cloud",
-          "confidence": 0.2
         }
       ],
-      "reasoning": "The resume lists 'spring' as the sole skill. The Spring Framework is a prominent platform for building Java-based server-side applications, APIs, and microservices. This directly aligns with the definition of Backend Development (Cluster 0), which includes Java development. Full Stack Development (Cluster 2) is also a strong candidate, as many full-stack developers utilize Spring for the backend component of their applications, and it encompasses general 'Software Developer' roles. While less direct, Spring applications, especially Spring Boot, are frequently deployed and managed within cloud environments and by DevOps teams, offering a peripheral connection to DevOps & Cloud (Cluster 5) as a distant third.",
+      "reasoning": "The resume strongly indicates Full Stack Development as the primary cluster due to the 'B.Sc. in Software Engineering' degree and the 'Entry-Level Software Developer' job title, which directly matches keywords for this cluster. Key skills like 'Java', 'Python', 'Web programming', 'javascript', 'git', and 'svn' further support a broad development capability, along with experience in 'analyzed user needs and proposed design software solutions'. Backend Development is a very strong secondary cluster, heavily supported by 'Java', 'Python', 'Operating systems software', and 'advanced electives in software systems, architecture, and modeling', as well as experience maintaining 'software for engineering applications'. Mobile Development is a clear third cluster due to the explicit 'android' skill and the published article 'Why Android is Better Than You Think'.",
       "success": true
     }
   },
@@ -1256,14 +1662,14 @@
         "SUNY Brockport Computing Sciences Club – Vice President",
         "Brockport Women in Technology (BWiT) – Treasurer",
         "figma",
-        "machine learning",
-        "mysql",
-        "sql",
-        "agile",
-        "html",
-        "unix",
         "java",
-        "r"
+        "sql",
+        "machine learning",
+        "html",
+        "r",
+        "unix",
+        "agile",
+        "mysql"
       ],
       "skills_from_section": [
         "Languages: Java",
@@ -1319,24 +1725,24 @@
         "Brockport Women in Technology (BWiT) – Treasurer"
       ],
       "skills_from_spacy": [
-        "typescript",
-        "next.js",
-        "kubernetes",
-        "docker",
-        "css",
-        "git",
-        "figma",
-        "javascript",
-        "machine learning",
-        "mysql",
         "python",
-        "sql",
-        "agile",
-        "html",
-        "unix",
+        "kubernetes",
+        "figma",
         "java",
+        "docker",
         "react",
-        "r"
+        "typescript",
+        "css",
+        "next.js",
+        "javascript",
+        "sql",
+        "machine learning",
+        "html",
+        "r",
+        "unix",
+        "git",
+        "agile",
+        "mysql"
       ],
       "skills_with_context": [
         {
@@ -1453,27 +1859,27 @@
       "file_name": "Thiele-Resume.txt"
     },
     "classification": {
-      "primary_cluster": 2,
-      "primary_cluster_name": "Full Stack Development",
+      "primary_cluster": 3,
+      "primary_cluster_name": "Data Science & AI/ML",
       "confidence": 0.9,
       "top_three_clusters": [
         {
-          "cluster": 2,
-          "name": "Full Stack Development",
+          "cluster": 3,
+          "name": "Data Science & AI/ML",
           "confidence": 0.9
         },
         {
-          "cluster": 3,
-          "name": "Data Science & AI/ML",
-          "confidence": 0.85
+          "cluster": 2,
+          "name": "Full Stack Development",
+          "confidence": 0.8
         },
         {
           "cluster": 1,
           "name": "Frontend Development",
-          "confidence": 0.8
+          "confidence": 0.75
         }
       ],
-      "reasoning": "The resume strongly indicates a Full Stack Development profile due to a comprehensive blend of frontend and backend technologies, coupled with project experience that spans both. For frontend, the candidate lists JavaScript, TypeScript, React, Next.js, HTML, CSS, Figma, and Tailwind, and explicitly states 'develop the frontend' for a web app in their 'EduAlly' project. For backend-leaning skills, they list Java, Python, SQL (MySQL), and are tasked to 'create and design a general architecture' for the same project. Development tools such as Git, Docker, and Kubernetes further support a full-stack capability. While there is a strong interest and coursework in 'AI & Machine Learning' and an affiliation with 'ACM Special Interest Group on Artificial Intelligence', the core demonstrated project work involves building an application (frontend + architecture) that is 'AI Integrated', rather than solely focusing on data science or machine learning model development.",
+      "reasoning": "The primary classification is Data Science & AI/ML (Cluster 3) due to several strong indicators: 'RELEVANT CURRENT COURSEWORK' in 'AI & Machine Learning', the 'EduAlly: AI Integrated Personal Assessment Tool' project which implies an application of AI, and most importantly, the candidate's leadership role as 'Vice Chair' of the 'ACM Special Interest Group on Artificial Intelligence (ACM SIGAI)'. The inclusion of R and Python in their skills also supports this. Full Stack Development (Cluster 2) is a strong secondary fit because the candidate possesses comprehensive skills in both frontend ('React', 'Next.js', 'JavaScript', 'TypeScript', 'HTML', 'CSS', 'Figma') and backend ('Java', 'Python', 'SQL (MySQL)') technologies, reinforced by tutoring in Java and Python, and the project mentioning 'general architecture' and working with an 'integration team'. Frontend Development (Cluster 1) is a close third, directly supported by the explicit mention of developing 'the frontend' for the EduAlly project using 'Figma' and 'Tailwind', alongside their strong web technologies skills.",
       "success": true
     }
   },
@@ -1536,21 +1942,21 @@
         "HONORS SOCIETIES AND AWARDS:",
         " SUNY Brockport Honors College: Pursuing Honors Degree",
         " President’s List Spring 2023 – Spring 2025",
-        "agile",
-        "html",
-        "spring",
-        "restful",
-        "swagger",
-        "ssl",
-        "gitlab",
-        "gitlab ci",
-        "docker",
         "unit testing",
         "project management",
+        "ssl",
+        "restful",
         "r",
-        "github",
         "git",
-        "nginx"
+        "github",
+        "spring",
+        "gitlab ci",
+        "docker",
+        "gitlab",
+        "nginx",
+        "swagger",
+        "html",
+        "agile"
       ],
       "skills_from_section": [
         "Technical: HTML",
@@ -1610,32 +2016,32 @@
         " President’s List Spring 2023 – Spring 2025"
       ],
       "skills_from_spacy": [
-        "openapi",
+        "unit testing",
         "python",
-        "sql",
-        "agile",
+        "linux",
+        "typescript",
+        "project management",
         "node.js",
-        "html",
-        "express.js",
-        "spring",
-        "restful",
-        "swagger",
-        "javascript",
         "ssl",
+        "restful",
         "java",
-        "gitlab",
         "express",
+        "css",
+        "r",
+        "openapi",
+        "git",
+        "github",
+        "spring",
+        "express.js",
         "gitlab ci",
         "docker",
-        "unit testing",
-        "linux",
-        "project management",
-        "r",
-        "github",
-        "typescript",
-        "css",
-        "git",
-        "nginx"
+        "gitlab",
+        "nginx",
+        "javascript",
+        "sql",
+        "swagger",
+        "html",
+        "agile"
       ],
       "skills_with_context": [
         {
@@ -1815,12 +2221,12 @@
           "confidence": 0.85
         },
         {
-          "cluster": 7,
-          "name": "Security",
-          "confidence": 0.7
+          "cluster": 0,
+          "name": "Backend Development",
+          "confidence": 0.8
         }
       ],
-      "reasoning": "The resume strongly points to Full Stack Development as the primary cluster. The 'Computer Programmer Co-op' experience explicitly states the delivery of a 'secure, full-stack internal portal (React.js, Express, SQLite3)'. The skills list further reinforces this with both frontend technologies like HTML, CSS, Javascript, Typescript, React.js, and backend technologies such as Java, Python, SQL, Node.js, Express.js, and RESTful APIs. The education also specifies 'Software Development' within Computer Science.\n\nDevOps & Cloud is a strong secondary cluster due to the co-op experience mentioning hosting on 'Linux/Nginx with SSL and PM2 management', working with 'staging, and production environments', and using 'Docker for consistent testing'. The skills also list GitLab CI and Git/GitHub/GitLab, which are central to DevOps.\n\nSecurity is identified as the third cluster because the co-op project emphasized delivering a 'secure' portal, implementing 'Kerberos-based Active Directory authentication', utilizing 'SSL', and stating 'Implemented advanced security controls', demonstrating practical application security experience.",
+      "reasoning": "The resume strongly indicates Full Stack Development as the primary cluster. The 'Computer Programmer Co-op' experience explicitly states 'Delivered a secure, full-stack internal portal (React.js, Express, SQLite3)'. This directly uses both frontend (React.js, HTML, CSS, Javascript, Typescript) and backend (Node.js, Express.js, Java, Python, SQL) technologies. The education also lists 'Software Development' as a concentration. \n\nDevOps & Cloud is a strong secondary cluster due to the co-op experience detailing hosting on 'Linux/Nginx with SSL and PM2 management', handling 'staging, and production environments', and using 'Docker for consistent testing', along with 'Git/GitHub/GitLab' and 'gitlab ci' in skills. \n\nBackend Development is also a significant cluster, even within the full-stack context, given the strong skills in Java, Python, Node.js, Express.js, SQL, and the mention of documenting 'RESTful APIs with Swagger, OpenAPI'.",
       "success": true
     }
   }
