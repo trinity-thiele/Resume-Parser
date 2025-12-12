@@ -1,5 +1,24 @@
 [
   {
+    "file_name": "adrian_t_sample_resume.txt",
+    "bow_prediction": "Security",
+    "bow_confidence": 0.8170302841529463,
+    "top_3_categories": [
+      {
+        "category": "Security",
+        "probability": 0.8170302841529463
+      },
+      {
+        "category": "Backend Development",
+        "probability": 0.15176408162516836
+      },
+      {
+        "category": "DevOps & Cloud",
+        "probability": 0.024230303705341842
+      }
+    ]
+  },
+  {
     "file_name": "aws.txt",
     "bow_prediction": "Backend Development",
     "bow_confidence": 0.4544106764986841,
@@ -133,6 +152,25 @@
     ]
   },
   {
+    "file_name": "john_smith_example_resume.txt",
+    "bow_prediction": "Mobile Development",
+    "bow_confidence": 0.9987400739755238,
+    "top_3_categories": [
+      {
+        "category": "Mobile Development",
+        "probability": 0.9987400739755238
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.0012401174720673475
+      },
+      {
+        "category": "Backend Development",
+        "probability": 1.7989920880076614e-05
+      }
+    ]
+  },
+  {
     "file_name": "old-example.txt",
     "bow_prediction": "Data Science & AI/ML",
     "bow_confidence": 0.8100920057305169,
@@ -167,6 +205,25 @@
       {
         "category": "Database Administration",
         "probability": 0.17728117312691852
+      }
+    ]
+  },
+  {
+    "file_name": "patricia_shaw_example_resume.txt",
+    "bow_prediction": "Backend Development",
+    "bow_confidence": 0.5000136186875151,
+    "top_3_categories": [
+      {
+        "category": "Backend Development",
+        "probability": 0.5000136186875151
+      },
+      {
+        "category": "Full Stack Development",
+        "probability": 0.3361149308060548
+      },
+      {
+        "category": "Frontend Development",
+        "probability": 0.10620623156000591
       }
     ]
   },

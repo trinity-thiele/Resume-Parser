@@ -1,5 +1,20 @@
 [
   {
+    "file_name": "adrian_t_sample_resume.txt",
+    "bow_top3": [
+      "Security",
+      "Backend Development",
+      "DevOps & Cloud"
+    ],
+    "spacy_top3": [
+      "Systems Administration",
+      "DevOps & Cloud",
+      "Security"
+    ],
+    "top1_match": false,
+    "top3_overlap": 2
+  },
+  {
     "file_name": "aws.txt",
     "bow_top3": [
       "Backend Development",
@@ -9,10 +24,10 @@
     "spacy_top3": [
       "Full Stack Development",
       "Systems Administration",
-      "DevOps & Cloud"
+      "Backend Development"
     ],
     "top1_match": false,
-    "top3_overlap": 0
+    "top3_overlap": 1
   },
   {
     "file_name": "Bickford-Resume.txt",
@@ -23,11 +38,11 @@
     ],
     "spacy_top3": [
       "Data Science & AI/ML",
-      "Backend Development",
-      "Database Administration"
+      "Content & Documentation",
+      "Engineering Leadership"
     ],
     "top1_match": true,
-    "top3_overlap": 2
+    "top3_overlap": 1
   },
   {
     "file_name": "Brown-Resume.txt",
@@ -53,8 +68,8 @@
     ],
     "spacy_top3": [
       "Full Stack Development",
-      "Backend Development",
-      "Frontend Development"
+      "Frontend Development",
+      "Backend Development"
     ],
     "top1_match": false,
     "top3_overlap": 2
@@ -83,11 +98,11 @@
     ],
     "spacy_top3": [
       "Full Stack Development",
-      "Backend Development",
-      "Frontend Development"
+      "Security",
+      "Systems Administration"
     ],
     "top1_match": false,
-    "top3_overlap": 3
+    "top3_overlap": 1
   },
   {
     "file_name": "Fantigrossi-CV.txt",
@@ -105,6 +120,21 @@
     "top3_overlap": 1
   },
   {
+    "file_name": "john_smith_example_resume.txt",
+    "bow_top3": [
+      "Mobile Development",
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "spacy_top3": [
+      "Mobile Development",
+      "DevOps & Cloud",
+      "Backend Development"
+    ],
+    "top1_match": true,
+    "top3_overlap": 2
+  },
+  {
     "file_name": "old-example.txt",
     "bow_top3": [
       "Data Science & AI/ML",
@@ -112,8 +142,8 @@
       "Specialized Technologies"
     ],
     "spacy_top3": [
-      "Full Stack Development",
       "Frontend Development",
+      "Full Stack Development",
       "Backend Development"
     ],
     "top1_match": false,
@@ -135,6 +165,21 @@
     "top3_overlap": 0
   },
   {
+    "file_name": "patricia_shaw_example_resume.txt",
+    "bow_top3": [
+      "Backend Development",
+      "Full Stack Development",
+      "Frontend Development"
+    ],
+    "spacy_top3": [
+      "Full Stack Development",
+      "Backend Development",
+      "Mobile Development"
+    ],
+    "top1_match": false,
+    "top3_overlap": 2
+  },
+  {
     "file_name": "Thiele-Resume.txt",
     "bow_top3": [
       "Data Science & AI/ML",
@@ -142,11 +187,11 @@
       "Backend Development"
     ],
     "spacy_top3": [
-      "Full Stack Development",
       "Data Science & AI/ML",
+      "Full Stack Development",
       "Frontend Development"
     ],
-    "top1_match": false,
+    "top1_match": true,
     "top3_overlap": 2
   },
   {
@@ -159,9 +204,9 @@
     "spacy_top3": [
       "Full Stack Development",
       "DevOps & Cloud",
-      "Security"
+      "Backend Development"
     ],
     "top1_match": false,
-    "top3_overlap": 1
+    "top3_overlap": 2
   }
 ]

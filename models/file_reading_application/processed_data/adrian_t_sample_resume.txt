@@ -1,0 +1,40 @@
+Adrian T. Reynolds
+Certified IT Professional
+adrian.reynolds@email.com
+linkedin.com/in/adriantreynolds
+Summary
+Innovative and results-driven IT professional with over 6 years of experience in system administration, cloud computing, and cybersecurity. At Excellence Tech Solutions, spearheaded a system migration project that reduced operational costs by 25%. Seeking to leverage technical expertise and problem-solving skills to enhance IT infrastructure at HelionIT.
+Experience
+IT Systems Administrator
+Excellence Tech Solutions, San Francisco, CA
+March 2020–March 2025
+Key Qualifications & Responsibilities
+Managed and maintained IT infrastructure, including networks, servers, and cloud environments.
+Developed and implemented security protocols that reduced cybersecurity incidents by 40%.
+Provided technical support and training to end users, improving overall system efficiency.
+Key Achievements
+Led a migration to a hybrid cloud solution, reducing operational costs by 25%.
+Designed a disaster recovery plan that cut recovery time by 50%.
+IT Support Specialist
+Tech Innovations, Austin, TX
+June 2018–February 2020
+Key Qualifications & Responsibilities
+Provided Tier 2 technical support for 500+ users, ensuring system uptime and resolving issues promptly.
+Configured and maintained IT hardware, software, and security applications.
+Assisted in network troubleshooting and server maintenance tasks.
+Education
+Bachelor of Science in Information Technology
+University of Texas at Austin, Austin, TX
+September 2014–May 2018
+Relevant Coursework: Computer Networks, Cybersecurity, Database Management, Cloud Computing, IT Project Management
+Skills
+System Administration & Troubleshooting
+Cybersecurity & Risk Management
+Cloud Computing (AWS, Azure)
+Network Configuration & Maintenance
+Programming (Python, Java, SQL)
+Technical Support & Help Desk
+Certifications
+CompTIA Security+
+AWS Certified Solutions Architect
+Cisco Certified Network Associate (CCNA)

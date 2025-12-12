@@ -1,4 +1,5 @@
 file_name,bow_prediction,bow_confidence,bow_top3
+adrian_t_sample_resume.txt,Security,0.8170302841529463,Security|Backend Development|DevOps & Cloud
 aws.txt,Backend Development,0.4544106764986841,Backend Development|Frontend Development|Content & Documentation
 Bickford-Resume.txt,Data Science & AI/ML,0.9838450352334046,Data Science & AI/ML|Specialized Technologies|Database Administration
 Brown-Resume.txt,Backend Development,0.5670897130382869,Backend Development|Data Science & AI/ML|Specialized Technologies
@@ -6,7 +7,9 @@ Brown-v2-Resume.txt,Data Science & AI/ML,0.46166512617838995,Data Science & AI/M
 database-admin.txt,Database Administration,0.999983985217736,Database Administration|Backend Development|Data Science & AI/ML
 Eric Ocke Resume.txt,Backend Development,0.6447691341852817,Backend Development|Full Stack Development|Frontend Development
 Fantigrossi-CV.txt,Data Science & AI/ML,0.3252213710580495,Data Science & AI/ML|Quality Assurance|Database Administration
+john_smith_example_resume.txt,Mobile Development,0.9987400739755238,Mobile Development|Frontend Development|Backend Development
 old-example.txt,Data Science & AI/ML,0.8100920057305169,Data Science & AI/ML|Frontend Development|Specialized Technologies
 old-example2.txt,Quality Assurance,0.367065395250579,Quality Assurance|Data Science & AI/ML|Database Administration
+patricia_shaw_example_resume.txt,Backend Development,0.5000136186875151,Backend Development|Full Stack Development|Frontend Development
 Thiele-Resume.txt,Data Science & AI/ML,0.843733657212783,Data Science & AI/ML|Frontend Development|Backend Development
 Tintera-Resume.txt,Backend Development,0.38489926768618127,Backend Development|Full Stack Development|Specialized Technologies

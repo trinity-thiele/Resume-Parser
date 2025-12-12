@@ -1,0 +1,35 @@
+Patricia Shaw
+Entry-Level Software Developer
+patricia.zety.shaw@gmail.com
+267-279-2329
+Objective
+Motivated software engineering graduate from the Rochester Institute of Technology with 6 months experience in software development. IEEE Computer Society Merwin Scholarship winner in 2018. Seeking to use proven skills in JavaScript and project management via JIRA to meet business needs at GFC Inc.
+Education
+2016-2019, B.Sc. in Software Engineering
+Rochester Institute of Technology, New York
+Pursued my passion for software structures through six advanced electives in software systems, architecture, and modeling.
+Member of the RIT Women in Computing and Society of Software Engineers student organizations.
+Article “Why Android is Better Than You Think” was published in TIR SEE newsletter.
+Work Experience
+Entry-Level Software Developer
+Fryction Inc.
+March-Oct 2018
+Assisted in maintenance of software for engineering applications.
+Analyzed user needs and proposed design software solutions to meet them.
+Supporting testing operating systems-level software and filed 150+ upgrade and bug fix reports.
+Committed code to GIT/SVN and created 75+ code reviews.
+Skills
+Teamwork
+Creative thinking
+Analytical thinking
+Java
+Python
+Web programming
+Operating systems software
+Excellent interpersonal skills
+Languages
+French (Advanced, C2)
+German (Basic, A2)
+Hobbies and Interests
+Weekend computer class volunteer at local YMCA.
+Manage web and software engineering blog called “Cup of Java”
